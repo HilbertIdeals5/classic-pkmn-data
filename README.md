@@ -10,6 +10,8 @@ The end result of my personal goals will be present on the web in the near futur
 
 Schema explanation will be made available in the near future. In the meantime, hopefully the column names and data types are not too difficult to piece together.
 
+There is no license. The data itself is not mine, so please use it, rework it, and reshare it freely.
+
 **NOTE:** All encounter data is oriented around the **international releases first**. There are two corrections you need to make manually if you want to use this data for the original Japanese releases:
 
 - **Red & Green in-game trade:** give-Nidoran♂-get-Nidoran♀ in international, is give-Nidoran♀-get-Nidoran♂ in Japan. In other words, the Nidorans' genders are swapped.
