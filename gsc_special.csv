@@ -1,0 +1,36 @@
+G,S,C,species,level,held_item,loc,subloc,how
+1,1,1,Chikorita,5,Berry,New Bark Town,,Choice (forfeit Cyndaquil and Totodile)
+1,1,1,Cyndaquil,5,Berry,New Bark Town,,Choice (forfeit Chikorita and Totodile)
+1,1,1,Totodile,5,Berry,New Bark Town,,Choice (forfeit Chikorita and Cyndaquil)
+1,1,1,Togepi,5,,Violet City,,Gift (Egg) - must defeat Falkner first
+1,1,1,Eevee,20,,Goldenrod City,,Gift - from Bill after meeting him in Ecruteak
+1,1,1,Spearow,20,Flower Mail,Route 35,,Gift - meant to be delivered to Route 31
+1,1,1,Sudowoodo,20,,Route 36,,Encounter with SquirtBottle
+1,1,1,Lapras,20,,Union Cave,B2F,Encounter - only on Fridays
+1,1,1,Shuckle,20,Berry Juice,Cianwood City,,Gift - can be returned to the giver later
+1,1,1,Tyrogue,10,,Mt. Mortar,B1F,Gift - defeat the Karate King
+1,1,1,Gyarados,30,,Lake of Rage,,Encounter - comes Shiny
+1,1,1,Geodude,21,,Lake of Rage,,Rocket Hideout booby trap (7 total)
+1,1,1,Koffing,21,,Lake of Rage,,Rocket Hideout booby trap (7 total)
+1,1,1,Voltorb,23,,Lake of Rage,,Rocket Hideout booby trap (8 total)
+1,1,1,Electrode,23,,Lake of Rage,,Encounter - fake item in Rocket Hideout (3 exist)
+1,1,1,Snorlax,50,Leftovers,Vermilion City,,Encounter with Poké Flute
+1,1,1,Raikou,40,,,,Roaming
+1,1,1,Entei,40,,,,Roaming
+0,0,1,Pichu,5,,Route 34,,Gift - Egg Ticket and Odd Egg; knows Dizzy Punch
+0,0,1,Cleffa,5,,Route 34,,Gift - Egg Ticket and Odd Egg; knows Dizzy Punch
+0,0,1,Igglybuff,5,,Route 34,,Gift - Egg Ticket and Odd Egg; knows Dizzy Punch
+0,0,1,Tyrogue,5,,Route 34,,Gift - Egg Ticket and Odd Egg; knows Dizzy Punch
+0,0,1,Smoochum,5,,Route 34,,Gift - Egg Ticket and Odd Egg; knows Dizzy Punch
+0,0,1,Elekid,5,,Route 34,,Gift - Egg Ticket and Odd Egg; knows Dizzy Punch
+0,0,1,Magby,5,,Route 34,,Gift - Egg Ticket and Odd Egg; knows Dizzy Punch
+0,0,1,Dratini,15,Dragon Scale,Dragon's Den,B1F,Gift - can know ExtremeSpeed; 8% chance of Dragon Scale
+1,1,0,Suicune,40,,,,Roaming
+0,0,1,Suicune,40,,Tin Tower,,Encounter - after a sequence of events
+1,0,0,Lugia,70,,Whirl Islands,B2F Inner,Encounter with Silver Wing
+0,1,0,Lugia,40,,Whirl Islands,B2F Inner,Encounter with Silver Wing
+0,0,1,Lugia,60,,Whirl Islands,B2F Inner,Encounter with Silver Wing
+1,0,0,Ho-Oh,40,Sacred Ash,Tin Tower,Roof,Encounter with Rainbow Wing
+0,1,0,Ho-Oh,70,Sacred Ash,Tin Tower,Roof,Encounter with Rainbow Wing
+0,0,1,Ho-Oh,60,Sacred Ash,Tin Tower,Roof,Encounter with Rainbow Wing
+0,0,1,Celebi,30,MiracleBerry,Ilex Forest,,Encounter with GS Ball at shrine

@@ -1,0 +1,35 @@
+game,loc,get,held_item,give
+R,Route 2,Mr. Mime,Bitter Berry,Abra
+R,Route 5,Nidoran♀,TM43 (Detect),Nidoran♂
+R,Route 11,Nidorina,Berry,Nidorino
+R,Route 18,Lickitung,Bitter Berry,Slowbro
+R,Cerulean City,Jynx,Bitter Berry,Poliwhirl
+R,Vermilion City,Farfetch'd,Bitter Berry,Spearow
+R,Cinnabar Island,Electrode,Silver Leaf,Raichu
+R,Cinnabar Island,Tangela,Bitter Berry,Venonat
+R,Cinnabar Island,Seel,Berry,Ponyta
+G,Route 2,Mr. Mime,Bitter Berry,Abra
+G,Route 5,Nidoran♀,TM43 (Detect),Nidoran♂
+G,Route 11,Nidorina,Berry,Nidorino
+G,Route 18,Lickitung,Bitter Berry,Slowbro
+G,Cerulean City,Jynx,Bitter Berry,Poliwhirl
+G,Vermilion City,Farfetch'd,Bitter Berry,Spearow
+G,Cinnabar Island,Electrode,Silver Leaf,Raichu
+G,Cinnabar Island,Tangela,Bitter Berry,Venonat
+G,Cinnabar Island,Seel,Berry,Ponyta
+B,Route 2,Mr. Mime,Bitter Berry,Jigglypuff
+B,Route 5,Poliwag,Berry,Rattata
+B,Route 11,Kangaskhan,Bitter Berry,Rhydon
+B,Route 18,Tauros,Bitter Berry,Persian
+B,Cerulean City,Haunter,Bitter Berry,Machoke
+B,Vermilion City,Farfetch'd,Bitter Berry,Pidgey
+B,Cinnabar Island,Graveler,Bitter Berry,Kadabra
+B,Cinnabar Island,Slowpoke,Berry,Seel
+B,Cinnabar Island,Krabby,TM13 (Snore),Growlithe
+Y,Route 2,Mr. Mime,Bitter Berry,Clefairy
+Y,Route 5,Machoke,Bitter Berry,Cubone
+Y,Route 11,Dugtrio,Gold Berry,Lickitung
+Y,Route 18,Parasect,Gold Leaf,Tangela
+Y,Cinnabar Island,Rhydon,Silver Leaf,Golduck
+Y,Cinnabar Island,Dewgong,Gold Leaf,Growlithe
+Y,Cinnabar Island,Muk,Gold Leaf,Kangaskhan

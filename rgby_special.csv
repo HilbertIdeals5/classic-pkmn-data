@@ -1,0 +1,24 @@
+R,G,B,Y,species,level,loc,subloc,how
+1,1,1,1,Magikarp,5,Route 4,,Buy for ¥500
+1,1,1,1,Snorlax,30,Route 12,,Encounter with Poké Flute
+1,1,1,1,Snorlax,30,Route 16,,Encounter with Poké Flute
+1,1,1,1,Hitmonlee,30,Saffron City,,Choice (forfeit Hitmonchan)
+1,1,1,1,Hitmonchan,30,Saffron City,,Choice (forfeit Hitmonlee)
+1,1,1,1,Lapras,15,Saffron City,,Gift
+1,1,1,1,Omanyte,30,Mt. Moon,B2F,Choice (forfeit Kabuto); from Helix Fossil
+1,1,1,1,Kabuto,30,Mt. Moon,B2F,Choice (forfeit Omanyte); from Dome Fossil
+1,1,1,1,Aerodactyl,30,Pewter City,,From Old Amber
+1,1,1,1,Articuno,50,Seafoam Islands,B4F,Encounter
+1,1,1,1,Zapdos,50,Power Plant,,Encounter
+1,1,1,1,Moltres,50,Victory Road,2F,Encounter
+1,1,1,1,Mewtwo,70,Cerulean Cave,B1F,Encounter
+1,1,1,0,Bulbasaur,5,Pallet Town,,Choice (forfeit Charmander and Squirtle)
+1,1,1,0,Charmander,5,Pallet Town,,Choice (forfeit Bulbasaur and Squirtle)
+1,1,1,0,Squirtle,5,Pallet Town,,Choice (forfeit Bulbasaur and Charmander)
+1,1,1,1,Eevee,25,Celadon City,,Gift - ball in Celadon Mansion
+0,0,0,1,Pikachu,5,Pallet Town,,Gift - starter; holds Light Ball
+0,0,0,1,Bulbasaur,10,Cerulean City,,Gift - Pikachu with ≥147 friendship
+0,0,0,1,Charmander,10,Route 24,,Gift
+0,0,0,1,Squirtle,10,Vermilion City,,Gift - must defeat Lt. Surge first
+1,1,1,1,Voltorb,40,Power Plant,,Encounter - fake item (6 exist)
+1,1,1,1,Electrode,43,Power Plant,,Encounter - fake item (2 exist)

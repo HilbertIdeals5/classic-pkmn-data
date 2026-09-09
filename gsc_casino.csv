@@ -1,0 +1,19 @@
+game,loc,species,level,cost
+G,Celadon City,Mr. Mime,15,3333
+G,Celadon City,Eevee,15,6666
+G,Celadon City,Porygon,20,9999
+S,Celadon City,Mr. Mime,15,3333
+S,Celadon City,Eevee,15,6666
+S,Celadon City,Porygon,20,9999
+C,Celadon City,Pikachu,25,2222
+C,Celadon City,Porygon,15,5555
+C,Celadon City,Larvitar,40,8888
+G,Goldenrod City,Abra,10,200
+G,Goldenrod City,Ekans,10,700
+G,Goldenrod City,Dratini,10,2100
+S,Goldenrod City,Abra,10,200
+S,Goldenrod City,Sandshrew,10,700
+S,Goldenrod City,Dratini,10,2100
+C,Goldenrod City,Abra,5,100
+C,Goldenrod City,Cubone,15,800
+C,Goldenrod City,Wobbuffet,15,1500

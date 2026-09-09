@@ -1,0 +1,3099 @@
+game,loc,subloc,method,species,level,rate_numerator,rate_denominator
+B,"Celadon City",,"Good Rod",Goldeen,10,1,2
+B,"Celadon City",,"Good Rod",Poliwag,10,1,2
+B,"Celadon City",,"Old Rod",Magikarp,5,1,1
+B,"Celadon City",,"Super Rod",Poliwhirl,23,1,2
+B,"Celadon City",,"Super Rod",Slowpoke,15,1,2
+G,"Celadon City",,"Good Rod",Goldeen,10,1,2
+G,"Celadon City",,"Good Rod",Poliwag,10,1,2
+G,"Celadon City",,"Old Rod",Magikarp,5,1,1
+G,"Celadon City",,"Super Rod",Poliwhirl,23,1,2
+G,"Celadon City",,"Super Rod",Slowpoke,15,1,2
+R,"Celadon City",,"Good Rod",Goldeen,10,1,2
+R,"Celadon City",,"Good Rod",Poliwag,10,1,2
+R,"Celadon City",,"Old Rod",Magikarp,5,1,1
+R,"Celadon City",,"Super Rod",Poliwhirl,23,1,2
+R,"Celadon City",,"Super Rod",Slowpoke,15,1,2
+Y,"Celadon City",,"Good Rod",Goldeen,10,1,2
+Y,"Celadon City",,"Good Rod",Poliwag,10,1,2
+Y,"Celadon City",,"Old Rod",Magikarp,5,1,1
+Y,"Celadon City",,"Super Rod",Goldeen,5,102,256
+Y,"Celadon City",,"Super Rod",Goldeen,10,76,256
+Y,"Celadon City",,"Super Rod",Goldeen,15,51,256
+Y,"Celadon City",,"Super Rod",Goldeen,20,27,256
+B,"Cerulean Cave",1F,"Good Rod",Goldeen,10,1,2
+B,"Cerulean Cave",1F,"Good Rod",Poliwag,10,1,2
+B,"Cerulean Cave",1F,"Old Rod",Magikarp,5,1,1
+B,"Cerulean Cave",1F,"Super Rod",Kingler,23,1,4
+B,"Cerulean Cave",1F,"Super Rod",Seadra,23,1,4
+B,"Cerulean Cave",1F,"Super Rod",Seaking,23,1,4
+B,"Cerulean Cave",1F,"Super Rod",Slowbro,23,1,4
+B,"Cerulean Cave",1F,Walk,Ditto,53,3,256
+B,"Cerulean Cave",1F,Walk,Golbat,46,51,256
+B,"Cerulean Cave",1F,Walk,Hypno,46,51,256
+B,"Cerulean Cave",1F,Walk,Kadabra,49,13,256
+B,"Cerulean Cave",1F,Walk,Magneton,46,39,256
+B,"Cerulean Cave",1F,Walk,Parasect,52,13,256
+B,"Cerulean Cave",1F,Walk,Raichu,53,11,256
+B,"Cerulean Cave",1F,Walk,Rapidash,49,25,256
+B,"Cerulean Cave",1F,Walk,Sandslash,52,25,256
+B,"Cerulean Cave",1F,Walk,Venomoth,49,25,256
+B,"Cerulean Cave",2F,Walk,Chansey,56,13,256
+B,"Cerulean Cave",2F,Walk,Ditto,55,11,256
+B,"Cerulean Cave",2F,Walk,Ditto,60,3,256
+B,"Cerulean Cave",2F,Walk,Dodrio,51,51,256
+B,"Cerulean Cave",2F,Walk,Electrode,52,25,256
+B,"Cerulean Cave",2F,Walk,Kadabra,51,39,256
+B,"Cerulean Cave",2F,Walk,Raticate,52,25,256
+B,"Cerulean Cave",2F,Walk,Rhydon,52,25,256
+B,"Cerulean Cave",2F,Walk,Venomoth,51,51,256
+B,"Cerulean Cave",2F,Walk,Wigglytuff,54,13,256
+B,"Cerulean Cave",B1F,"Good Rod",Goldeen,10,1,2
+B,"Cerulean Cave",B1F,"Good Rod",Poliwag,10,1,2
+B,"Cerulean Cave",B1F,"Old Rod",Magikarp,5,1,1
+B,"Cerulean Cave",B1F,"Super Rod",Kingler,23,1,4
+B,"Cerulean Cave",B1F,"Super Rod",Seadra,23,1,4
+B,"Cerulean Cave",B1F,"Super Rod",Seaking,23,1,4
+B,"Cerulean Cave",B1F,"Super Rod",Slowbro,23,1,4
+B,"Cerulean Cave",B1F,Walk,Clefairy,64,25,256
+B,"Cerulean Cave",B1F,Walk,Ditto,63,11,256
+B,"Cerulean Cave",B1F,Walk,Ditto,65,13,256
+B,"Cerulean Cave",B1F,Walk,Ditto,67,3,256
+B,"Cerulean Cave",B1F,Walk,Electrode,55,39,256
+B,"Cerulean Cave",B1F,Walk,Marowak,55,51,256
+B,"Cerulean Cave",B1F,Walk,Parasect,64,25,256
+B,"Cerulean Cave",B1F,Walk,Raichu,64,25,256
+B,"Cerulean Cave",B1F,Walk,Rhydon,55,51,256
+B,"Cerulean Cave",B1F,Walk,Sandslash,57,13,256
+G,"Cerulean Cave",1F,"Good Rod",Goldeen,10,1,2
+G,"Cerulean Cave",1F,"Good Rod",Poliwag,10,1,2
+G,"Cerulean Cave",1F,"Old Rod",Magikarp,5,1,1
+G,"Cerulean Cave",1F,"Super Rod",Kingler,23,1,4
+G,"Cerulean Cave",1F,"Super Rod",Seadra,23,1,4
+G,"Cerulean Cave",1F,"Super Rod",Seaking,23,1,4
+G,"Cerulean Cave",1F,"Super Rod",Slowbro,23,1,4
+G,"Cerulean Cave",1F,Walk,Ditto,53,3,256
+G,"Cerulean Cave",1F,Walk,Dodrio,49,25,256
+G,"Cerulean Cave",1F,Walk,Golbat,46,51,256
+G,"Cerulean Cave",1F,Walk,Hypno,46,51,256
+G,"Cerulean Cave",1F,Walk,Kadabra,49,13,256
+G,"Cerulean Cave",1F,Walk,Magneton,46,39,256
+G,"Cerulean Cave",1F,Walk,Parasect,52,13,256
+G,"Cerulean Cave",1F,Walk,Raichu,53,11,256
+G,"Cerulean Cave",1F,Walk,Sandslash,52,25,256
+G,"Cerulean Cave",1F,Walk,Venomoth,49,25,256
+G,"Cerulean Cave",2F,Walk,Chansey,56,13,256
+G,"Cerulean Cave",2F,Walk,Ditto,55,11,256
+G,"Cerulean Cave",2F,Walk,Ditto,60,3,256
+G,"Cerulean Cave",2F,Walk,Dodrio,51,51,256
+G,"Cerulean Cave",2F,Walk,Electrode,52,25,256
+G,"Cerulean Cave",2F,Walk,Kadabra,51,39,256
+G,"Cerulean Cave",2F,Walk,Marowak,52,25,256
+G,"Cerulean Cave",2F,Walk,Rhydon,52,25,256
+G,"Cerulean Cave",2F,Walk,Venomoth,51,51,256
+G,"Cerulean Cave",2F,Walk,Wigglytuff,54,13,256
+G,"Cerulean Cave",B1F,"Good Rod",Goldeen,10,1,2
+G,"Cerulean Cave",B1F,"Good Rod",Poliwag,10,1,2
+G,"Cerulean Cave",B1F,"Old Rod",Magikarp,5,1,1
+G,"Cerulean Cave",B1F,"Super Rod",Kingler,23,1,4
+G,"Cerulean Cave",B1F,"Super Rod",Seadra,23,1,4
+G,"Cerulean Cave",B1F,"Super Rod",Seaking,23,1,4
+G,"Cerulean Cave",B1F,"Super Rod",Slowbro,23,1,4
+G,"Cerulean Cave",B1F,Walk,Chansey,64,25,256
+G,"Cerulean Cave",B1F,Walk,Ditto,63,11,256
+G,"Cerulean Cave",B1F,Walk,Ditto,65,13,256
+G,"Cerulean Cave",B1F,Walk,Ditto,67,3,256
+G,"Cerulean Cave",B1F,Walk,Electrode,55,39,256
+G,"Cerulean Cave",B1F,Walk,Marowak,55,51,256
+G,"Cerulean Cave",B1F,Walk,Parasect,64,25,256
+G,"Cerulean Cave",B1F,Walk,Raichu,64,25,256
+G,"Cerulean Cave",B1F,Walk,Rhydon,55,51,256
+G,"Cerulean Cave",B1F,Walk,Sandslash,57,13,256
+R,"Cerulean Cave",1F,"Good Rod",Goldeen,10,1,2
+R,"Cerulean Cave",1F,"Good Rod",Poliwag,10,1,2
+R,"Cerulean Cave",1F,"Old Rod",Magikarp,5,1,1
+R,"Cerulean Cave",1F,"Super Rod",Kingler,23,1,4
+R,"Cerulean Cave",1F,"Super Rod",Seadra,23,1,4
+R,"Cerulean Cave",1F,"Super Rod",Seaking,23,1,4
+R,"Cerulean Cave",1F,"Super Rod",Slowbro,23,1,4
+R,"Cerulean Cave",1F,Walk,Arbok,52,25,256
+R,"Cerulean Cave",1F,Walk,Ditto,53,3,256
+R,"Cerulean Cave",1F,Walk,Dodrio,49,25,256
+R,"Cerulean Cave",1F,Walk,Golbat,46,51,256
+R,"Cerulean Cave",1F,Walk,Hypno,46,51,256
+R,"Cerulean Cave",1F,Walk,Kadabra,49,13,256
+R,"Cerulean Cave",1F,Walk,Magneton,46,39,256
+R,"Cerulean Cave",1F,Walk,Parasect,52,13,256
+R,"Cerulean Cave",1F,Walk,Raichu,53,11,256
+R,"Cerulean Cave",1F,Walk,Venomoth,49,25,256
+R,"Cerulean Cave",2F,Walk,Chansey,56,13,256
+R,"Cerulean Cave",2F,Walk,Ditto,55,11,256
+R,"Cerulean Cave",2F,Walk,Ditto,60,3,256
+R,"Cerulean Cave",2F,Walk,Dodrio,51,51,256
+R,"Cerulean Cave",2F,Walk,Electrode,52,25,256
+R,"Cerulean Cave",2F,Walk,Kadabra,51,39,256
+R,"Cerulean Cave",2F,Walk,Marowak,52,25,256
+R,"Cerulean Cave",2F,Walk,Rhydon,52,25,256
+R,"Cerulean Cave",2F,Walk,Venomoth,51,51,256
+R,"Cerulean Cave",2F,Walk,Wigglytuff,54,13,256
+R,"Cerulean Cave",B1F,"Good Rod",Goldeen,10,1,2
+R,"Cerulean Cave",B1F,"Good Rod",Poliwag,10,1,2
+R,"Cerulean Cave",B1F,"Old Rod",Magikarp,5,1,1
+R,"Cerulean Cave",B1F,"Super Rod",Kingler,23,1,4
+R,"Cerulean Cave",B1F,"Super Rod",Seadra,23,1,4
+R,"Cerulean Cave",B1F,"Super Rod",Seaking,23,1,4
+R,"Cerulean Cave",B1F,"Super Rod",Slowbro,23,1,4
+R,"Cerulean Cave",B1F,Walk,Arbok,57,13,256
+R,"Cerulean Cave",B1F,Walk,Chansey,64,25,256
+R,"Cerulean Cave",B1F,Walk,Ditto,63,11,256
+R,"Cerulean Cave",B1F,Walk,Ditto,65,13,256
+R,"Cerulean Cave",B1F,Walk,Ditto,67,3,256
+R,"Cerulean Cave",B1F,Walk,Electrode,55,39,256
+R,"Cerulean Cave",B1F,Walk,Marowak,55,51,256
+R,"Cerulean Cave",B1F,Walk,Parasect,64,25,256
+R,"Cerulean Cave",B1F,Walk,Raichu,64,25,256
+R,"Cerulean Cave",B1F,Walk,Rhydon,55,51,256
+Y,"Cerulean Cave",1F,"Good Rod",Goldeen,10,1,2
+Y,"Cerulean Cave",1F,"Good Rod",Poliwag,10,1,2
+Y,"Cerulean Cave",1F,"Old Rod",Magikarp,5,1,1
+Y,"Cerulean Cave",1F,"Super Rod",Goldeen,25,102,256
+Y,"Cerulean Cave",1F,"Super Rod",Seaking,35,76,256
+Y,"Cerulean Cave",1F,"Super Rod",Seaking,45,51,256
+Y,"Cerulean Cave",1F,"Super Rod",Seaking,55,27,256
+Y,"Cerulean Cave",1F,Walk,Ditto,55,11,256
+Y,"Cerulean Cave",1F,Walk,Ditto,60,3,256
+Y,"Cerulean Cave",1F,Walk,Gloom,55,25,256
+Y,"Cerulean Cave",1F,Walk,Golbat,50,51,256
+Y,"Cerulean Cave",1F,Walk,Golbat,55,51,256
+Y,"Cerulean Cave",1F,Walk,Graveler,45,39,256
+Y,"Cerulean Cave",1F,Walk,Parasect,54,13,256
+Y,"Cerulean Cave",1F,Walk,Sandslash,52,25,256
+Y,"Cerulean Cave",1F,Walk,Venomoth,54,13,256
+Y,"Cerulean Cave",1F,Walk,Weepinbell,55,25,256
+Y,"Cerulean Cave",2F,Walk,Ditto,60,25,256
+Y,"Cerulean Cave",2F,Walk,Gloom,58,13,256
+Y,"Cerulean Cave",2F,Walk,Golbat,52,51,256
+Y,"Cerulean Cave",2F,Walk,Golbat,57,51,256
+Y,"Cerulean Cave",2F,Walk,Graveler,50,39,256
+Y,"Cerulean Cave",2F,Walk,Rhydon,58,3,256
+Y,"Cerulean Cave",2F,Walk,Rhydon,60,11,256
+Y,"Cerulean Cave",2F,Walk,Rhyhorn,50,25,256
+Y,"Cerulean Cave",2F,Walk,Sandslash,56,25,256
+Y,"Cerulean Cave",2F,Walk,Weepinbell,58,13,256
+Y,"Cerulean Cave",B1F,"Good Rod",Goldeen,10,1,2
+Y,"Cerulean Cave",B1F,"Good Rod",Poliwag,10,1,2
+Y,"Cerulean Cave",B1F,"Old Rod",Magikarp,5,1,1
+Y,"Cerulean Cave",B1F,"Super Rod",Goldeen,30,102,256
+Y,"Cerulean Cave",B1F,"Super Rod",Seaking,40,76,256
+Y,"Cerulean Cave",B1F,"Super Rod",Seaking,50,51,256
+Y,"Cerulean Cave",B1F,"Super Rod",Seaking,60,27,256
+Y,"Cerulean Cave",B1F,Walk,Chansey,56,13,256
+Y,"Cerulean Cave",B1F,Walk,Ditto,60,25,256
+Y,"Cerulean Cave",B1F,Walk,Ditto,65,13,256
+Y,"Cerulean Cave",B1F,Walk,Golbat,54,51,256
+Y,"Cerulean Cave",B1F,Walk,Golbat,59,51,256
+Y,"Cerulean Cave",B1F,Walk,Graveler,55,39,256
+Y,"Cerulean Cave",B1F,Walk,Lickitung,50,3,256
+Y,"Cerulean Cave",B1F,Walk,Lickitung,55,11,256
+Y,"Cerulean Cave",B1F,Walk,Rhydon,62,25,256
+Y,"Cerulean Cave",B1F,Walk,Rhyhorn,52,25,256
+B,"Cerulean City",,"Good Rod",Goldeen,10,1,2
+B,"Cerulean City",,"Good Rod",Poliwag,10,1,2
+B,"Cerulean City",,"Old Rod",Magikarp,5,1,1
+B,"Cerulean City",,"Super Rod",Goldeen,15,1,3
+B,"Cerulean City",,"Super Rod",Krabby,15,1,3
+B,"Cerulean City",,"Super Rod",Psyduck,15,1,3
+G,"Cerulean City",,"Good Rod",Goldeen,10,1,2
+G,"Cerulean City",,"Good Rod",Poliwag,10,1,2
+G,"Cerulean City",,"Old Rod",Magikarp,5,1,1
+G,"Cerulean City",,"Super Rod",Goldeen,15,1,3
+G,"Cerulean City",,"Super Rod",Krabby,15,1,3
+G,"Cerulean City",,"Super Rod",Psyduck,15,1,3
+R,"Cerulean City",,"Good Rod",Goldeen,10,1,2
+R,"Cerulean City",,"Good Rod",Poliwag,10,1,2
+R,"Cerulean City",,"Old Rod",Magikarp,5,1,1
+R,"Cerulean City",,"Super Rod",Goldeen,15,1,3
+R,"Cerulean City",,"Super Rod",Krabby,15,1,3
+R,"Cerulean City",,"Super Rod",Psyduck,15,1,3
+Y,"Cerulean City",,"Good Rod",Goldeen,10,1,2
+Y,"Cerulean City",,"Good Rod",Poliwag,10,1,2
+Y,"Cerulean City",,"Old Rod",Magikarp,5,1,1
+Y,"Cerulean City",,"Super Rod",Goldeen,25,102,256
+Y,"Cerulean City",,"Super Rod",Goldeen,30,76,256
+Y,"Cerulean City",,"Super Rod",Seaking,30,51,256
+Y,"Cerulean City",,"Super Rod",Seaking,40,27,256
+B,"Cerulean Gym",,"Good Rod",Goldeen,10,1,2
+B,"Cerulean Gym",,"Good Rod",Poliwag,10,1,2
+B,"Cerulean Gym",,"Old Rod",Magikarp,5,1,1
+B,"Cerulean Gym",,"Super Rod",Goldeen,15,1,3
+B,"Cerulean Gym",,"Super Rod",Krabby,15,1,3
+B,"Cerulean Gym",,"Super Rod",Psyduck,15,1,3
+G,"Cerulean Gym",,"Good Rod",Goldeen,10,1,2
+G,"Cerulean Gym",,"Good Rod",Poliwag,10,1,2
+G,"Cerulean Gym",,"Old Rod",Magikarp,5,1,1
+G,"Cerulean Gym",,"Super Rod",Goldeen,15,1,3
+G,"Cerulean Gym",,"Super Rod",Krabby,15,1,3
+G,"Cerulean Gym",,"Super Rod",Psyduck,15,1,3
+R,"Cerulean Gym",,"Good Rod",Goldeen,10,1,2
+R,"Cerulean Gym",,"Good Rod",Poliwag,10,1,2
+R,"Cerulean Gym",,"Old Rod",Magikarp,5,1,1
+R,"Cerulean Gym",,"Super Rod",Goldeen,15,1,3
+R,"Cerulean Gym",,"Super Rod",Krabby,15,1,3
+R,"Cerulean Gym",,"Super Rod",Psyduck,15,1,3
+Y,"Cerulean Gym",,"Good Rod",Goldeen,10,1,2
+Y,"Cerulean Gym",,"Good Rod",Poliwag,10,1,2
+Y,"Cerulean Gym",,"Old Rod",Magikarp,5,1,1
+B,"Cinnabar Island",,"Good Rod",Goldeen,10,1,2
+B,"Cinnabar Island",,"Good Rod",Poliwag,10,1,2
+B,"Cinnabar Island",,"Old Rod",Magikarp,5,1,1
+B,"Cinnabar Island",,"Super Rod",Goldeen,15,1,4
+B,"Cinnabar Island",,"Super Rod",Horsea,15,1,4
+B,"Cinnabar Island",,"Super Rod",Shellder,15,1,4
+B,"Cinnabar Island",,"Super Rod",Staryu,15,1,4
+G,"Cinnabar Island",,"Good Rod",Goldeen,10,1,2
+G,"Cinnabar Island",,"Good Rod",Poliwag,10,1,2
+G,"Cinnabar Island",,"Old Rod",Magikarp,5,1,1
+G,"Cinnabar Island",,"Super Rod",Goldeen,15,1,4
+G,"Cinnabar Island",,"Super Rod",Horsea,15,1,4
+G,"Cinnabar Island",,"Super Rod",Shellder,15,1,4
+G,"Cinnabar Island",,"Super Rod",Staryu,15,1,4
+R,"Cinnabar Island",,"Good Rod",Goldeen,10,1,2
+R,"Cinnabar Island",,"Good Rod",Poliwag,10,1,2
+R,"Cinnabar Island",,"Old Rod",Magikarp,5,1,1
+R,"Cinnabar Island",,"Super Rod",Goldeen,15,1,4
+R,"Cinnabar Island",,"Super Rod",Horsea,15,1,4
+R,"Cinnabar Island",,"Super Rod",Shellder,15,1,4
+R,"Cinnabar Island",,"Super Rod",Staryu,15,1,4
+Y,"Cinnabar Island",,"Good Rod",Goldeen,10,1,2
+Y,"Cinnabar Island",,"Good Rod",Poliwag,10,1,2
+Y,"Cinnabar Island",,"Old Rod",Magikarp,5,1,1
+Y,"Cinnabar Island",,"Super Rod",Staryu,10,51,256
+Y,"Cinnabar Island",,"Super Rod",Staryu,15,102,256
+Y,"Cinnabar Island",,"Super Rod",Tentacool,15,76,256
+Y,"Cinnabar Island",,"Super Rod",Tentacool,30,27,256
+B,"Diglett's Cave",,Walk,Diglett,15,25,256
+B,"Diglett's Cave",,Walk,Diglett,16,25,256
+B,"Diglett's Cave",,Walk,Diglett,17,39,256
+B,"Diglett's Cave",,Walk,Diglett,18,51,256
+B,"Diglett's Cave",,Walk,Diglett,19,51,256
+B,"Diglett's Cave",,Walk,Diglett,20,25,256
+B,"Diglett's Cave",,Walk,Diglett,21,13,256
+B,"Diglett's Cave",,Walk,Diglett,22,13,256
+B,"Diglett's Cave",,Walk,Dugtrio,29,11,256
+B,"Diglett's Cave",,Walk,Dugtrio,31,3,256
+G,"Diglett's Cave",,Walk,Diglett,15,25,256
+G,"Diglett's Cave",,Walk,Diglett,16,25,256
+G,"Diglett's Cave",,Walk,Diglett,17,39,256
+G,"Diglett's Cave",,Walk,Diglett,18,51,256
+G,"Diglett's Cave",,Walk,Diglett,19,51,256
+G,"Diglett's Cave",,Walk,Diglett,20,25,256
+G,"Diglett's Cave",,Walk,Diglett,21,13,256
+G,"Diglett's Cave",,Walk,Diglett,22,13,256
+G,"Diglett's Cave",,Walk,Dugtrio,29,11,256
+G,"Diglett's Cave",,Walk,Dugtrio,31,3,256
+R,"Diglett's Cave",,Walk,Diglett,15,25,256
+R,"Diglett's Cave",,Walk,Diglett,16,25,256
+R,"Diglett's Cave",,Walk,Diglett,17,39,256
+R,"Diglett's Cave",,Walk,Diglett,18,51,256
+R,"Diglett's Cave",,Walk,Diglett,19,51,256
+R,"Diglett's Cave",,Walk,Diglett,20,25,256
+R,"Diglett's Cave",,Walk,Diglett,21,13,256
+R,"Diglett's Cave",,Walk,Diglett,22,13,256
+R,"Diglett's Cave",,Walk,Dugtrio,29,11,256
+R,"Diglett's Cave",,Walk,Dugtrio,31,3,256
+Y,"Diglett's Cave",,Walk,Diglett,15,25,256
+Y,"Diglett's Cave",,Walk,Diglett,16,25,256
+Y,"Diglett's Cave",,Walk,Diglett,17,39,256
+Y,"Diglett's Cave",,Walk,Diglett,18,51,256
+Y,"Diglett's Cave",,Walk,Diglett,19,51,256
+Y,"Diglett's Cave",,Walk,Diglett,20,25,256
+Y,"Diglett's Cave",,Walk,Diglett,21,13,256
+Y,"Diglett's Cave",,Walk,Diglett,22,13,256
+Y,"Diglett's Cave",,Walk,Dugtrio,29,11,256
+Y,"Diglett's Cave",,Walk,Dugtrio,31,3,256
+B,"Fuchsia City",,"Good Rod",Goldeen,10,1,2
+B,"Fuchsia City",,"Good Rod",Poliwag,10,1,2
+B,"Fuchsia City",,"Old Rod",Magikarp,5,1,1
+B,"Fuchsia City",,"Super Rod",Goldeen,15,1,4
+B,"Fuchsia City",,"Super Rod",Krabby,15,1,4
+B,"Fuchsia City",,"Super Rod",Magikarp,15,1,4
+B,"Fuchsia City",,"Super Rod",Seaking,23,1,4
+G,"Fuchsia City",,"Good Rod",Goldeen,10,1,2
+G,"Fuchsia City",,"Good Rod",Poliwag,10,1,2
+G,"Fuchsia City",,"Old Rod",Magikarp,5,1,1
+G,"Fuchsia City",,"Super Rod",Goldeen,15,1,4
+G,"Fuchsia City",,"Super Rod",Krabby,15,1,4
+G,"Fuchsia City",,"Super Rod",Magikarp,15,1,4
+G,"Fuchsia City",,"Super Rod",Seaking,23,1,4
+R,"Fuchsia City",,"Good Rod",Goldeen,10,1,2
+R,"Fuchsia City",,"Good Rod",Poliwag,10,1,2
+R,"Fuchsia City",,"Old Rod",Magikarp,5,1,1
+R,"Fuchsia City",,"Super Rod",Goldeen,15,1,4
+R,"Fuchsia City",,"Super Rod",Krabby,15,1,4
+R,"Fuchsia City",,"Super Rod",Magikarp,15,1,4
+R,"Fuchsia City",,"Super Rod",Seaking,23,1,4
+Y,"Fuchsia City",,"Good Rod",Goldeen,10,1,2
+Y,"Fuchsia City",,"Good Rod",Poliwag,10,1,2
+Y,"Fuchsia City",,"Old Rod",Magikarp,5,1,1
+Y,"Fuchsia City",,"Super Rod",Gyarados,15,27,256
+Y,"Fuchsia City",,"Super Rod",Magikarp,5,102,256
+Y,"Fuchsia City",,"Super Rod",Magikarp,10,76,256
+Y,"Fuchsia City",,"Super Rod",Magikarp,15,51,256
+B,"Mt. Moon",1F,Walk,Clefairy,8,3,256
+B,"Mt. Moon",1F,Walk,Geodude,8,25,256
+B,"Mt. Moon",1F,Walk,Geodude,10,13,256
+B,"Mt. Moon",1F,Walk,Paras,8,13,256
+B,"Mt. Moon",1F,Walk,Zubat,6,25,256
+B,"Mt. Moon",1F,Walk,Zubat,7,51,256
+B,"Mt. Moon",1F,Walk,Zubat,8,51,256
+B,"Mt. Moon",1F,Walk,Zubat,9,39,256
+B,"Mt. Moon",1F,Walk,Zubat,10,25,256
+B,"Mt. Moon",1F,Walk,Zubat,11,11,256
+B,"Mt. Moon",B1F,Walk,Clefairy,9,11,256
+B,"Mt. Moon",B1F,Walk,Geodude,7,39,256
+B,"Mt. Moon",B1F,Walk,Geodude,8,25,256
+B,"Mt. Moon",B1F,Walk,Geodude,9,3,256
+B,"Mt. Moon",B1F,Walk,Paras,10,25,256
+B,"Mt. Moon",B1F,Walk,Zubat,7,51,256
+B,"Mt. Moon",B1F,Walk,Zubat,8,51,256
+B,"Mt. Moon",B1F,Walk,Zubat,9,25,256
+B,"Mt. Moon",B1F,Walk,Zubat,10,13,256
+B,"Mt. Moon",B1F,Walk,Zubat,11,13,256
+B,"Mt. Moon",B2F,Walk,Clefairy,10,13,256
+B,"Mt. Moon",B2F,Walk,Clefairy,12,3,256
+B,"Mt. Moon",B2F,Walk,Geodude,9,51,256
+B,"Mt. Moon",B2F,Walk,Geodude,10,25,256
+B,"Mt. Moon",B2F,Walk,Paras,10,25,256
+B,"Mt. Moon",B2F,Walk,Paras,12,13,256
+B,"Mt. Moon",B2F,Walk,Zubat,9,51,256
+B,"Mt. Moon",B2F,Walk,Zubat,10,39,256
+B,"Mt. Moon",B2F,Walk,Zubat,11,25,256
+B,"Mt. Moon",B2F,Walk,Zubat,12,11,256
+G,"Mt. Moon",1F,Walk,Clefairy,8,3,256
+G,"Mt. Moon",1F,Walk,Geodude,8,25,256
+G,"Mt. Moon",1F,Walk,Geodude,10,13,256
+G,"Mt. Moon",1F,Walk,Paras,8,13,256
+G,"Mt. Moon",1F,Walk,Zubat,6,25,256
+G,"Mt. Moon",1F,Walk,Zubat,7,51,256
+G,"Mt. Moon",1F,Walk,Zubat,8,51,256
+G,"Mt. Moon",1F,Walk,Zubat,9,39,256
+G,"Mt. Moon",1F,Walk,Zubat,10,25,256
+G,"Mt. Moon",1F,Walk,Zubat,11,11,256
+G,"Mt. Moon",B1F,Walk,Clefairy,9,11,256
+G,"Mt. Moon",B1F,Walk,Geodude,7,39,256
+G,"Mt. Moon",B1F,Walk,Geodude,8,25,256
+G,"Mt. Moon",B1F,Walk,Geodude,9,3,256
+G,"Mt. Moon",B1F,Walk,Paras,10,25,256
+G,"Mt. Moon",B1F,Walk,Zubat,7,51,256
+G,"Mt. Moon",B1F,Walk,Zubat,8,51,256
+G,"Mt. Moon",B1F,Walk,Zubat,9,25,256
+G,"Mt. Moon",B1F,Walk,Zubat,10,13,256
+G,"Mt. Moon",B1F,Walk,Zubat,11,13,256
+G,"Mt. Moon",B2F,Walk,Clefairy,10,13,256
+G,"Mt. Moon",B2F,Walk,Clefairy,12,3,256
+G,"Mt. Moon",B2F,Walk,Geodude,9,51,256
+G,"Mt. Moon",B2F,Walk,Geodude,10,25,256
+G,"Mt. Moon",B2F,Walk,Paras,10,25,256
+G,"Mt. Moon",B2F,Walk,Paras,12,13,256
+G,"Mt. Moon",B2F,Walk,Zubat,9,51,256
+G,"Mt. Moon",B2F,Walk,Zubat,10,39,256
+G,"Mt. Moon",B2F,Walk,Zubat,11,25,256
+G,"Mt. Moon",B2F,Walk,Zubat,12,11,256
+R,"Mt. Moon",1F,Walk,Clefairy,8,3,256
+R,"Mt. Moon",1F,Walk,Geodude,8,25,256
+R,"Mt. Moon",1F,Walk,Geodude,10,13,256
+R,"Mt. Moon",1F,Walk,Paras,8,13,256
+R,"Mt. Moon",1F,Walk,Zubat,6,25,256
+R,"Mt. Moon",1F,Walk,Zubat,7,51,256
+R,"Mt. Moon",1F,Walk,Zubat,8,51,256
+R,"Mt. Moon",1F,Walk,Zubat,9,39,256
+R,"Mt. Moon",1F,Walk,Zubat,10,25,256
+R,"Mt. Moon",1F,Walk,Zubat,11,11,256
+R,"Mt. Moon",B1F,Walk,Clefairy,9,11,256
+R,"Mt. Moon",B1F,Walk,Geodude,7,39,256
+R,"Mt. Moon",B1F,Walk,Geodude,8,25,256
+R,"Mt. Moon",B1F,Walk,Geodude,9,3,256
+R,"Mt. Moon",B1F,Walk,Paras,10,25,256
+R,"Mt. Moon",B1F,Walk,Zubat,7,51,256
+R,"Mt. Moon",B1F,Walk,Zubat,8,51,256
+R,"Mt. Moon",B1F,Walk,Zubat,9,25,256
+R,"Mt. Moon",B1F,Walk,Zubat,10,13,256
+R,"Mt. Moon",B1F,Walk,Zubat,11,13,256
+R,"Mt. Moon",B2F,Walk,Clefairy,10,13,256
+R,"Mt. Moon",B2F,Walk,Clefairy,12,3,256
+R,"Mt. Moon",B2F,Walk,Geodude,9,51,256
+R,"Mt. Moon",B2F,Walk,Geodude,10,25,256
+R,"Mt. Moon",B2F,Walk,Paras,10,25,256
+R,"Mt. Moon",B2F,Walk,Paras,12,13,256
+R,"Mt. Moon",B2F,Walk,Zubat,9,51,256
+R,"Mt. Moon",B2F,Walk,Zubat,10,39,256
+R,"Mt. Moon",B2F,Walk,Zubat,11,25,256
+R,"Mt. Moon",B2F,Walk,Zubat,12,11,256
+Y,"Mt. Moon",1F,Walk,Clefairy,11,3,256
+Y,"Mt. Moon",1F,Walk,Geodude,10,52,256
+Y,"Mt. Moon",1F,Walk,Sandshrew,12,11,256
+Y,"Mt. Moon",1F,Walk,Zubat,6,25,256
+Y,"Mt. Moon",1F,Walk,Zubat,7,25,256
+Y,"Mt. Moon",1F,Walk,Zubat,8,51,256
+Y,"Mt. Moon",1F,Walk,Zubat,9,51,256
+Y,"Mt. Moon",1F,Walk,Zubat,10,25,256
+Y,"Mt. Moon",1F,Walk,Zubat,11,13,256
+Y,"Mt. Moon",B1F,Walk,Clefairy,10,11,256
+Y,"Mt. Moon",B1F,Walk,Clefairy,12,3,256
+Y,"Mt. Moon",B1F,Walk,Geodude,10,25,256
+Y,"Mt. Moon",B1F,Walk,Geodude,11,25,256
+Y,"Mt. Moon",B1F,Walk,Paras,9,13,256
+Y,"Mt. Moon",B1F,Walk,Paras,11,13,256
+Y,"Mt. Moon",B1F,Walk,Zubat,8,51,256
+Y,"Mt. Moon",B1F,Walk,Zubat,9,51,256
+Y,"Mt. Moon",B1F,Walk,Zubat,10,39,256
+Y,"Mt. Moon",B1F,Walk,Zubat,11,25,256
+Y,"Mt. Moon",B2F,Walk,Clefairy,9,13,256
+Y,"Mt. Moon",B2F,Walk,Clefairy,11,11,256
+Y,"Mt. Moon",B2F,Walk,Clefairy,13,3,256
+Y,"Mt. Moon",B2F,Walk,Geodude,11,51,256
+Y,"Mt. Moon",B2F,Walk,Paras,13,39,256
+Y,"Mt. Moon",B2F,Walk,Zubat,10,51,256
+Y,"Mt. Moon",B2F,Walk,Zubat,11,50,256
+Y,"Mt. Moon",B2F,Walk,Zubat,12,25,256
+Y,"Mt. Moon",B2F,Walk,Zubat,13,13,256
+B,"Pallet Town",,"Good Rod",Goldeen,10,1,2
+B,"Pallet Town",,"Good Rod",Poliwag,10,1,2
+B,"Pallet Town",,"Old Rod",Magikarp,5,1,1
+B,"Pallet Town",,"Super Rod",Poliwag,15,1,2
+B,"Pallet Town",,"Super Rod",Tentacool,15,1,2
+G,"Pallet Town",,"Good Rod",Goldeen,10,1,2
+G,"Pallet Town",,"Good Rod",Poliwag,10,1,2
+G,"Pallet Town",,"Old Rod",Magikarp,5,1,1
+G,"Pallet Town",,"Super Rod",Poliwag,15,1,2
+G,"Pallet Town",,"Super Rod",Tentacool,15,1,2
+R,"Pallet Town",,"Good Rod",Goldeen,10,1,2
+R,"Pallet Town",,"Good Rod",Poliwag,10,1,2
+R,"Pallet Town",,"Old Rod",Magikarp,5,1,1
+R,"Pallet Town",,"Super Rod",Poliwag,15,1,2
+R,"Pallet Town",,"Super Rod",Tentacool,15,1,2
+Y,"Pallet Town",,"Good Rod",Goldeen,10,1,2
+Y,"Pallet Town",,"Good Rod",Poliwag,10,1,2
+Y,"Pallet Town",,"Old Rod",Magikarp,5,1,1
+Y,"Pallet Town",,"Super Rod",Staryu,5,51,256
+Y,"Pallet Town",,"Super Rod",Staryu,10,102,256
+Y,"Pallet Town",,"Super Rod",Tentacool,10,76,256
+Y,"Pallet Town",,"Super Rod",Tentacool,20,27,256
+B,"Pokémon Mansion",1F,Walk,Grimer,30,51,256
+B,"Pokémon Mansion",1F,Walk,Grimer,32,51,256
+B,"Pokémon Mansion",1F,Walk,Growlithe,34,25,256
+B,"Pokémon Mansion",1F,Walk,Koffing,30,13,256
+B,"Pokémon Mansion",1F,Walk,Muk,37,11,256
+B,"Pokémon Mansion",1F,Walk,Ponyta,28,13,256
+B,"Pokémon Mansion",1F,Walk,Ponyta,30,25,256
+B,"Pokémon Mansion",1F,Walk,Ponyta,32,25,256
+B,"Pokémon Mansion",1F,Walk,Ponyta,34,39,256
+B,"Pokémon Mansion",1F,Walk,Weezing,39,3,256
+B,"Pokémon Mansion",2F,Walk,Grimer,30,25,256
+B,"Pokémon Mansion",2F,Walk,Grimer,34,90,256
+B,"Pokémon Mansion",2F,Walk,Growlithe,32,51,256
+B,"Pokémon Mansion",2F,Walk,Koffing,30,13,256
+B,"Pokémon Mansion",2F,Walk,Muk,39,11,256
+B,"Pokémon Mansion",2F,Walk,Ponyta,28,13,256
+B,"Pokémon Mansion",2F,Walk,Ponyta,30,25,256
+B,"Pokémon Mansion",2F,Walk,Ponyta,32,25,256
+B,"Pokémon Mansion",2F,Walk,Weezing,37,3,256
+B,"Pokémon Mansion",3F,Walk,Grimer,31,51,256
+B,"Pokémon Mansion",3F,Walk,Grimer,35,39,256
+B,"Pokémon Mansion",3F,Walk,Growlithe,33,51,256
+B,"Pokémon Mansion",3F,Walk,Koffing,34,13,256
+B,"Pokémon Mansion",3F,Walk,Muk,38,13,256
+B,"Pokémon Mansion",3F,Walk,Muk,40,25,256
+B,"Pokémon Mansion",3F,Walk,Ponyta,32,25,256
+B,"Pokémon Mansion",3F,Walk,Ponyta,34,25,256
+B,"Pokémon Mansion",3F,Walk,Ponyta,36,11,256
+B,"Pokémon Mansion",3F,Walk,Weezing,42,3,256
+B,"Pokémon Mansion",B1F,Walk,Grimer,31,76,256
+B,"Pokémon Mansion",B1F,Walk,Grimer,33,51,256
+B,"Pokémon Mansion",B1F,Walk,Growlithe,35,39,256
+B,"Pokémon Mansion",B1F,Walk,Koffing,35,13,256
+B,"Pokémon Mansion",B1F,Walk,Muk,38,11,256
+B,"Pokémon Mansion",B1F,Walk,Muk,40,25,256
+B,"Pokémon Mansion",B1F,Walk,Ponyta,32,25,256
+B,"Pokémon Mansion",B1F,Walk,Ponyta,34,13,256
+B,"Pokémon Mansion",B1F,Walk,Weezing,42,3,256
+G,"Pokémon Mansion",1F,Walk,Grimer,30,51,256
+G,"Pokémon Mansion",1F,Walk,Grimer,32,51,256
+G,"Pokémon Mansion",1F,Walk,Koffing,30,13,256
+G,"Pokémon Mansion",1F,Walk,Muk,37,11,256
+G,"Pokémon Mansion",1F,Walk,Ponyta,28,13,256
+G,"Pokémon Mansion",1F,Walk,Ponyta,30,25,256
+G,"Pokémon Mansion",1F,Walk,Ponyta,32,25,256
+G,"Pokémon Mansion",1F,Walk,Ponyta,34,39,256
+G,"Pokémon Mansion",1F,Walk,Vulpix,34,25,256
+G,"Pokémon Mansion",1F,Walk,Weezing,39,3,256
+G,"Pokémon Mansion",2F,Walk,Grimer,30,25,256
+G,"Pokémon Mansion",2F,Walk,Grimer,34,90,256
+G,"Pokémon Mansion",2F,Walk,Koffing,30,13,256
+G,"Pokémon Mansion",2F,Walk,Muk,39,11,256
+G,"Pokémon Mansion",2F,Walk,Ponyta,28,13,256
+G,"Pokémon Mansion",2F,Walk,Ponyta,30,25,256
+G,"Pokémon Mansion",2F,Walk,Ponyta,32,25,256
+G,"Pokémon Mansion",2F,Walk,Vulpix,32,51,256
+G,"Pokémon Mansion",2F,Walk,Weezing,37,3,256
+G,"Pokémon Mansion",3F,Walk,Grimer,31,51,256
+G,"Pokémon Mansion",3F,Walk,Grimer,35,39,256
+G,"Pokémon Mansion",3F,Walk,Koffing,34,13,256
+G,"Pokémon Mansion",3F,Walk,Magmar,34,25,256
+G,"Pokémon Mansion",3F,Walk,Muk,38,13,256
+G,"Pokémon Mansion",3F,Walk,Muk,40,25,256
+G,"Pokémon Mansion",3F,Walk,Ponyta,32,25,256
+G,"Pokémon Mansion",3F,Walk,Ponyta,36,11,256
+G,"Pokémon Mansion",3F,Walk,Vulpix,33,51,256
+G,"Pokémon Mansion",3F,Walk,Weezing,42,3,256
+G,"Pokémon Mansion",B1F,Walk,Grimer,31,76,256
+G,"Pokémon Mansion",B1F,Walk,Grimer,33,51,256
+G,"Pokémon Mansion",B1F,Walk,Koffing,35,13,256
+G,"Pokémon Mansion",B1F,Walk,Magmar,38,11,256
+G,"Pokémon Mansion",B1F,Walk,Muk,40,25,256
+G,"Pokémon Mansion",B1F,Walk,Ponyta,32,25,256
+G,"Pokémon Mansion",B1F,Walk,Ponyta,34,13,256
+G,"Pokémon Mansion",B1F,Walk,Vulpix,35,39,256
+G,"Pokémon Mansion",B1F,Walk,Weezing,42,3,256
+R,"Pokémon Mansion",1F,Walk,Grimer,30,13,256
+R,"Pokémon Mansion",1F,Walk,Growlithe,34,25,256
+R,"Pokémon Mansion",1F,Walk,Koffing,30,51,256
+R,"Pokémon Mansion",1F,Walk,Koffing,32,51,256
+R,"Pokémon Mansion",1F,Walk,Muk,39,3,256
+R,"Pokémon Mansion",1F,Walk,Ponyta,28,13,256
+R,"Pokémon Mansion",1F,Walk,Ponyta,30,25,256
+R,"Pokémon Mansion",1F,Walk,Ponyta,32,25,256
+R,"Pokémon Mansion",1F,Walk,Ponyta,34,39,256
+R,"Pokémon Mansion",1F,Walk,Weezing,37,11,256
+R,"Pokémon Mansion",2F,Walk,Grimer,30,13,256
+R,"Pokémon Mansion",2F,Walk,Growlithe,32,51,256
+R,"Pokémon Mansion",2F,Walk,Koffing,30,25,256
+R,"Pokémon Mansion",2F,Walk,Koffing,34,90,256
+R,"Pokémon Mansion",2F,Walk,Muk,37,3,256
+R,"Pokémon Mansion",2F,Walk,Ponyta,28,13,256
+R,"Pokémon Mansion",2F,Walk,Ponyta,30,25,256
+R,"Pokémon Mansion",2F,Walk,Ponyta,32,25,256
+R,"Pokémon Mansion",2F,Walk,Weezing,39,11,256
+R,"Pokémon Mansion",3F,Walk,Grimer,34,13,256
+R,"Pokémon Mansion",3F,Walk,Growlithe,33,51,256
+R,"Pokémon Mansion",3F,Walk,Koffing,31,51,256
+R,"Pokémon Mansion",3F,Walk,Koffing,35,39,256
+R,"Pokémon Mansion",3F,Walk,Muk,42,3,256
+R,"Pokémon Mansion",3F,Walk,Ponyta,32,25,256
+R,"Pokémon Mansion",3F,Walk,Ponyta,34,25,256
+R,"Pokémon Mansion",3F,Walk,Ponyta,36,11,256
+R,"Pokémon Mansion",3F,Walk,Weezing,38,13,256
+R,"Pokémon Mansion",3F,Walk,Weezing,40,25,256
+R,"Pokémon Mansion",B1F,Walk,Grimer,35,13,256
+R,"Pokémon Mansion",B1F,Walk,Growlithe,35,39,256
+R,"Pokémon Mansion",B1F,Walk,Koffing,31,76,256
+R,"Pokémon Mansion",B1F,Walk,Koffing,33,51,256
+R,"Pokémon Mansion",B1F,Walk,Muk,42,3,256
+R,"Pokémon Mansion",B1F,Walk,Ponyta,32,25,256
+R,"Pokémon Mansion",B1F,Walk,Ponyta,34,13,256
+R,"Pokémon Mansion",B1F,Walk,Weezing,40,25,256
+R,"Pokémon Mansion",B1F,Walk,Weezing,42,11,256
+Y,"Pokémon Mansion",1F,Walk,Grimer,23,39,256
+Y,"Pokémon Mansion",1F,Walk,Grimer,26,13,256
+Y,"Pokémon Mansion",1F,Walk,Growlithe,26,25,256
+Y,"Pokémon Mansion",1F,Walk,Growlithe,30,13,256
+Y,"Pokémon Mansion",1F,Walk,Growlithe,34,11,256
+Y,"Pokémon Mansion",1F,Walk,Growlithe,38,3,256
+Y,"Pokémon Mansion",1F,Walk,Raticate,34,51,256
+Y,"Pokémon Mansion",1F,Walk,Raticate,37,25,256
+Y,"Pokémon Mansion",1F,Walk,Rattata,34,51,256
+Y,"Pokémon Mansion",1F,Walk,Rattata,37,25,256
+Y,"Pokémon Mansion",2F,Walk,Grimer,26,39,256
+Y,"Pokémon Mansion",2F,Walk,Grimer,29,25,256
+Y,"Pokémon Mansion",2F,Walk,Grimer,32,13,256
+Y,"Pokémon Mansion",2F,Walk,Grimer,35,13,256
+Y,"Pokémon Mansion",2F,Walk,Muk,35,11,256
+Y,"Pokémon Mansion",2F,Walk,Muk,38,3,256
+Y,"Pokémon Mansion",2F,Walk,Raticate,37,51,256
+Y,"Pokémon Mansion",2F,Walk,Raticate,40,25,256
+Y,"Pokémon Mansion",2F,Walk,Rattata,37,51,256
+Y,"Pokémon Mansion",2F,Walk,Rattata,40,25,256
+Y,"Pokémon Mansion",3F,Walk,Grimer,32,39,256
+Y,"Pokémon Mansion",3F,Walk,Grimer,35,25,256
+Y,"Pokémon Mansion",3F,Walk,Grimer,38,26,256
+Y,"Pokémon Mansion",3F,Walk,Muk,38,11,256
+Y,"Pokémon Mansion",3F,Walk,Muk,41,3,256
+Y,"Pokémon Mansion",3F,Walk,Raticate,40,51,256
+Y,"Pokémon Mansion",3F,Walk,Raticate,43,25,256
+Y,"Pokémon Mansion",3F,Walk,Rattata,40,51,256
+Y,"Pokémon Mansion",3F,Walk,Rattata,43,25,256
+Y,"Pokémon Mansion",B1F,Walk,Ditto,12,3,256
+Y,"Pokémon Mansion",B1F,Walk,Ditto,18,11,256
+Y,"Pokémon Mansion",B1F,Walk,Ditto,24,13,256
+Y,"Pokémon Mansion",B1F,Walk,Grimer,35,51,256
+Y,"Pokémon Mansion",B1F,Walk,Grimer,38,51,256
+Y,"Pokémon Mansion",B1F,Walk,Muk,41,25,256
+Y,"Pokémon Mansion",B1F,Walk,Raticate,37,39,256
+Y,"Pokémon Mansion",B1F,Walk,Raticate,40,25,256
+Y,"Pokémon Mansion",B1F,Walk,Raticate,43,25,256
+Y,"Pokémon Mansion",B1F,Walk,Raticate,46,13,256
+B,"Pokémon Tower",3F,Walk,Cubone,20,13,256
+B,"Pokémon Tower",3F,Walk,Cubone,22,11,256
+B,"Pokémon Tower",3F,Walk,Gastly,18,25,256
+B,"Pokémon Tower",3F,Walk,Gastly,19,25,256
+B,"Pokémon Tower",3F,Walk,Gastly,20,51,256
+B,"Pokémon Tower",3F,Walk,Gastly,21,51,256
+B,"Pokémon Tower",3F,Walk,Gastly,22,39,256
+B,"Pokémon Tower",3F,Walk,Gastly,23,25,256
+B,"Pokémon Tower",3F,Walk,Gastly,24,13,256
+B,"Pokémon Tower",3F,Walk,Haunter,25,3,256
+B,"Pokémon Tower",4F,Walk,Cubone,20,13,256
+B,"Pokémon Tower",4F,Walk,Cubone,22,11,256
+B,"Pokémon Tower",4F,Walk,Gastly,18,25,256
+B,"Pokémon Tower",4F,Walk,Gastly,19,25,256
+B,"Pokémon Tower",4F,Walk,Gastly,20,51,256
+B,"Pokémon Tower",4F,Walk,Gastly,21,51,256
+B,"Pokémon Tower",4F,Walk,Gastly,22,39,256
+B,"Pokémon Tower",4F,Walk,Gastly,23,25,256
+B,"Pokémon Tower",4F,Walk,Gastly,24,3,256
+B,"Pokémon Tower",4F,Walk,Haunter,25,13,256
+B,"Pokémon Tower",5F,Walk,Cubone,20,13,256
+B,"Pokémon Tower",5F,Walk,Cubone,22,11,256
+B,"Pokémon Tower",5F,Walk,Gastly,18,25,256
+B,"Pokémon Tower",5F,Walk,Gastly,19,25,256
+B,"Pokémon Tower",5F,Walk,Gastly,20,51,256
+B,"Pokémon Tower",5F,Walk,Gastly,21,51,256
+B,"Pokémon Tower",5F,Walk,Gastly,22,39,256
+B,"Pokémon Tower",5F,Walk,Gastly,23,25,256
+B,"Pokémon Tower",5F,Walk,Gastly,24,3,256
+B,"Pokémon Tower",5F,Walk,Haunter,25,13,256
+B,"Pokémon Tower",6F,Walk,Cubone,22,13,256
+B,"Pokémon Tower",6F,Walk,Cubone,24,11,256
+B,"Pokémon Tower",6F,Walk,Gastly,19,25,256
+B,"Pokémon Tower",6F,Walk,Gastly,20,25,256
+B,"Pokémon Tower",6F,Walk,Gastly,21,51,256
+B,"Pokémon Tower",6F,Walk,Gastly,22,51,256
+B,"Pokémon Tower",6F,Walk,Gastly,23,39,256
+B,"Pokémon Tower",6F,Walk,Gastly,24,25,256
+B,"Pokémon Tower",6F,Walk,Haunter,26,13,256
+B,"Pokémon Tower",6F,Walk,Haunter,28,3,256
+B,"Pokémon Tower",7F,Walk,Cubone,22,13,256
+B,"Pokémon Tower",7F,Walk,Cubone,24,13,256
+B,"Pokémon Tower",7F,Walk,Gastly,20,25,256
+B,"Pokémon Tower",7F,Walk,Gastly,21,51,256
+B,"Pokémon Tower",7F,Walk,Gastly,22,51,256
+B,"Pokémon Tower",7F,Walk,Gastly,23,39,256
+B,"Pokémon Tower",7F,Walk,Gastly,24,25,256
+B,"Pokémon Tower",7F,Walk,Haunter,28,36,256
+B,"Pokémon Tower",7F,Walk,Haunter,30,3,256
+G,"Pokémon Tower",3F,Walk,Cubone,20,13,256
+G,"Pokémon Tower",3F,Walk,Cubone,22,11,256
+G,"Pokémon Tower",3F,Walk,Gastly,18,25,256
+G,"Pokémon Tower",3F,Walk,Gastly,19,25,256
+G,"Pokémon Tower",3F,Walk,Gastly,20,51,256
+G,"Pokémon Tower",3F,Walk,Gastly,21,51,256
+G,"Pokémon Tower",3F,Walk,Gastly,22,39,256
+G,"Pokémon Tower",3F,Walk,Gastly,23,25,256
+G,"Pokémon Tower",3F,Walk,Gastly,24,13,256
+G,"Pokémon Tower",3F,Walk,Haunter,25,3,256
+G,"Pokémon Tower",4F,Walk,Cubone,20,13,256
+G,"Pokémon Tower",4F,Walk,Cubone,22,11,256
+G,"Pokémon Tower",4F,Walk,Gastly,18,25,256
+G,"Pokémon Tower",4F,Walk,Gastly,19,25,256
+G,"Pokémon Tower",4F,Walk,Gastly,20,51,256
+G,"Pokémon Tower",4F,Walk,Gastly,21,51,256
+G,"Pokémon Tower",4F,Walk,Gastly,22,39,256
+G,"Pokémon Tower",4F,Walk,Gastly,23,25,256
+G,"Pokémon Tower",4F,Walk,Gastly,24,3,256
+G,"Pokémon Tower",4F,Walk,Haunter,25,13,256
+G,"Pokémon Tower",5F,Walk,Cubone,20,13,256
+G,"Pokémon Tower",5F,Walk,Cubone,22,11,256
+G,"Pokémon Tower",5F,Walk,Gastly,18,25,256
+G,"Pokémon Tower",5F,Walk,Gastly,19,25,256
+G,"Pokémon Tower",5F,Walk,Gastly,20,51,256
+G,"Pokémon Tower",5F,Walk,Gastly,21,51,256
+G,"Pokémon Tower",5F,Walk,Gastly,22,39,256
+G,"Pokémon Tower",5F,Walk,Gastly,23,25,256
+G,"Pokémon Tower",5F,Walk,Gastly,24,3,256
+G,"Pokémon Tower",5F,Walk,Haunter,25,13,256
+G,"Pokémon Tower",6F,Walk,Cubone,22,13,256
+G,"Pokémon Tower",6F,Walk,Cubone,24,11,256
+G,"Pokémon Tower",6F,Walk,Gastly,19,25,256
+G,"Pokémon Tower",6F,Walk,Gastly,20,25,256
+G,"Pokémon Tower",6F,Walk,Gastly,21,51,256
+G,"Pokémon Tower",6F,Walk,Gastly,22,51,256
+G,"Pokémon Tower",6F,Walk,Gastly,23,39,256
+G,"Pokémon Tower",6F,Walk,Gastly,24,25,256
+G,"Pokémon Tower",6F,Walk,Haunter,26,13,256
+G,"Pokémon Tower",6F,Walk,Haunter,28,3,256
+G,"Pokémon Tower",7F,Walk,Cubone,22,13,256
+G,"Pokémon Tower",7F,Walk,Cubone,24,13,256
+G,"Pokémon Tower",7F,Walk,Gastly,20,25,256
+G,"Pokémon Tower",7F,Walk,Gastly,21,51,256
+G,"Pokémon Tower",7F,Walk,Gastly,22,51,256
+G,"Pokémon Tower",7F,Walk,Gastly,23,39,256
+G,"Pokémon Tower",7F,Walk,Gastly,24,25,256
+G,"Pokémon Tower",7F,Walk,Haunter,28,36,256
+G,"Pokémon Tower",7F,Walk,Haunter,30,3,256
+R,"Pokémon Tower",3F,Walk,Cubone,20,13,256
+R,"Pokémon Tower",3F,Walk,Cubone,22,11,256
+R,"Pokémon Tower",3F,Walk,Gastly,18,25,256
+R,"Pokémon Tower",3F,Walk,Gastly,19,25,256
+R,"Pokémon Tower",3F,Walk,Gastly,20,51,256
+R,"Pokémon Tower",3F,Walk,Gastly,21,51,256
+R,"Pokémon Tower",3F,Walk,Gastly,22,39,256
+R,"Pokémon Tower",3F,Walk,Gastly,23,25,256
+R,"Pokémon Tower",3F,Walk,Gastly,24,13,256
+R,"Pokémon Tower",3F,Walk,Haunter,25,3,256
+R,"Pokémon Tower",4F,Walk,Cubone,20,13,256
+R,"Pokémon Tower",4F,Walk,Cubone,22,11,256
+R,"Pokémon Tower",4F,Walk,Gastly,18,25,256
+R,"Pokémon Tower",4F,Walk,Gastly,19,25,256
+R,"Pokémon Tower",4F,Walk,Gastly,20,51,256
+R,"Pokémon Tower",4F,Walk,Gastly,21,51,256
+R,"Pokémon Tower",4F,Walk,Gastly,22,39,256
+R,"Pokémon Tower",4F,Walk,Gastly,23,25,256
+R,"Pokémon Tower",4F,Walk,Gastly,24,3,256
+R,"Pokémon Tower",4F,Walk,Haunter,25,13,256
+R,"Pokémon Tower",5F,Walk,Cubone,20,13,256
+R,"Pokémon Tower",5F,Walk,Cubone,22,11,256
+R,"Pokémon Tower",5F,Walk,Gastly,18,25,256
+R,"Pokémon Tower",5F,Walk,Gastly,19,25,256
+R,"Pokémon Tower",5F,Walk,Gastly,20,51,256
+R,"Pokémon Tower",5F,Walk,Gastly,21,51,256
+R,"Pokémon Tower",5F,Walk,Gastly,22,39,256
+R,"Pokémon Tower",5F,Walk,Gastly,23,25,256
+R,"Pokémon Tower",5F,Walk,Gastly,24,3,256
+R,"Pokémon Tower",5F,Walk,Haunter,25,13,256
+R,"Pokémon Tower",6F,Walk,Cubone,22,13,256
+R,"Pokémon Tower",6F,Walk,Cubone,24,11,256
+R,"Pokémon Tower",6F,Walk,Gastly,19,25,256
+R,"Pokémon Tower",6F,Walk,Gastly,20,25,256
+R,"Pokémon Tower",6F,Walk,Gastly,21,51,256
+R,"Pokémon Tower",6F,Walk,Gastly,22,51,256
+R,"Pokémon Tower",6F,Walk,Gastly,23,39,256
+R,"Pokémon Tower",6F,Walk,Gastly,24,25,256
+R,"Pokémon Tower",6F,Walk,Haunter,26,13,256
+R,"Pokémon Tower",6F,Walk,Haunter,28,3,256
+R,"Pokémon Tower",7F,Walk,Cubone,22,13,256
+R,"Pokémon Tower",7F,Walk,Cubone,24,13,256
+R,"Pokémon Tower",7F,Walk,Gastly,20,25,256
+R,"Pokémon Tower",7F,Walk,Gastly,21,51,256
+R,"Pokémon Tower",7F,Walk,Gastly,22,51,256
+R,"Pokémon Tower",7F,Walk,Gastly,23,39,256
+R,"Pokémon Tower",7F,Walk,Gastly,24,25,256
+R,"Pokémon Tower",7F,Walk,Haunter,28,36,256
+R,"Pokémon Tower",7F,Walk,Haunter,30,3,256
+Y,"Pokémon Tower",3F,Walk,Gastly,18,13,256
+Y,"Pokémon Tower",3F,Walk,Gastly,19,25,256
+Y,"Pokémon Tower",3F,Walk,Gastly,20,51,256
+Y,"Pokémon Tower",3F,Walk,Gastly,21,51,256
+Y,"Pokémon Tower",3F,Walk,Gastly,22,39,256
+Y,"Pokémon Tower",3F,Walk,Gastly,23,25,256
+Y,"Pokémon Tower",3F,Walk,Gastly,24,25,256
+Y,"Pokémon Tower",3F,Walk,Gastly,25,13,256
+Y,"Pokémon Tower",3F,Walk,Haunter,20,11,256
+Y,"Pokémon Tower",3F,Walk,Haunter,25,3,256
+Y,"Pokémon Tower",4F,Walk,Gastly,18,13,256
+Y,"Pokémon Tower",4F,Walk,Gastly,19,25,256
+Y,"Pokémon Tower",4F,Walk,Gastly,20,51,256
+Y,"Pokémon Tower",4F,Walk,Gastly,21,51,256
+Y,"Pokémon Tower",4F,Walk,Gastly,22,39,256
+Y,"Pokémon Tower",4F,Walk,Gastly,23,25,256
+Y,"Pokémon Tower",4F,Walk,Gastly,24,25,256
+Y,"Pokémon Tower",4F,Walk,Gastly,25,13,256
+Y,"Pokémon Tower",4F,Walk,Haunter,20,11,256
+Y,"Pokémon Tower",4F,Walk,Haunter,25,3,256
+Y,"Pokémon Tower",5F,Walk,Cubone,20,13,256
+Y,"Pokémon Tower",5F,Walk,Gastly,21,25,256
+Y,"Pokémon Tower",5F,Walk,Gastly,22,51,256
+Y,"Pokémon Tower",5F,Walk,Gastly,23,51,256
+Y,"Pokémon Tower",5F,Walk,Gastly,24,39,256
+Y,"Pokémon Tower",5F,Walk,Gastly,25,25,256
+Y,"Pokémon Tower",5F,Walk,Gastly,26,25,256
+Y,"Pokémon Tower",5F,Walk,Gastly,27,13,256
+Y,"Pokémon Tower",5F,Walk,Haunter,22,11,256
+Y,"Pokémon Tower",5F,Walk,Haunter,27,3,256
+Y,"Pokémon Tower",6F,Walk,Cubone,22,13,256
+Y,"Pokémon Tower",6F,Walk,Gastly,21,25,256
+Y,"Pokémon Tower",6F,Walk,Gastly,22,51,256
+Y,"Pokémon Tower",6F,Walk,Gastly,23,51,256
+Y,"Pokémon Tower",6F,Walk,Gastly,24,39,256
+Y,"Pokémon Tower",6F,Walk,Gastly,25,25,256
+Y,"Pokémon Tower",6F,Walk,Gastly,26,25,256
+Y,"Pokémon Tower",6F,Walk,Gastly,27,13,256
+Y,"Pokémon Tower",6F,Walk,Haunter,22,11,256
+Y,"Pokémon Tower",6F,Walk,Haunter,27,3,256
+Y,"Pokémon Tower",7F,Walk,Cubone,24,13,256
+Y,"Pokémon Tower",7F,Walk,Gastly,23,25,256
+Y,"Pokémon Tower",7F,Walk,Gastly,24,51,256
+Y,"Pokémon Tower",7F,Walk,Gastly,25,51,256
+Y,"Pokémon Tower",7F,Walk,Gastly,26,39,256
+Y,"Pokémon Tower",7F,Walk,Gastly,27,25,256
+Y,"Pokémon Tower",7F,Walk,Gastly,28,25,256
+Y,"Pokémon Tower",7F,Walk,Gastly,29,13,256
+Y,"Pokémon Tower",7F,Walk,Haunter,24,11,256
+Y,"Pokémon Tower",7F,Walk,Haunter,29,3,256
+B,"Power Plant",,Walk,Magnemite,21,51,256
+B,"Power Plant",,Walk,Magnemite,23,25,256
+B,"Power Plant",,Walk,Magneton,32,13,256
+B,"Power Plant",,Walk,Magneton,35,13,256
+B,"Power Plant",,Walk,Pikachu,20,39,256
+B,"Power Plant",,Walk,Pikachu,24,25,256
+B,"Power Plant",,Walk,Raichu,33,11,256
+B,"Power Plant",,Walk,Raichu,36,3,256
+B,"Power Plant",,Walk,Voltorb,21,51,256
+B,"Power Plant",,Walk,Voltorb,23,25,256
+G,"Power Plant",,Walk,Magnemite,21,51,256
+G,"Power Plant",,Walk,Magnemite,23,25,256
+G,"Power Plant",,Walk,Magneton,32,13,256
+G,"Power Plant",,Walk,Magneton,35,13,256
+G,"Power Plant",,Walk,Pikachu,20,39,256
+G,"Power Plant",,Walk,Pikachu,24,25,256
+G,"Power Plant",,Walk,Raichu,33,11,256
+G,"Power Plant",,Walk,Raichu,36,3,256
+G,"Power Plant",,Walk,Voltorb,21,51,256
+G,"Power Plant",,Walk,Voltorb,23,25,256
+R,"Power Plant",,Walk,Electabuzz,33,11,256
+R,"Power Plant",,Walk,Electabuzz,36,3,256
+R,"Power Plant",,Walk,Magnemite,21,51,256
+R,"Power Plant",,Walk,Magnemite,23,25,256
+R,"Power Plant",,Walk,Magneton,32,13,256
+R,"Power Plant",,Walk,Magneton,35,13,256
+R,"Power Plant",,Walk,Pikachu,20,39,256
+R,"Power Plant",,Walk,Pikachu,24,25,256
+R,"Power Plant",,Walk,Voltorb,21,51,256
+R,"Power Plant",,Walk,Voltorb,23,25,256
+Y,"Power Plant",,Walk,Grimer,33,25,256
+Y,"Power Plant",,Walk,Grimer,37,13,256
+Y,"Power Plant",,Walk,Magnemite,30,51,256
+Y,"Power Plant",,Walk,Magnemite,35,51,256
+Y,"Power Plant",,Walk,Magneton,33,39,256
+Y,"Power Plant",,Walk,Magneton,38,13,256
+Y,"Power Plant",,Walk,Muk,33,11,256
+Y,"Power Plant",,Walk,Muk,37,3,256
+Y,"Power Plant",,Walk,Voltorb,33,25,256
+Y,"Power Plant",,Walk,Voltorb,37,25,256
+B,"Rock Tunnel",1F,Walk,Ditto,18,25,256
+B,"Rock Tunnel",1F,Walk,Geodude,16,25,256
+B,"Rock Tunnel",1F,Walk,Geodude,17,39,256
+B,"Rock Tunnel",1F,Walk,Machop,15,25,256
+B,"Rock Tunnel",1F,Walk,Machop,17,13,256
+B,"Rock Tunnel",1F,Walk,Onix,13,11,256
+B,"Rock Tunnel",1F,Walk,Onix,15,3,256
+B,"Rock Tunnel",1F,Walk,Zubat,15,13,256
+B,"Rock Tunnel",1F,Walk,Zubat,16,51,256
+B,"Rock Tunnel",1F,Walk,Zubat,17,51,256
+B,"Rock Tunnel",B1F,Walk,Ditto,18,25,256
+B,"Rock Tunnel",B1F,Walk,Geodude,16,25,256
+B,"Rock Tunnel",B1F,Walk,Geodude,17,39,256
+B,"Rock Tunnel",B1F,Walk,Geodude,18,3,256
+B,"Rock Tunnel",B1F,Walk,Machop,15,25,256
+B,"Rock Tunnel",B1F,Walk,Machop,17,13,256
+B,"Rock Tunnel",B1F,Walk,Onix,13,11,256
+B,"Rock Tunnel",B1F,Walk,Onix,17,13,256
+B,"Rock Tunnel",B1F,Walk,Zubat,16,51,256
+B,"Rock Tunnel",B1F,Walk,Zubat,17,51,256
+G,"Rock Tunnel",1F,Walk,Geodude,16,25,256
+G,"Rock Tunnel",1F,Walk,Geodude,17,39,256
+G,"Rock Tunnel",1F,Walk,Machop,15,25,256
+G,"Rock Tunnel",1F,Walk,Machop,17,13,256
+G,"Rock Tunnel",1F,Walk,Onix,13,11,256
+G,"Rock Tunnel",1F,Walk,Onix,15,3,256
+G,"Rock Tunnel",1F,Walk,Zubat,15,13,256
+G,"Rock Tunnel",1F,Walk,Zubat,16,51,256
+G,"Rock Tunnel",1F,Walk,Zubat,17,51,256
+G,"Rock Tunnel",1F,Walk,Zubat,18,25,256
+G,"Rock Tunnel",B1F,Walk,Geodude,16,25,256
+G,"Rock Tunnel",B1F,Walk,Geodude,17,39,256
+G,"Rock Tunnel",B1F,Walk,Geodude,18,3,256
+G,"Rock Tunnel",B1F,Walk,Machop,15,25,256
+G,"Rock Tunnel",B1F,Walk,Machop,17,13,256
+G,"Rock Tunnel",B1F,Walk,Onix,13,11,256
+G,"Rock Tunnel",B1F,Walk,Onix,17,13,256
+G,"Rock Tunnel",B1F,Walk,Zubat,16,51,256
+G,"Rock Tunnel",B1F,Walk,Zubat,17,51,256
+G,"Rock Tunnel",B1F,Walk,Zubat,18,25,256
+R,"Rock Tunnel",1F,Walk,Geodude,16,25,256
+R,"Rock Tunnel",1F,Walk,Geodude,17,39,256
+R,"Rock Tunnel",1F,Walk,Machop,15,25,256
+R,"Rock Tunnel",1F,Walk,Machop,17,13,256
+R,"Rock Tunnel",1F,Walk,Onix,13,11,256
+R,"Rock Tunnel",1F,Walk,Onix,15,3,256
+R,"Rock Tunnel",1F,Walk,Zubat,15,13,256
+R,"Rock Tunnel",1F,Walk,Zubat,16,51,256
+R,"Rock Tunnel",1F,Walk,Zubat,17,51,256
+R,"Rock Tunnel",1F,Walk,Zubat,18,25,256
+R,"Rock Tunnel",B1F,Walk,Geodude,16,25,256
+R,"Rock Tunnel",B1F,Walk,Geodude,17,39,256
+R,"Rock Tunnel",B1F,Walk,Geodude,18,3,256
+R,"Rock Tunnel",B1F,Walk,Machop,15,25,256
+R,"Rock Tunnel",B1F,Walk,Machop,17,13,256
+R,"Rock Tunnel",B1F,Walk,Onix,13,11,256
+R,"Rock Tunnel",B1F,Walk,Onix,17,13,256
+R,"Rock Tunnel",B1F,Walk,Zubat,16,51,256
+R,"Rock Tunnel",B1F,Walk,Zubat,17,51,256
+R,"Rock Tunnel",B1F,Walk,Zubat,18,25,256
+Y,"Rock Tunnel",1F,Walk,Geodude,16,51,256
+Y,"Rock Tunnel",1F,Walk,Geodude,18,25,256
+Y,"Rock Tunnel",1F,Walk,Geodude,20,25,256
+Y,"Rock Tunnel",1F,Walk,Machop,17,13,256
+Y,"Rock Tunnel",1F,Walk,Machop,19,11,256
+Y,"Rock Tunnel",1F,Walk,Machop,21,3,256
+Y,"Rock Tunnel",1F,Walk,Zubat,15,51,256
+Y,"Rock Tunnel",1F,Walk,Zubat,17,39,256
+Y,"Rock Tunnel",1F,Walk,Zubat,19,25,256
+Y,"Rock Tunnel",1F,Walk,Zubat,21,13,256
+Y,"Rock Tunnel",B1F,Walk,Geodude,17,51,256
+Y,"Rock Tunnel",B1F,Walk,Geodude,21,25,256
+Y,"Rock Tunnel",B1F,Walk,Machop,18,39,256
+Y,"Rock Tunnel",B1F,Walk,Machop,20,13,256
+Y,"Rock Tunnel",B1F,Walk,Onix,14,13,256
+Y,"Rock Tunnel",B1F,Walk,Onix,18,11,256
+Y,"Rock Tunnel",B1F,Walk,Onix,22,3,256
+Y,"Rock Tunnel",B1F,Walk,Zubat,20,51,256
+Y,"Rock Tunnel",B1F,Walk,Zubat,21,25,256
+Y,"Rock Tunnel",B1F,Walk,Zubat,22,25,256
+B,"Route 1",,Walk,Pidgey,2,25,256
+B,"Route 1",,Walk,Pidgey,3,89,256
+B,"Route 1",,Walk,Pidgey,4,11,256
+B,"Route 1",,Walk,Pidgey,5,3,256
+B,"Route 1",,Walk,Rattata,2,25,256
+B,"Route 1",,Walk,Rattata,3,90,256
+B,"Route 1",,Walk,Rattata,4,13,256
+G,"Route 1",,Walk,Pidgey,2,25,256
+G,"Route 1",,Walk,Pidgey,3,89,256
+G,"Route 1",,Walk,Pidgey,4,11,256
+G,"Route 1",,Walk,Pidgey,5,3,256
+G,"Route 1",,Walk,Rattata,2,25,256
+G,"Route 1",,Walk,Rattata,3,90,256
+G,"Route 1",,Walk,Rattata,4,13,256
+R,"Route 1",,Walk,Pidgey,2,25,256
+R,"Route 1",,Walk,Pidgey,3,89,256
+R,"Route 1",,Walk,Pidgey,4,11,256
+R,"Route 1",,Walk,Pidgey,5,3,256
+R,"Route 1",,Walk,Rattata,2,25,256
+R,"Route 1",,Walk,Rattata,3,90,256
+R,"Route 1",,Walk,Rattata,4,13,256
+Y,"Route 1",,Walk,Pidgey,2,25,256
+Y,"Route 1",,Walk,Pidgey,3,76,256
+Y,"Route 1",,Walk,Pidgey,4,51,256
+Y,"Route 1",,Walk,Pidgey,5,13,256
+Y,"Route 1",,Walk,Pidgey,6,11,256
+Y,"Route 1",,Walk,Pidgey,7,3,256
+Y,"Route 1",,Walk,Rattata,2,39,256
+Y,"Route 1",,Walk,Rattata,3,25,256
+Y,"Route 1",,Walk,Rattata,4,13,256
+B,"Route 10",,"Good Rod",Goldeen,10,1,2
+B,"Route 10",,"Good Rod",Poliwag,10,1,2
+B,"Route 10",,"Old Rod",Magikarp,5,1,1
+B,"Route 10",,"Super Rod",Poliwhirl,23,1,2
+B,"Route 10",,"Super Rod",Slowpoke,15,1,2
+B,"Route 10",,Walk,Sandshrew,11,25,256
+B,"Route 10",,Walk,Sandshrew,13,11,256
+B,"Route 10",,Walk,Sandshrew,15,25,256
+B,"Route 10",,Walk,Sandshrew,17,3,256
+B,"Route 10",,Walk,Spearow,13,25,256
+B,"Route 10",,Walk,Spearow,16,51,256
+B,"Route 10",,Walk,Spearow,17,13,256
+B,"Route 10",,Walk,Voltorb,14,39,256
+B,"Route 10",,Walk,Voltorb,16,51,256
+B,"Route 10",,Walk,Voltorb,17,13,256
+G,"Route 10",,"Good Rod",Goldeen,10,1,2
+G,"Route 10",,"Good Rod",Poliwag,10,1,2
+G,"Route 10",,"Old Rod",Magikarp,5,1,1
+G,"Route 10",,"Super Rod",Poliwhirl,23,1,2
+G,"Route 10",,"Super Rod",Slowpoke,15,1,2
+G,"Route 10",,Walk,Sandshrew,11,25,256
+G,"Route 10",,Walk,Sandshrew,13,11,256
+G,"Route 10",,Walk,Sandshrew,15,25,256
+G,"Route 10",,Walk,Sandshrew,17,3,256
+G,"Route 10",,Walk,Spearow,13,25,256
+G,"Route 10",,Walk,Spearow,16,51,256
+G,"Route 10",,Walk,Spearow,17,13,256
+G,"Route 10",,Walk,Voltorb,14,39,256
+G,"Route 10",,Walk,Voltorb,16,51,256
+G,"Route 10",,Walk,Voltorb,17,13,256
+R,"Route 10",,"Good Rod",Goldeen,10,1,2
+R,"Route 10",,"Good Rod",Poliwag,10,1,2
+R,"Route 10",,"Old Rod",Magikarp,5,1,1
+R,"Route 10",,"Super Rod",Poliwhirl,23,1,2
+R,"Route 10",,"Super Rod",Slowpoke,15,1,2
+R,"Route 10",,Walk,Ekans,11,25,256
+R,"Route 10",,Walk,Ekans,13,11,256
+R,"Route 10",,Walk,Ekans,15,25,256
+R,"Route 10",,Walk,Ekans,17,3,256
+R,"Route 10",,Walk,Spearow,13,25,256
+R,"Route 10",,Walk,Spearow,16,51,256
+R,"Route 10",,Walk,Spearow,17,13,256
+R,"Route 10",,Walk,Voltorb,14,39,256
+R,"Route 10",,Walk,Voltorb,16,51,256
+R,"Route 10",,Walk,Voltorb,17,13,256
+Y,"Route 10",,"Good Rod",Goldeen,10,1,2
+Y,"Route 10",,"Good Rod",Poliwag,10,1,2
+Y,"Route 10",,"Old Rod",Magikarp,5,1,1
+Y,"Route 10",,"Super Rod",Horsea,10,51,256
+Y,"Route 10",,"Super Rod",Kingler,25,27,256
+Y,"Route 10",,"Super Rod",Krabby,15,102,256
+Y,"Route 10",,"Super Rod",Krabby,20,76,256
+Y,"Route 10",,Walk,Machop,16,11,256
+Y,"Route 10",,Walk,Machop,18,3,256
+Y,"Route 10",,Walk,Magnemite,16,51,256
+Y,"Route 10",,Walk,Magnemite,18,39,256
+Y,"Route 10",,Walk,Magnemite,20,25,256
+Y,"Route 10",,Walk,Magnemite,22,13,256
+Y,"Route 10",,Walk,"Nidoran♀",17,25,256
+Y,"Route 10",,Walk,"Nidoran♂",17,25,256
+Y,"Route 10",,Walk,Raticate,20,13,256
+Y,"Route 10",,Walk,Rattata,18,51,256
+B,"Route 11",,"Good Rod",Goldeen,10,1,2
+B,"Route 11",,"Good Rod",Poliwag,10,1,2
+B,"Route 11",,"Old Rod",Magikarp,5,1,1
+B,"Route 11",,"Super Rod",Krabby,15,1,2
+B,"Route 11",,"Super Rod",Shellder,15,1,2
+B,"Route 11",,Walk,Drowzee,9,25,256
+B,"Route 11",,Walk,Drowzee,11,11,256
+B,"Route 11",,Walk,Drowzee,13,25,256
+B,"Route 11",,Walk,Drowzee,15,3,256
+B,"Route 11",,Walk,Sandshrew,12,39,256
+B,"Route 11",,Walk,Sandshrew,14,51,256
+B,"Route 11",,Walk,Sandshrew,15,13,256
+B,"Route 11",,Walk,Spearow,13,25,256
+B,"Route 11",,Walk,Spearow,15,51,256
+B,"Route 11",,Walk,Spearow,17,13,256
+G,"Route 11",,"Good Rod",Goldeen,10,1,2
+G,"Route 11",,"Good Rod",Poliwag,10,1,2
+G,"Route 11",,"Old Rod",Magikarp,5,1,1
+G,"Route 11",,"Super Rod",Krabby,15,1,2
+G,"Route 11",,"Super Rod",Shellder,15,1,2
+G,"Route 11",,Walk,Drowzee,9,25,256
+G,"Route 11",,Walk,Drowzee,11,11,256
+G,"Route 11",,Walk,Drowzee,13,25,256
+G,"Route 11",,Walk,Drowzee,15,3,256
+G,"Route 11",,Walk,Sandshrew,12,39,256
+G,"Route 11",,Walk,Sandshrew,14,51,256
+G,"Route 11",,Walk,Sandshrew,15,13,256
+G,"Route 11",,Walk,Spearow,13,25,256
+G,"Route 11",,Walk,Spearow,15,51,256
+G,"Route 11",,Walk,Spearow,17,13,256
+R,"Route 11",,"Good Rod",Goldeen,10,1,2
+R,"Route 11",,"Good Rod",Poliwag,10,1,2
+R,"Route 11",,"Old Rod",Magikarp,5,1,1
+R,"Route 11",,"Super Rod",Krabby,15,1,2
+R,"Route 11",,"Super Rod",Shellder,15,1,2
+R,"Route 11",,Walk,Drowzee,9,25,256
+R,"Route 11",,Walk,Drowzee,11,11,256
+R,"Route 11",,Walk,Drowzee,13,25,256
+R,"Route 11",,Walk,Drowzee,15,3,256
+R,"Route 11",,Walk,Ekans,12,39,256
+R,"Route 11",,Walk,Ekans,14,51,256
+R,"Route 11",,Walk,Ekans,15,13,256
+R,"Route 11",,Walk,Spearow,13,25,256
+R,"Route 11",,Walk,Spearow,15,51,256
+R,"Route 11",,Walk,Spearow,17,13,256
+Y,"Route 11",,"Good Rod",Goldeen,10,1,2
+Y,"Route 11",,"Good Rod",Poliwag,10,1,2
+Y,"Route 11",,"Old Rod",Magikarp,5,1,1
+Y,"Route 11",,"Super Rod",Horsea,5,27,256
+Y,"Route 11",,"Super Rod",Tentacool,10,51,256
+Y,"Route 11",,"Super Rod",Tentacool,15,102,256
+Y,"Route 11",,"Super Rod",Tentacool,20,76,256
+Y,"Route 11",,Walk,Drowzee,15,25,256
+Y,"Route 11",,Walk,Drowzee,17,25,256
+Y,"Route 11",,Walk,Drowzee,19,11,256
+Y,"Route 11",,Walk,Pidgeotto,18,13,256
+Y,"Route 11",,Walk,Pidgeotto,20,13,256
+Y,"Route 11",,Walk,Pidgey,16,51,256
+Y,"Route 11",,Walk,Pidgey,18,39,256
+Y,"Route 11",,Walk,Raticate,17,3,256
+Y,"Route 11",,Walk,Rattata,15,51,256
+Y,"Route 11",,Walk,Rattata,17,25,256
+B,"Route 12",,"Good Rod",Goldeen,10,1,2
+B,"Route 12",,"Good Rod",Poliwag,10,1,2
+B,"Route 12",,"Old Rod",Magikarp,5,1,1
+B,"Route 12",,"Super Rod",Goldeen,15,1,4
+B,"Route 12",,"Super Rod",Krabby,15,1,4
+B,"Route 12",,"Super Rod",Magikarp,15,1,4
+B,"Route 12",,"Super Rod",Tentacool,5,1,4
+B,"Route 12",,Walk,Gloom,28,11,256
+B,"Route 12",,Walk,Gloom,30,3,256
+B,"Route 12",,Walk,Oddish,22,25,256
+B,"Route 12",,Walk,Oddish,24,51,256
+B,"Route 12",,Walk,Oddish,26,13,256
+B,"Route 12",,Walk,Pidgey,23,39,256
+B,"Route 12",,Walk,Pidgey,25,51,256
+B,"Route 12",,Walk,Pidgey,27,13,256
+B,"Route 12",,Walk,Venonat,24,25,256
+B,"Route 12",,Walk,Venonat,26,25,256
+G,"Route 12",,"Good Rod",Goldeen,10,1,2
+G,"Route 12",,"Good Rod",Poliwag,10,1,2
+G,"Route 12",,"Old Rod",Magikarp,5,1,1
+G,"Route 12",,"Super Rod",Goldeen,15,1,4
+G,"Route 12",,"Super Rod",Krabby,15,1,4
+G,"Route 12",,"Super Rod",Magikarp,15,1,4
+G,"Route 12",,"Super Rod",Tentacool,5,1,4
+G,"Route 12",,Walk,Bellsprout,22,25,256
+G,"Route 12",,Walk,Bellsprout,24,51,256
+G,"Route 12",,Walk,Bellsprout,26,13,256
+G,"Route 12",,Walk,Pidgey,23,39,256
+G,"Route 12",,Walk,Pidgey,25,51,256
+G,"Route 12",,Walk,Pidgey,27,13,256
+G,"Route 12",,Walk,Venonat,24,25,256
+G,"Route 12",,Walk,Venonat,26,25,256
+G,"Route 12",,Walk,Weepinbell,28,11,256
+G,"Route 12",,Walk,Weepinbell,30,3,256
+R,"Route 12",,"Good Rod",Goldeen,10,1,2
+R,"Route 12",,"Good Rod",Poliwag,10,1,2
+R,"Route 12",,"Old Rod",Magikarp,5,1,1
+R,"Route 12",,"Super Rod",Goldeen,15,1,4
+R,"Route 12",,"Super Rod",Krabby,15,1,4
+R,"Route 12",,"Super Rod",Magikarp,15,1,4
+R,"Route 12",,"Super Rod",Tentacool,5,1,4
+R,"Route 12",,Walk,Gloom,28,11,256
+R,"Route 12",,Walk,Gloom,30,3,256
+R,"Route 12",,Walk,Oddish,22,25,256
+R,"Route 12",,Walk,Oddish,24,51,256
+R,"Route 12",,Walk,Oddish,26,13,256
+R,"Route 12",,Walk,Pidgey,23,39,256
+R,"Route 12",,Walk,Pidgey,25,51,256
+R,"Route 12",,Walk,Pidgey,27,13,256
+R,"Route 12",,Walk,Venonat,24,25,256
+R,"Route 12",,Walk,Venonat,26,25,256
+Y,"Route 12",,"Good Rod",Goldeen,10,1,2
+Y,"Route 12",,"Good Rod",Poliwag,10,1,2
+Y,"Route 12",,"Old Rod",Magikarp,5,1,1
+Y,"Route 12",,"Super Rod",Horsea,20,102,256
+Y,"Route 12",,"Super Rod",Horsea,25,76,256
+Y,"Route 12",,"Super Rod",Seadra,25,51,256
+Y,"Route 12",,"Super Rod",Seadra,35,27,256
+Y,"Route 12",,Surf,Slowbro,15,11,256
+Y,"Route 12",,Surf,Slowbro,20,3,256
+Y,"Route 12",,Surf,Slowpoke,15,242,256
+Y,"Route 12",,Walk,Bellsprout,25,51,256
+Y,"Route 12",,Walk,Bellsprout,27,25,256
+Y,"Route 12",,Walk,"Farfetch'd",26,11,256
+Y,"Route 12",,Walk,"Farfetch'd",31,3,256
+Y,"Route 12",,Walk,Gloom,29,13,256
+Y,"Route 12",,Walk,Oddish,25,51,256
+Y,"Route 12",,Walk,Oddish,27,25,256
+Y,"Route 12",,Walk,Pidgeotto,28,25,256
+Y,"Route 12",,Walk,Pidgey,28,39,256
+Y,"Route 12",,Walk,Weepinbell,29,13,256
+B,"Route 13",,"Good Rod",Goldeen,10,1,2
+B,"Route 13",,"Good Rod",Poliwag,10,1,2
+B,"Route 13",,"Old Rod",Magikarp,5,1,1
+B,"Route 13",,"Super Rod",Goldeen,15,1,4
+B,"Route 13",,"Super Rod",Krabby,15,1,4
+B,"Route 13",,"Super Rod",Magikarp,15,1,4
+B,"Route 13",,"Super Rod",Tentacool,5,1,4
+B,"Route 13",,Walk,Ditto,25,13,256
+B,"Route 13",,Walk,Gloom,28,11,256
+B,"Route 13",,Walk,Gloom,30,3,256
+B,"Route 13",,Walk,Oddish,22,25,256
+B,"Route 13",,Walk,Oddish,24,51,256
+B,"Route 13",,Walk,Oddish,26,13,256
+B,"Route 13",,Walk,Pidgey,25,51,256
+B,"Route 13",,Walk,Pidgey,27,39,256
+B,"Route 13",,Walk,Venonat,24,25,256
+B,"Route 13",,Walk,Venonat,26,25,256
+G,"Route 13",,"Good Rod",Goldeen,10,1,2
+G,"Route 13",,"Good Rod",Poliwag,10,1,2
+G,"Route 13",,"Old Rod",Magikarp,5,1,1
+G,"Route 13",,"Super Rod",Goldeen,15,1,4
+G,"Route 13",,"Super Rod",Krabby,15,1,4
+G,"Route 13",,"Super Rod",Magikarp,15,1,4
+G,"Route 13",,"Super Rod",Tentacool,5,1,4
+G,"Route 13",,Walk,Bellsprout,22,25,256
+G,"Route 13",,Walk,Bellsprout,24,51,256
+G,"Route 13",,Walk,Bellsprout,26,13,256
+G,"Route 13",,Walk,Ditto,25,13,256
+G,"Route 13",,Walk,Pidgey,25,51,256
+G,"Route 13",,Walk,Pidgey,27,39,256
+G,"Route 13",,Walk,Venonat,24,25,256
+G,"Route 13",,Walk,Venonat,26,25,256
+G,"Route 13",,Walk,Weepinbell,28,11,256
+G,"Route 13",,Walk,Weepinbell,30,3,256
+R,"Route 13",,"Good Rod",Goldeen,10,1,2
+R,"Route 13",,"Good Rod",Poliwag,10,1,2
+R,"Route 13",,"Old Rod",Magikarp,5,1,1
+R,"Route 13",,"Super Rod",Goldeen,15,1,4
+R,"Route 13",,"Super Rod",Krabby,15,1,4
+R,"Route 13",,"Super Rod",Magikarp,15,1,4
+R,"Route 13",,"Super Rod",Tentacool,5,1,4
+R,"Route 13",,Walk,Ditto,25,13,256
+R,"Route 13",,Walk,Gloom,28,11,256
+R,"Route 13",,Walk,Gloom,30,3,256
+R,"Route 13",,Walk,Oddish,22,25,256
+R,"Route 13",,Walk,Oddish,24,51,256
+R,"Route 13",,Walk,Oddish,26,13,256
+R,"Route 13",,Walk,Pidgey,25,51,256
+R,"Route 13",,Walk,Pidgey,27,39,256
+R,"Route 13",,Walk,Venonat,24,25,256
+R,"Route 13",,Walk,Venonat,26,25,256
+Y,"Route 13",,"Good Rod",Goldeen,10,1,2
+Y,"Route 13",,"Good Rod",Poliwag,10,1,2
+Y,"Route 13",,"Old Rod",Magikarp,5,1,1
+Y,"Route 13",,"Super Rod",Horsea,15,102,256
+Y,"Route 13",,"Super Rod",Horsea,20,76,256
+Y,"Route 13",,"Super Rod",Seadra,20,27,256
+Y,"Route 13",,"Super Rod",Tentacool,10,51,256
+Y,"Route 13",,Surf,Slowbro,15,11,256
+Y,"Route 13",,Surf,Slowbro,20,3,256
+Y,"Route 13",,Surf,Slowpoke,15,242,256
+Y,"Route 13",,Walk,Bellsprout,25,51,256
+Y,"Route 13",,Walk,Bellsprout,27,25,256
+Y,"Route 13",,Walk,"Farfetch'd",26,11,256
+Y,"Route 13",,Walk,"Farfetch'd",31,3,256
+Y,"Route 13",,Walk,Gloom,29,13,256
+Y,"Route 13",,Walk,Oddish,25,51,256
+Y,"Route 13",,Walk,Oddish,27,25,256
+Y,"Route 13",,Walk,Pidgeotto,28,39,256
+Y,"Route 13",,Walk,Pidgey,28,25,256
+Y,"Route 13",,Walk,Weepinbell,29,13,256
+B,"Route 14",,Walk,Ditto,23,39,256
+B,"Route 14",,Walk,Gloom,30,13,256
+B,"Route 14",,Walk,Oddish,22,25,256
+B,"Route 14",,Walk,Oddish,24,51,256
+B,"Route 14",,Walk,Oddish,26,13,256
+B,"Route 14",,Walk,Pidgeotto,28,11,256
+B,"Route 14",,Walk,Pidgeotto,30,3,256
+B,"Route 14",,Walk,Pidgey,26,51,256
+B,"Route 14",,Walk,Venonat,24,25,256
+B,"Route 14",,Walk,Venonat,26,25,256
+G,"Route 14",,Walk,Bellsprout,22,25,256
+G,"Route 14",,Walk,Bellsprout,24,51,256
+G,"Route 14",,Walk,Bellsprout,26,13,256
+G,"Route 14",,Walk,Ditto,23,39,256
+G,"Route 14",,Walk,Pidgeotto,28,11,256
+G,"Route 14",,Walk,Pidgeotto,30,3,256
+G,"Route 14",,Walk,Pidgey,26,51,256
+G,"Route 14",,Walk,Venonat,24,25,256
+G,"Route 14",,Walk,Venonat,26,25,256
+G,"Route 14",,Walk,Weepinbell,30,13,256
+R,"Route 14",,Walk,Ditto,23,39,256
+R,"Route 14",,Walk,Gloom,30,13,256
+R,"Route 14",,Walk,Oddish,22,25,256
+R,"Route 14",,Walk,Oddish,24,51,256
+R,"Route 14",,Walk,Oddish,26,13,256
+R,"Route 14",,Walk,Pidgeotto,28,11,256
+R,"Route 14",,Walk,Pidgeotto,30,3,256
+R,"Route 14",,Walk,Pidgey,26,51,256
+R,"Route 14",,Walk,Venonat,24,25,256
+R,"Route 14",,Walk,Venonat,26,25,256
+Y,"Route 14",,Walk,Bellsprout,26,51,256
+Y,"Route 14",,Walk,Bellsprout,28,25,256
+Y,"Route 14",,Walk,Gloom,30,13,256
+Y,"Route 14",,Walk,Oddish,26,51,256
+Y,"Route 14",,Walk,Oddish,28,25,256
+Y,"Route 14",,Walk,Pidgeotto,30,25,256
+Y,"Route 14",,Walk,Venomoth,30,3,256
+Y,"Route 14",,Walk,Venonat,24,39,256
+Y,"Route 14",,Walk,Venonat,27,11,256
+Y,"Route 14",,Walk,Weepinbell,30,13,256
+B,"Route 15",,Walk,Ditto,26,51,256
+B,"Route 15",,Walk,Gloom,30,13,256
+B,"Route 15",,Walk,Oddish,22,25,256
+B,"Route 15",,Walk,Oddish,24,51,256
+B,"Route 15",,Walk,Oddish,26,13,256
+B,"Route 15",,Walk,Pidgeotto,28,11,256
+B,"Route 15",,Walk,Pidgeotto,30,3,256
+B,"Route 15",,Walk,Pidgey,23,39,256
+B,"Route 15",,Walk,Venonat,26,25,256
+B,"Route 15",,Walk,Venonat,28,25,256
+G,"Route 15",,Walk,Bellsprout,22,25,256
+G,"Route 15",,Walk,Bellsprout,24,51,256
+G,"Route 15",,Walk,Bellsprout,26,13,256
+G,"Route 15",,Walk,Ditto,26,51,256
+G,"Route 15",,Walk,Pidgeotto,28,11,256
+G,"Route 15",,Walk,Pidgeotto,30,3,256
+G,"Route 15",,Walk,Pidgey,23,39,256
+G,"Route 15",,Walk,Venonat,26,25,256
+G,"Route 15",,Walk,Venonat,28,25,256
+G,"Route 15",,Walk,Weepinbell,30,13,256
+R,"Route 15",,Walk,Ditto,26,51,256
+R,"Route 15",,Walk,Gloom,30,13,256
+R,"Route 15",,Walk,Oddish,22,25,256
+R,"Route 15",,Walk,Oddish,24,51,256
+R,"Route 15",,Walk,Oddish,26,13,256
+R,"Route 15",,Walk,Pidgeotto,28,11,256
+R,"Route 15",,Walk,Pidgeotto,30,3,256
+R,"Route 15",,Walk,Pidgey,23,39,256
+R,"Route 15",,Walk,Venonat,26,25,256
+R,"Route 15",,Walk,Venonat,28,25,256
+Y,"Route 15",,Walk,Bellsprout,26,51,256
+Y,"Route 15",,Walk,Bellsprout,28,25,256
+Y,"Route 15",,Walk,Gloom,30,13,256
+Y,"Route 15",,Walk,Oddish,26,51,256
+Y,"Route 15",,Walk,Oddish,28,25,256
+Y,"Route 15",,Walk,Pidgeotto,32,25,256
+Y,"Route 15",,Walk,Venomoth,30,3,256
+Y,"Route 15",,Walk,Venonat,24,39,256
+Y,"Route 15",,Walk,Venonat,27,11,256
+Y,"Route 15",,Walk,Weepinbell,30,13,256
+B,"Route 16",,Walk,Doduo,18,25,256
+B,"Route 16",,Walk,Doduo,20,25,256
+B,"Route 16",,Walk,Doduo,22,13,256
+B,"Route 16",,Walk,Raticate,23,11,256
+B,"Route 16",,Walk,Raticate,25,3,256
+B,"Route 16",,Walk,Rattata,18,39,256
+B,"Route 16",,Walk,Rattata,20,25,256
+B,"Route 16",,Walk,Rattata,22,13,256
+B,"Route 16",,Walk,Spearow,20,51,256
+B,"Route 16",,Walk,Spearow,22,51,256
+G,"Route 16",,Walk,Doduo,18,25,256
+G,"Route 16",,Walk,Doduo,20,25,256
+G,"Route 16",,Walk,Doduo,22,13,256
+G,"Route 16",,Walk,Raticate,23,11,256
+G,"Route 16",,Walk,Raticate,25,3,256
+G,"Route 16",,Walk,Rattata,18,39,256
+G,"Route 16",,Walk,Rattata,20,25,256
+G,"Route 16",,Walk,Rattata,22,13,256
+G,"Route 16",,Walk,Spearow,20,51,256
+G,"Route 16",,Walk,Spearow,22,51,256
+R,"Route 16",,Walk,Doduo,18,25,256
+R,"Route 16",,Walk,Doduo,20,25,256
+R,"Route 16",,Walk,Doduo,22,13,256
+R,"Route 16",,Walk,Raticate,23,11,256
+R,"Route 16",,Walk,Raticate,25,3,256
+R,"Route 16",,Walk,Rattata,18,39,256
+R,"Route 16",,Walk,Rattata,20,25,256
+R,"Route 16",,Walk,Rattata,22,13,256
+R,"Route 16",,Walk,Spearow,20,51,256
+R,"Route 16",,Walk,Spearow,22,51,256
+Y,"Route 16",,Walk,Doduo,22,51,256
+Y,"Route 16",,Walk,Doduo,24,25,256
+Y,"Route 16",,Walk,Doduo,26,25,256
+Y,"Route 16",,Walk,Fearow,24,13,256
+Y,"Route 16",,Walk,Raticate,25,11,256
+Y,"Route 16",,Walk,Raticate,26,3,256
+Y,"Route 16",,Walk,Rattata,23,39,256
+Y,"Route 16",,Walk,Rattata,24,25,256
+Y,"Route 16",,Walk,Spearow,22,51,256
+Y,"Route 16",,Walk,Spearow,23,13,256
+B,"Route 17",,"Good Rod",Goldeen,10,1,2
+B,"Route 17",,"Good Rod",Poliwag,10,1,2
+B,"Route 17",,"Old Rod",Magikarp,5,1,1
+B,"Route 17",,"Super Rod",Goldeen,15,1,4
+B,"Route 17",,"Super Rod",Krabby,15,1,4
+B,"Route 17",,"Super Rod",Magikarp,15,1,4
+B,"Route 17",,"Super Rod",Tentacool,5,1,4
+B,"Route 17",,Walk,Doduo,24,25,256
+B,"Route 17",,Walk,Doduo,26,25,256
+B,"Route 17",,Walk,Doduo,28,13,256
+B,"Route 17",,Walk,Fearow,25,11,256
+B,"Route 17",,Walk,Fearow,27,3,256
+B,"Route 17",,Walk,Raticate,25,39,256
+B,"Route 17",,Walk,Raticate,27,25,256
+B,"Route 17",,Walk,Raticate,29,13,256
+B,"Route 17",,Walk,Spearow,20,51,256
+B,"Route 17",,Walk,Spearow,22,51,256
+G,"Route 17",,"Good Rod",Goldeen,10,1,2
+G,"Route 17",,"Good Rod",Poliwag,10,1,2
+G,"Route 17",,"Old Rod",Magikarp,5,1,1
+G,"Route 17",,"Super Rod",Goldeen,15,1,4
+G,"Route 17",,"Super Rod",Krabby,15,1,4
+G,"Route 17",,"Super Rod",Magikarp,15,1,4
+G,"Route 17",,"Super Rod",Tentacool,5,1,4
+G,"Route 17",,Walk,Doduo,24,25,256
+G,"Route 17",,Walk,Doduo,26,25,256
+G,"Route 17",,Walk,Doduo,28,13,256
+G,"Route 17",,Walk,Fearow,25,11,256
+G,"Route 17",,Walk,Fearow,27,3,256
+G,"Route 17",,Walk,Raticate,25,39,256
+G,"Route 17",,Walk,Raticate,27,25,256
+G,"Route 17",,Walk,Raticate,29,13,256
+G,"Route 17",,Walk,Spearow,20,51,256
+G,"Route 17",,Walk,Spearow,22,51,256
+R,"Route 17",,"Good Rod",Goldeen,10,1,2
+R,"Route 17",,"Good Rod",Poliwag,10,1,2
+R,"Route 17",,"Old Rod",Magikarp,5,1,1
+R,"Route 17",,"Super Rod",Goldeen,15,1,4
+R,"Route 17",,"Super Rod",Krabby,15,1,4
+R,"Route 17",,"Super Rod",Magikarp,15,1,4
+R,"Route 17",,"Super Rod",Tentacool,5,1,4
+R,"Route 17",,Walk,Doduo,24,25,256
+R,"Route 17",,Walk,Doduo,26,25,256
+R,"Route 17",,Walk,Doduo,28,13,256
+R,"Route 17",,Walk,Fearow,25,11,256
+R,"Route 17",,Walk,Fearow,27,3,256
+R,"Route 17",,Walk,Raticate,25,39,256
+R,"Route 17",,Walk,Raticate,27,25,256
+R,"Route 17",,Walk,Raticate,29,13,256
+R,"Route 17",,Walk,Spearow,20,51,256
+R,"Route 17",,Walk,Spearow,22,51,256
+Y,"Route 17",,"Good Rod",Goldeen,10,1,2
+Y,"Route 17",,"Good Rod",Poliwag,10,1,2
+Y,"Route 17",,"Old Rod",Magikarp,5,1,1
+Y,"Route 17",,"Super Rod",Shellder,25,51,256
+Y,"Route 17",,"Super Rod",Shellder,35,27,256
+Y,"Route 17",,"Super Rod",Tentacool,5,102,256
+Y,"Route 17",,"Super Rod",Tentacool,15,76,256
+Y,"Route 17",,Walk,Dodrio,29,3,256
+Y,"Route 17",,Walk,Doduo,26,51,256
+Y,"Route 17",,Walk,Doduo,27,39,256
+Y,"Route 17",,Walk,Doduo,28,38,256
+Y,"Route 17",,Walk,Fearow,27,51,256
+Y,"Route 17",,Walk,Fearow,29,13,256
+Y,"Route 17",,Walk,Ponyta,28,25,256
+Y,"Route 17",,Walk,Ponyta,30,25,256
+Y,"Route 17",,Walk,Ponyta,32,11,256
+B,"Route 18",,"Good Rod",Goldeen,10,1,2
+B,"Route 18",,"Good Rod",Poliwag,10,1,2
+B,"Route 18",,"Old Rod",Magikarp,5,1,1
+B,"Route 18",,"Super Rod",Goldeen,15,1,4
+B,"Route 18",,"Super Rod",Krabby,15,1,4
+B,"Route 18",,"Super Rod",Magikarp,15,1,4
+B,"Route 18",,"Super Rod",Tentacool,5,1,4
+B,"Route 18",,Walk,Doduo,24,25,256
+B,"Route 18",,Walk,Doduo,26,25,256
+B,"Route 18",,Walk,Doduo,28,13,256
+B,"Route 18",,Walk,Fearow,25,25,256
+B,"Route 18",,Walk,Fearow,27,11,256
+B,"Route 18",,Walk,Fearow,29,3,256
+B,"Route 18",,Walk,Raticate,25,39,256
+B,"Route 18",,Walk,Raticate,29,13,256
+B,"Route 18",,Walk,Spearow,20,51,256
+B,"Route 18",,Walk,Spearow,22,51,256
+G,"Route 18",,"Good Rod",Goldeen,10,1,2
+G,"Route 18",,"Good Rod",Poliwag,10,1,2
+G,"Route 18",,"Old Rod",Magikarp,5,1,1
+G,"Route 18",,"Super Rod",Goldeen,15,1,4
+G,"Route 18",,"Super Rod",Krabby,15,1,4
+G,"Route 18",,"Super Rod",Magikarp,15,1,4
+G,"Route 18",,"Super Rod",Tentacool,5,1,4
+G,"Route 18",,Walk,Doduo,24,25,256
+G,"Route 18",,Walk,Doduo,26,25,256
+G,"Route 18",,Walk,Doduo,28,13,256
+G,"Route 18",,Walk,Fearow,25,25,256
+G,"Route 18",,Walk,Fearow,27,11,256
+G,"Route 18",,Walk,Fearow,29,3,256
+G,"Route 18",,Walk,Raticate,25,39,256
+G,"Route 18",,Walk,Raticate,29,13,256
+G,"Route 18",,Walk,Spearow,20,51,256
+G,"Route 18",,Walk,Spearow,22,51,256
+R,"Route 18",,"Good Rod",Goldeen,10,1,2
+R,"Route 18",,"Good Rod",Poliwag,10,1,2
+R,"Route 18",,"Old Rod",Magikarp,5,1,1
+R,"Route 18",,"Super Rod",Goldeen,15,1,4
+R,"Route 18",,"Super Rod",Krabby,15,1,4
+R,"Route 18",,"Super Rod",Magikarp,15,1,4
+R,"Route 18",,"Super Rod",Tentacool,5,1,4
+R,"Route 18",,Walk,Doduo,24,25,256
+R,"Route 18",,Walk,Doduo,26,25,256
+R,"Route 18",,Walk,Doduo,28,13,256
+R,"Route 18",,Walk,Fearow,25,25,256
+R,"Route 18",,Walk,Fearow,27,11,256
+R,"Route 18",,Walk,Fearow,29,3,256
+R,"Route 18",,Walk,Raticate,25,39,256
+R,"Route 18",,Walk,Raticate,29,13,256
+R,"Route 18",,Walk,Spearow,20,51,256
+R,"Route 18",,Walk,Spearow,22,51,256
+Y,"Route 18",,"Good Rod",Goldeen,10,1,2
+Y,"Route 18",,"Good Rod",Poliwag,10,1,2
+Y,"Route 18",,"Old Rod",Magikarp,5,1,1
+Y,"Route 18",,"Super Rod",Shellder,20,76,256
+Y,"Route 18",,"Super Rod",Shellder,30,51,256
+Y,"Route 18",,"Super Rod",Shellder,40,27,256
+Y,"Route 18",,"Super Rod",Tentacool,15,102,256
+Y,"Route 18",,Walk,Doduo,22,51,256
+Y,"Route 18",,Walk,Doduo,24,25,256
+Y,"Route 18",,Walk,Doduo,26,25,256
+Y,"Route 18",,Walk,Fearow,24,13,256
+Y,"Route 18",,Walk,Raticate,25,11,256
+Y,"Route 18",,Walk,Raticate,26,3,256
+Y,"Route 18",,Walk,Rattata,23,39,256
+Y,"Route 18",,Walk,Rattata,24,25,256
+Y,"Route 18",,Walk,Spearow,22,51,256
+Y,"Route 18",,Walk,Spearow,23,13,256
+B,"Route 19",,"Good Rod",Goldeen,10,1,2
+B,"Route 19",,"Good Rod",Poliwag,10,1,2
+B,"Route 19",,"Old Rod",Magikarp,5,1,1
+B,"Route 19",,"Super Rod",Goldeen,15,1,4
+B,"Route 19",,"Super Rod",Horsea,15,1,4
+B,"Route 19",,"Super Rod",Shellder,15,1,4
+B,"Route 19",,"Super Rod",Staryu,15,1,4
+B,"Route 19",,Surf,Tentacool,5,76,256
+B,"Route 19",,Surf,Tentacool,10,76,256
+B,"Route 19",,Surf,Tentacool,15,64,256
+B,"Route 19",,Surf,Tentacool,20,13,256
+B,"Route 19",,Surf,Tentacool,30,13,256
+B,"Route 19",,Surf,Tentacool,35,11,256
+B,"Route 19",,Surf,Tentacool,40,3,256
+G,"Route 19",,"Good Rod",Goldeen,10,1,2
+G,"Route 19",,"Good Rod",Poliwag,10,1,2
+G,"Route 19",,"Old Rod",Magikarp,5,1,1
+G,"Route 19",,"Super Rod",Goldeen,15,1,4
+G,"Route 19",,"Super Rod",Horsea,15,1,4
+G,"Route 19",,"Super Rod",Shellder,15,1,4
+G,"Route 19",,"Super Rod",Staryu,15,1,4
+G,"Route 19",,Surf,Tentacool,5,76,256
+G,"Route 19",,Surf,Tentacool,10,76,256
+G,"Route 19",,Surf,Tentacool,15,64,256
+G,"Route 19",,Surf,Tentacool,20,13,256
+G,"Route 19",,Surf,Tentacool,30,13,256
+G,"Route 19",,Surf,Tentacool,35,11,256
+G,"Route 19",,Surf,Tentacool,40,3,256
+R,"Route 19",,"Good Rod",Goldeen,10,1,2
+R,"Route 19",,"Good Rod",Poliwag,10,1,2
+R,"Route 19",,"Old Rod",Magikarp,5,1,1
+R,"Route 19",,"Super Rod",Goldeen,15,1,4
+R,"Route 19",,"Super Rod",Horsea,15,1,4
+R,"Route 19",,"Super Rod",Shellder,15,1,4
+R,"Route 19",,"Super Rod",Staryu,15,1,4
+R,"Route 19",,Surf,Tentacool,5,76,256
+R,"Route 19",,Surf,Tentacool,10,76,256
+R,"Route 19",,Surf,Tentacool,15,64,256
+R,"Route 19",,Surf,Tentacool,20,13,256
+R,"Route 19",,Surf,Tentacool,30,13,256
+R,"Route 19",,Surf,Tentacool,35,11,256
+R,"Route 19",,Surf,Tentacool,40,3,256
+Y,"Route 19",,"Good Rod",Goldeen,10,1,2
+Y,"Route 19",,"Good Rod",Poliwag,10,1,2
+Y,"Route 19",,"Old Rod",Magikarp,5,1,1
+Y,"Route 19",,"Super Rod",Staryu,20,76,256
+Y,"Route 19",,"Super Rod",Tentacool,15,102,256
+Y,"Route 19",,"Super Rod",Tentacool,30,51,256
+Y,"Route 19",,"Super Rod",Tentacruel,30,27,256
+Y,"Route 19",,Surf,Tentacool,5,76,256
+Y,"Route 19",,Surf,Tentacool,10,76,256
+Y,"Route 19",,Surf,Tentacool,15,64,256
+Y,"Route 19",,Surf,Tentacool,20,13,256
+Y,"Route 19",,Surf,Tentacool,30,13,256
+Y,"Route 19",,Surf,Tentacool,35,11,256
+Y,"Route 19",,Surf,Tentacool,40,3,256
+B,"Route 2",,Walk,Caterpie,3,25,256
+B,"Route 2",,Walk,Caterpie,4,11,256
+B,"Route 2",,Walk,Caterpie,5,3,256
+B,"Route 2",,Walk,Pidgey,3,51,256
+B,"Route 2",,Walk,Pidgey,4,39,256
+B,"Route 2",,Walk,Pidgey,5,25,256
+B,"Route 2",,Walk,Rattata,2,13,256
+B,"Route 2",,Walk,Rattata,3,51,256
+B,"Route 2",,Walk,Rattata,4,25,256
+B,"Route 2",,Walk,Rattata,5,13,256
+G,"Route 2",,Walk,Caterpie,3,25,256
+G,"Route 2",,Walk,Caterpie,4,11,256
+G,"Route 2",,Walk,Caterpie,5,3,256
+G,"Route 2",,Walk,Pidgey,3,51,256
+G,"Route 2",,Walk,Pidgey,4,39,256
+G,"Route 2",,Walk,Pidgey,5,25,256
+G,"Route 2",,Walk,Rattata,2,13,256
+G,"Route 2",,Walk,Rattata,3,51,256
+G,"Route 2",,Walk,Rattata,4,25,256
+G,"Route 2",,Walk,Rattata,5,13,256
+R,"Route 2",,Walk,Pidgey,3,51,256
+R,"Route 2",,Walk,Pidgey,4,39,256
+R,"Route 2",,Walk,Pidgey,5,25,256
+R,"Route 2",,Walk,Rattata,2,13,256
+R,"Route 2",,Walk,Rattata,3,51,256
+R,"Route 2",,Walk,Rattata,4,25,256
+R,"Route 2",,Walk,Rattata,5,13,256
+R,"Route 2",,Walk,Weedle,3,25,256
+R,"Route 2",,Walk,Weedle,4,11,256
+R,"Route 2",,Walk,Weedle,5,3,256
+Y,"Route 2",,Walk,"Nidoran♀",4,25,256
+Y,"Route 2",,Walk,"Nidoran♀",6,13,256
+Y,"Route 2",,Walk,"Nidoran♂",4,25,256
+Y,"Route 2",,Walk,"Nidoran♂",6,13,256
+Y,"Route 2",,Walk,Pidgey,3,51,256
+Y,"Route 2",,Walk,Pidgey,5,25,256
+Y,"Route 2",,Walk,Pidgey,7,14,256
+Y,"Route 2",,Walk,Rattata,3,51,256
+Y,"Route 2",,Walk,Rattata,4,39,256
+B,"Route 20",,"Good Rod",Goldeen,10,1,2
+B,"Route 20",,"Good Rod",Poliwag,10,1,2
+B,"Route 20",,"Old Rod",Magikarp,5,1,1
+B,"Route 20",,"Super Rod",Goldeen,15,1,4
+B,"Route 20",,"Super Rod",Horsea,15,1,4
+B,"Route 20",,"Super Rod",Shellder,15,1,4
+B,"Route 20",,"Super Rod",Staryu,15,1,4
+B,"Route 20",,Surf,Tentacool,5,76,256
+B,"Route 20",,Surf,Tentacool,10,76,256
+B,"Route 20",,Surf,Tentacool,15,64,256
+B,"Route 20",,Surf,Tentacool,20,13,256
+B,"Route 20",,Surf,Tentacool,30,13,256
+B,"Route 20",,Surf,Tentacool,35,11,256
+B,"Route 20",,Surf,Tentacool,40,3,256
+G,"Route 20",,"Good Rod",Goldeen,10,1,2
+G,"Route 20",,"Good Rod",Poliwag,10,1,2
+G,"Route 20",,"Old Rod",Magikarp,5,1,1
+G,"Route 20",,"Super Rod",Goldeen,15,1,4
+G,"Route 20",,"Super Rod",Horsea,15,1,4
+G,"Route 20",,"Super Rod",Shellder,15,1,4
+G,"Route 20",,"Super Rod",Staryu,15,1,4
+G,"Route 20",,Surf,Tentacool,5,76,256
+G,"Route 20",,Surf,Tentacool,10,76,256
+G,"Route 20",,Surf,Tentacool,15,64,256
+G,"Route 20",,Surf,Tentacool,20,13,256
+G,"Route 20",,Surf,Tentacool,30,13,256
+G,"Route 20",,Surf,Tentacool,35,11,256
+G,"Route 20",,Surf,Tentacool,40,3,256
+R,"Route 20",,"Good Rod",Goldeen,10,1,2
+R,"Route 20",,"Good Rod",Poliwag,10,1,2
+R,"Route 20",,"Old Rod",Magikarp,5,1,1
+R,"Route 20",,"Super Rod",Goldeen,15,1,4
+R,"Route 20",,"Super Rod",Horsea,15,1,4
+R,"Route 20",,"Super Rod",Shellder,15,1,4
+R,"Route 20",,"Super Rod",Staryu,15,1,4
+R,"Route 20",,Surf,Tentacool,5,76,256
+R,"Route 20",,Surf,Tentacool,10,76,256
+R,"Route 20",,Surf,Tentacool,15,64,256
+R,"Route 20",,Surf,Tentacool,20,13,256
+R,"Route 20",,Surf,Tentacool,30,13,256
+R,"Route 20",,Surf,Tentacool,35,11,256
+R,"Route 20",,Surf,Tentacool,40,3,256
+Y,"Route 20",,"Good Rod",Goldeen,10,1,2
+Y,"Route 20",,"Good Rod",Poliwag,10,1,2
+Y,"Route 20",,"Old Rod",Magikarp,5,1,1
+Y,"Route 20",,"Super Rod",Staryu,30,51,256
+Y,"Route 20",,"Super Rod",Tentacool,20,102,256
+Y,"Route 20",,"Super Rod",Tentacruel,20,76,256
+Y,"Route 20",,"Super Rod",Tentacruel,40,27,256
+Y,"Route 20",,Surf,Tentacool,5,76,256
+Y,"Route 20",,Surf,Tentacool,10,76,256
+Y,"Route 20",,Surf,Tentacool,15,64,256
+Y,"Route 20",,Surf,Tentacool,20,13,256
+Y,"Route 20",,Surf,Tentacool,30,13,256
+Y,"Route 20",,Surf,Tentacool,35,11,256
+Y,"Route 20",,Surf,Tentacool,40,3,256
+B,"Route 21",,"Good Rod",Goldeen,10,1,2
+B,"Route 21",,"Good Rod",Poliwag,10,1,2
+B,"Route 21",,"Old Rod",Magikarp,5,1,1
+B,"Route 21",,"Super Rod",Goldeen,15,1,4
+B,"Route 21",,"Super Rod",Horsea,15,1,4
+B,"Route 21",,"Super Rod",Shellder,15,1,4
+B,"Route 21",,"Super Rod",Staryu,15,1,4
+B,"Route 21",,Surf,Tentacool,5,76,256
+B,"Route 21",,Surf,Tentacool,10,76,256
+B,"Route 21",,Surf,Tentacool,15,64,256
+B,"Route 21",,Surf,Tentacool,20,13,256
+B,"Route 21",,Surf,Tentacool,30,13,256
+B,"Route 21",,Surf,Tentacool,35,11,256
+B,"Route 21",,Surf,Tentacool,40,3,256
+B,"Route 21",,Walk,Pidgeotto,30,25,256
+B,"Route 21",,Walk,Pidgeotto,32,13,256
+B,"Route 21",,Walk,Pidgey,21,25,256
+B,"Route 21",,Walk,Pidgey,23,51,256
+B,"Route 21",,Walk,Raticate,30,39,256
+B,"Route 21",,Walk,Rattata,21,51,256
+B,"Route 21",,Walk,Rattata,23,25,256
+B,"Route 21",,Walk,Tangela,28,13,256
+B,"Route 21",,Walk,Tangela,30,11,256
+B,"Route 21",,Walk,Tangela,32,3,256
+G,"Route 21",,"Good Rod",Goldeen,10,1,2
+G,"Route 21",,"Good Rod",Poliwag,10,1,2
+G,"Route 21",,"Old Rod",Magikarp,5,1,1
+G,"Route 21",,"Super Rod",Goldeen,15,1,4
+G,"Route 21",,"Super Rod",Horsea,15,1,4
+G,"Route 21",,"Super Rod",Shellder,15,1,4
+G,"Route 21",,"Super Rod",Staryu,15,1,4
+G,"Route 21",,Surf,Tentacool,5,76,256
+G,"Route 21",,Surf,Tentacool,10,76,256
+G,"Route 21",,Surf,Tentacool,15,64,256
+G,"Route 21",,Surf,Tentacool,20,13,256
+G,"Route 21",,Surf,Tentacool,30,13,256
+G,"Route 21",,Surf,Tentacool,35,11,256
+G,"Route 21",,Surf,Tentacool,40,3,256
+G,"Route 21",,Walk,Pidgeotto,30,25,256
+G,"Route 21",,Walk,Pidgeotto,32,13,256
+G,"Route 21",,Walk,Pidgey,21,25,256
+G,"Route 21",,Walk,Pidgey,23,51,256
+G,"Route 21",,Walk,Raticate,30,39,256
+G,"Route 21",,Walk,Rattata,21,51,256
+G,"Route 21",,Walk,Rattata,23,25,256
+G,"Route 21",,Walk,Tangela,28,13,256
+G,"Route 21",,Walk,Tangela,30,11,256
+G,"Route 21",,Walk,Tangela,32,3,256
+R,"Route 21",,"Good Rod",Goldeen,10,1,2
+R,"Route 21",,"Good Rod",Poliwag,10,1,2
+R,"Route 21",,"Old Rod",Magikarp,5,1,1
+R,"Route 21",,"Super Rod",Goldeen,15,1,4
+R,"Route 21",,"Super Rod",Horsea,15,1,4
+R,"Route 21",,"Super Rod",Shellder,15,1,4
+R,"Route 21",,"Super Rod",Staryu,15,1,4
+R,"Route 21",,Surf,Tentacool,5,76,256
+R,"Route 21",,Surf,Tentacool,10,76,256
+R,"Route 21",,Surf,Tentacool,15,64,256
+R,"Route 21",,Surf,Tentacool,20,13,256
+R,"Route 21",,Surf,Tentacool,30,13,256
+R,"Route 21",,Surf,Tentacool,35,11,256
+R,"Route 21",,Surf,Tentacool,40,3,256
+R,"Route 21",,Walk,Pidgeotto,30,25,256
+R,"Route 21",,Walk,Pidgeotto,32,13,256
+R,"Route 21",,Walk,Pidgey,21,25,256
+R,"Route 21",,Walk,Pidgey,23,51,256
+R,"Route 21",,Walk,Raticate,30,39,256
+R,"Route 21",,Walk,Rattata,21,51,256
+R,"Route 21",,Walk,Rattata,23,25,256
+R,"Route 21",,Walk,Tangela,28,13,256
+R,"Route 21",,Walk,Tangela,30,11,256
+R,"Route 21",,Walk,Tangela,32,3,256
+Y,"Route 21",,"Good Rod",Goldeen,10,1,2
+Y,"Route 21",,"Good Rod",Poliwag,10,1,2
+Y,"Route 21",,"Old Rod",Magikarp,5,1,1
+Y,"Route 21",,"Super Rod",Staryu,20,76,256
+Y,"Route 21",,"Super Rod",Tentacool,15,102,256
+Y,"Route 21",,"Super Rod",Tentacool,30,51,256
+Y,"Route 21",,"Super Rod",Tentacruel,30,27,256
+Y,"Route 21",,Surf,Tentacool,5,76,256
+Y,"Route 21",,Surf,Tentacool,10,76,256
+Y,"Route 21",,Surf,Tentacool,15,64,256
+Y,"Route 21",,Surf,Tentacool,20,13,256
+Y,"Route 21",,Surf,Tentacool,30,13,256
+Y,"Route 21",,Surf,Tentacool,35,11,256
+Y,"Route 21",,Surf,Tentacool,40,3,256
+Y,"Route 21",,Walk,Pidgeotto,15,3,256
+Y,"Route 21",,Walk,Pidgeotto,17,13,256
+Y,"Route 21",,Walk,Pidgeotto,19,11,256
+Y,"Route 21",,Walk,Pidgey,11,25,256
+Y,"Route 21",,Walk,Pidgey,13,39,256
+Y,"Route 21",,Walk,Pidgey,15,51,256
+Y,"Route 21",,Walk,Pidgey,17,25,256
+Y,"Route 21",,Walk,Raticate,15,13,256
+Y,"Route 21",,Walk,Rattata,13,51,256
+Y,"Route 21",,Walk,Rattata,15,25,256
+B,"Route 22",,"Good Rod",Goldeen,10,1,2
+B,"Route 22",,"Good Rod",Poliwag,10,1,2
+B,"Route 22",,"Old Rod",Magikarp,5,1,1
+B,"Route 22",,"Super Rod",Goldeen,15,1,2
+B,"Route 22",,"Super Rod",Poliwag,15,1,2
+B,"Route 22",,Walk,"Nidoran♀",3,11,256
+B,"Route 22",,Walk,"Nidoran♀",4,3,256
+B,"Route 22",,Walk,"Nidoran♂",2,25,256
+B,"Route 22",,Walk,"Nidoran♂",3,51,256
+B,"Route 22",,Walk,"Nidoran♂",4,25,256
+B,"Route 22",,Walk,Rattata,2,25,256
+B,"Route 22",,Walk,Rattata,3,51,256
+B,"Route 22",,Walk,Rattata,4,39,256
+B,"Route 22",,Walk,Spearow,3,13,256
+B,"Route 22",,Walk,Spearow,5,13,256
+G,"Route 22",,"Good Rod",Goldeen,10,1,2
+G,"Route 22",,"Good Rod",Poliwag,10,1,2
+G,"Route 22",,"Old Rod",Magikarp,5,1,1
+G,"Route 22",,"Super Rod",Goldeen,15,1,2
+G,"Route 22",,"Super Rod",Poliwag,15,1,2
+G,"Route 22",,Walk,"Nidoran♀",2,25,256
+G,"Route 22",,Walk,"Nidoran♀",3,51,256
+G,"Route 22",,Walk,"Nidoran♀",4,25,256
+G,"Route 22",,Walk,"Nidoran♂",3,11,256
+G,"Route 22",,Walk,"Nidoran♂",4,3,256
+G,"Route 22",,Walk,Rattata,2,25,256
+G,"Route 22",,Walk,Rattata,3,51,256
+G,"Route 22",,Walk,Rattata,4,39,256
+G,"Route 22",,Walk,Spearow,3,13,256
+G,"Route 22",,Walk,Spearow,5,13,256
+R,"Route 22",,"Good Rod",Goldeen,10,1,2
+R,"Route 22",,"Good Rod",Poliwag,10,1,2
+R,"Route 22",,"Old Rod",Magikarp,5,1,1
+R,"Route 22",,"Super Rod",Goldeen,15,1,2
+R,"Route 22",,"Super Rod",Poliwag,15,1,2
+R,"Route 22",,Walk,"Nidoran♀",3,11,256
+R,"Route 22",,Walk,"Nidoran♀",4,3,256
+R,"Route 22",,Walk,"Nidoran♂",2,25,256
+R,"Route 22",,Walk,"Nidoran♂",3,51,256
+R,"Route 22",,Walk,"Nidoran♂",4,25,256
+R,"Route 22",,Walk,Rattata,2,25,256
+R,"Route 22",,Walk,Rattata,3,51,256
+R,"Route 22",,Walk,Rattata,4,39,256
+R,"Route 22",,Walk,Spearow,3,13,256
+R,"Route 22",,Walk,Spearow,5,13,256
+Y,"Route 22",,"Good Rod",Goldeen,10,1,2
+Y,"Route 22",,"Good Rod",Poliwag,10,1,2
+Y,"Route 22",,"Old Rod",Magikarp,5,1,1
+Y,"Route 22",,"Super Rod",Poliwag,5,102,256
+Y,"Route 22",,"Super Rod",Poliwag,10,76,256
+Y,"Route 22",,"Super Rod",Poliwag,15,51,256
+Y,"Route 22",,"Super Rod",Poliwhirl,15,27,256
+Y,"Route 22",,Walk,Mankey,3,39,256
+Y,"Route 22",,Walk,Mankey,5,13,256
+Y,"Route 22",,Walk,"Nidoran♀",2,51,256
+Y,"Route 22",,Walk,"Nidoran♀",4,25,256
+Y,"Route 22",,Walk,"Nidoran♂",2,51,256
+Y,"Route 22",,Walk,"Nidoran♂",4,25,256
+Y,"Route 22",,Walk,Rattata,3,25,256
+Y,"Route 22",,Walk,Spearow,2,13,256
+Y,"Route 22",,Walk,Spearow,4,11,256
+Y,"Route 22",,Walk,Spearow,6,3,256
+B,"Route 23",,"Good Rod",Goldeen,10,1,2
+B,"Route 23",,"Good Rod",Poliwag,10,1,2
+B,"Route 23",,"Old Rod",Magikarp,5,1,1
+B,"Route 23",,"Super Rod",Kingler,23,1,4
+B,"Route 23",,"Super Rod",Seadra,23,1,4
+B,"Route 23",,"Super Rod",Seaking,23,1,4
+B,"Route 23",,"Super Rod",Slowbro,23,1,4
+B,"Route 23",,Walk,Ditto,33,51,256
+B,"Route 23",,Walk,Ditto,38,25,256
+B,"Route 23",,Walk,Ditto,43,13,256
+B,"Route 23",,Walk,Fearow,38,50,256
+B,"Route 23",,Walk,Fearow,41,11,256
+B,"Route 23",,Walk,Fearow,43,3,256
+B,"Route 23",,Walk,Sandshrew,26,51,256
+B,"Route 23",,Walk,Sandslash,41,13,256
+B,"Route 23",,Walk,Spearow,26,39,256
+G,"Route 23",,"Good Rod",Goldeen,10,1,2
+G,"Route 23",,"Good Rod",Poliwag,10,1,2
+G,"Route 23",,"Old Rod",Magikarp,5,1,1
+G,"Route 23",,"Super Rod",Kingler,23,1,4
+G,"Route 23",,"Super Rod",Seadra,23,1,4
+G,"Route 23",,"Super Rod",Seaking,23,1,4
+G,"Route 23",,"Super Rod",Slowbro,23,1,4
+G,"Route 23",,Walk,Ditto,33,51,256
+G,"Route 23",,Walk,Ditto,38,25,256
+G,"Route 23",,Walk,Ditto,43,13,256
+G,"Route 23",,Walk,Fearow,38,50,256
+G,"Route 23",,Walk,Fearow,41,11,256
+G,"Route 23",,Walk,Fearow,43,3,256
+G,"Route 23",,Walk,Sandshrew,26,51,256
+G,"Route 23",,Walk,Sandslash,41,13,256
+G,"Route 23",,Walk,Spearow,26,39,256
+R,"Route 23",,"Good Rod",Goldeen,10,1,2
+R,"Route 23",,"Good Rod",Poliwag,10,1,2
+R,"Route 23",,"Old Rod",Magikarp,5,1,1
+R,"Route 23",,"Super Rod",Kingler,23,1,4
+R,"Route 23",,"Super Rod",Seadra,23,1,4
+R,"Route 23",,"Super Rod",Seaking,23,1,4
+R,"Route 23",,"Super Rod",Slowbro,23,1,4
+R,"Route 23",,Walk,Arbok,41,13,256
+R,"Route 23",,Walk,Ditto,33,51,256
+R,"Route 23",,Walk,Ditto,38,25,256
+R,"Route 23",,Walk,Ditto,43,13,256
+R,"Route 23",,Walk,Ekans,26,51,256
+R,"Route 23",,Walk,Fearow,38,50,256
+R,"Route 23",,Walk,Fearow,41,11,256
+R,"Route 23",,Walk,Fearow,43,3,256
+R,"Route 23",,Walk,Spearow,26,39,256
+Y,"Route 23",,"Good Rod",Goldeen,10,1,2
+Y,"Route 23",,"Good Rod",Poliwag,10,1,2
+Y,"Route 23",,"Old Rod",Magikarp,5,1,1
+Y,"Route 23",,"Super Rod",Poliwag,25,102,256
+Y,"Route 23",,"Super Rod",Poliwag,30,76,256
+Y,"Route 23",,"Super Rod",Poliwhirl,30,51,256
+Y,"Route 23",,"Super Rod",Poliwhirl,40,27,256
+Y,"Route 23",,Walk,Fearow,40,25,256
+Y,"Route 23",,Walk,Fearow,45,13,256
+Y,"Route 23",,Walk,Mankey,36,39,256
+Y,"Route 23",,Walk,Mankey,41,13,256
+Y,"Route 23",,Walk,Nidorina,41,51,256
+Y,"Route 23",,Walk,Nidorina,44,25,256
+Y,"Route 23",,Walk,Nidorino,41,51,256
+Y,"Route 23",,Walk,Nidorino,44,25,256
+Y,"Route 23",,Walk,Primeape,41,11,256
+Y,"Route 23",,Walk,Primeape,46,3,256
+B,"Route 24",,"Good Rod",Goldeen,10,1,2
+B,"Route 24",,"Good Rod",Poliwag,10,1,2
+B,"Route 24",,"Old Rod",Magikarp,5,1,1
+B,"Route 24",,"Super Rod",Goldeen,15,1,3
+B,"Route 24",,"Super Rod",Krabby,15,1,3
+B,"Route 24",,"Super Rod",Psyduck,15,1,3
+B,"Route 24",,Walk,Abra,8,11,256
+B,"Route 24",,Walk,Abra,10,25,256
+B,"Route 24",,Walk,Abra,12,3,256
+B,"Route 24",,Walk,Caterpie,7,51,256
+B,"Route 24",,Walk,Metapod,8,51,256
+B,"Route 24",,Walk,Oddish,12,25,256
+B,"Route 24",,Walk,Oddish,13,25,256
+B,"Route 24",,Walk,Oddish,14,13,256
+B,"Route 24",,Walk,Pidgey,12,39,256
+B,"Route 24",,Walk,Pidgey,13,13,256
+G,"Route 24",,"Good Rod",Goldeen,10,1,2
+G,"Route 24",,"Good Rod",Poliwag,10,1,2
+G,"Route 24",,"Old Rod",Magikarp,5,1,1
+G,"Route 24",,"Super Rod",Goldeen,15,1,3
+G,"Route 24",,"Super Rod",Krabby,15,1,3
+G,"Route 24",,"Super Rod",Psyduck,15,1,3
+G,"Route 24",,Walk,Abra,8,11,256
+G,"Route 24",,Walk,Abra,10,25,256
+G,"Route 24",,Walk,Abra,12,3,256
+G,"Route 24",,Walk,Bellsprout,12,25,256
+G,"Route 24",,Walk,Bellsprout,13,25,256
+G,"Route 24",,Walk,Bellsprout,14,13,256
+G,"Route 24",,Walk,Caterpie,7,51,256
+G,"Route 24",,Walk,Metapod,8,51,256
+G,"Route 24",,Walk,Pidgey,12,39,256
+G,"Route 24",,Walk,Pidgey,13,13,256
+R,"Route 24",,"Good Rod",Goldeen,10,1,2
+R,"Route 24",,"Good Rod",Poliwag,10,1,2
+R,"Route 24",,"Old Rod",Magikarp,5,1,1
+R,"Route 24",,"Super Rod",Goldeen,15,1,3
+R,"Route 24",,"Super Rod",Krabby,15,1,3
+R,"Route 24",,"Super Rod",Psyduck,15,1,3
+R,"Route 24",,Walk,Abra,8,11,256
+R,"Route 24",,Walk,Abra,10,25,256
+R,"Route 24",,Walk,Abra,12,3,256
+R,"Route 24",,Walk,Kakuna,8,51,256
+R,"Route 24",,Walk,Oddish,12,25,256
+R,"Route 24",,Walk,Oddish,13,25,256
+R,"Route 24",,Walk,Oddish,14,13,256
+R,"Route 24",,Walk,Pidgey,12,39,256
+R,"Route 24",,Walk,Pidgey,13,13,256
+R,"Route 24",,Walk,Weedle,7,51,256
+Y,"Route 24",,"Good Rod",Goldeen,10,1,2
+Y,"Route 24",,"Good Rod",Poliwag,10,1,2
+Y,"Route 24",,"Old Rod",Magikarp,5,1,1
+Y,"Route 24",,"Super Rod",Goldeen,20,102,256
+Y,"Route 24",,"Super Rod",Goldeen,25,76,256
+Y,"Route 24",,"Super Rod",Goldeen,30,51,256
+Y,"Route 24",,"Super Rod",Seaking,30,27,256
+Y,"Route 24",,Walk,Bellsprout,12,51,256
+Y,"Route 24",,Walk,Bellsprout,14,25,256
+Y,"Route 24",,Walk,Oddish,12,51,256
+Y,"Route 24",,Walk,Oddish,14,25,256
+Y,"Route 24",,Walk,Pidgeotto,17,3,256
+Y,"Route 24",,Walk,Pidgey,13,39,256
+Y,"Route 24",,Walk,Pidgey,15,25,256
+Y,"Route 24",,Walk,Pidgey,17,11,256
+Y,"Route 24",,Walk,Venonat,13,13,256
+Y,"Route 24",,Walk,Venonat,16,13,256
+B,"Route 25",,"Good Rod",Goldeen,10,1,2
+B,"Route 25",,"Good Rod",Poliwag,10,1,2
+B,"Route 25",,"Old Rod",Magikarp,5,1,1
+B,"Route 25",,"Super Rod",Goldeen,15,1,3
+B,"Route 25",,"Super Rod",Krabby,15,1,3
+B,"Route 25",,"Super Rod",Psyduck,15,1,3
+B,"Route 25",,Walk,Abra,10,13,256
+B,"Route 25",,Walk,Abra,12,25,256
+B,"Route 25",,Walk,Caterpie,8,51,256
+B,"Route 25",,Walk,Kakuna,7,11,256
+B,"Route 25",,Walk,Metapod,9,51,256
+B,"Route 25",,Walk,Oddish,12,25,256
+B,"Route 25",,Walk,Oddish,13,25,256
+B,"Route 25",,Walk,Oddish,14,13,256
+B,"Route 25",,Walk,Pidgey,13,39,256
+B,"Route 25",,Walk,Weedle,8,3,256
+G,"Route 25",,"Good Rod",Goldeen,10,1,2
+G,"Route 25",,"Good Rod",Poliwag,10,1,2
+G,"Route 25",,"Old Rod",Magikarp,5,1,1
+G,"Route 25",,"Super Rod",Goldeen,15,1,3
+G,"Route 25",,"Super Rod",Krabby,15,1,3
+G,"Route 25",,"Super Rod",Psyduck,15,1,3
+G,"Route 25",,Walk,Abra,10,13,256
+G,"Route 25",,Walk,Abra,12,25,256
+G,"Route 25",,Walk,Bellsprout,12,25,256
+G,"Route 25",,Walk,Bellsprout,13,25,256
+G,"Route 25",,Walk,Bellsprout,14,13,256
+G,"Route 25",,Walk,Caterpie,8,51,256
+G,"Route 25",,Walk,Kakuna,7,11,256
+G,"Route 25",,Walk,Metapod,9,51,256
+G,"Route 25",,Walk,Pidgey,13,39,256
+G,"Route 25",,Walk,Weedle,8,3,256
+R,"Route 25",,"Good Rod",Goldeen,10,1,2
+R,"Route 25",,"Good Rod",Poliwag,10,1,2
+R,"Route 25",,"Old Rod",Magikarp,5,1,1
+R,"Route 25",,"Super Rod",Goldeen,15,1,3
+R,"Route 25",,"Super Rod",Krabby,15,1,3
+R,"Route 25",,"Super Rod",Psyduck,15,1,3
+R,"Route 25",,Walk,Abra,10,13,256
+R,"Route 25",,Walk,Abra,12,25,256
+R,"Route 25",,Walk,Caterpie,8,3,256
+R,"Route 25",,Walk,Kakuna,9,51,256
+R,"Route 25",,Walk,Metapod,7,11,256
+R,"Route 25",,Walk,Oddish,12,25,256
+R,"Route 25",,Walk,Oddish,13,25,256
+R,"Route 25",,Walk,Oddish,14,13,256
+R,"Route 25",,Walk,Pidgey,13,39,256
+R,"Route 25",,Walk,Weedle,8,51,256
+Y,"Route 25",,"Good Rod",Goldeen,10,1,2
+Y,"Route 25",,"Good Rod",Poliwag,10,1,2
+Y,"Route 25",,"Old Rod",Magikarp,5,1,1
+Y,"Route 25",,"Super Rod",Kingler,15,51,256
+Y,"Route 25",,"Super Rod",Kingler,25,27,256
+Y,"Route 25",,"Super Rod",Krabby,10,102,256
+Y,"Route 25",,"Super Rod",Krabby,15,76,256
+Y,"Route 25",,Walk,Bellsprout,12,51,256
+Y,"Route 25",,Walk,Bellsprout,14,25,256
+Y,"Route 25",,Walk,Oddish,12,51,256
+Y,"Route 25",,Walk,Oddish,14,25,256
+Y,"Route 25",,Walk,Pidgeotto,17,3,256
+Y,"Route 25",,Walk,Pidgey,13,39,256
+Y,"Route 25",,Walk,Pidgey,15,25,256
+Y,"Route 25",,Walk,Pidgey,17,11,256
+Y,"Route 25",,Walk,Venonat,13,13,256
+Y,"Route 25",,Walk,Venonat,16,13,256
+B,"Route 3",,Walk,Jigglypuff,3,13,256
+B,"Route 3",,Walk,Jigglypuff,5,11,256
+B,"Route 3",,Walk,Jigglypuff,7,3,256
+B,"Route 3",,Walk,Pidgey,6,51,256
+B,"Route 3",,Walk,Pidgey,7,39,256
+B,"Route 3",,Walk,Pidgey,8,25,256
+B,"Route 3",,Walk,Spearow,5,51,256
+B,"Route 3",,Walk,Spearow,6,25,256
+B,"Route 3",,Walk,Spearow,7,25,256
+B,"Route 3",,Walk,Spearow,8,13,256
+G,"Route 3",,Walk,Jigglypuff,3,13,256
+G,"Route 3",,Walk,Jigglypuff,5,11,256
+G,"Route 3",,Walk,Jigglypuff,7,3,256
+G,"Route 3",,Walk,Pidgey,6,51,256
+G,"Route 3",,Walk,Pidgey,7,39,256
+G,"Route 3",,Walk,Pidgey,8,25,256
+G,"Route 3",,Walk,Spearow,5,51,256
+G,"Route 3",,Walk,Spearow,6,25,256
+G,"Route 3",,Walk,Spearow,7,25,256
+G,"Route 3",,Walk,Spearow,8,13,256
+R,"Route 3",,Walk,Jigglypuff,3,13,256
+R,"Route 3",,Walk,Jigglypuff,5,11,256
+R,"Route 3",,Walk,Jigglypuff,7,3,256
+R,"Route 3",,Walk,Pidgey,6,51,256
+R,"Route 3",,Walk,Pidgey,7,39,256
+R,"Route 3",,Walk,Pidgey,8,25,256
+R,"Route 3",,Walk,Spearow,5,51,256
+R,"Route 3",,Walk,Spearow,6,25,256
+R,"Route 3",,Walk,Spearow,7,25,256
+R,"Route 3",,Walk,Spearow,8,13,256
+Y,"Route 3",,Walk,Mankey,9,39,256
+Y,"Route 3",,Walk,Rattata,10,25,256
+Y,"Route 3",,Walk,Rattata,12,13,256
+Y,"Route 3",,Walk,Sandshrew,8,25,256
+Y,"Route 3",,Walk,Sandshrew,10,13,256
+Y,"Route 3",,Walk,Spearow,8,51,256
+Y,"Route 3",,Walk,Spearow,9,51,256
+Y,"Route 3",,Walk,Spearow,10,25,256
+Y,"Route 3",,Walk,Spearow,11,11,256
+Y,"Route 3",,Walk,Spearow,12,3,256
+B,"Route 4",,"Good Rod",Goldeen,10,1,2
+B,"Route 4",,"Good Rod",Poliwag,10,1,2
+B,"Route 4",,"Old Rod",Magikarp,5,1,1
+B,"Route 4",,"Super Rod",Goldeen,15,1,3
+B,"Route 4",,"Super Rod",Krabby,15,1,3
+B,"Route 4",,"Super Rod",Psyduck,15,1,3
+B,"Route 4",,Walk,Rattata,8,39,256
+B,"Route 4",,Walk,Rattata,10,51,256
+B,"Route 4",,Walk,Rattata,12,13,256
+B,"Route 4",,Walk,Sandshrew,6,25,256
+B,"Route 4",,Walk,Sandshrew,8,11,256
+B,"Route 4",,Walk,Sandshrew,10,25,256
+B,"Route 4",,Walk,Sandshrew,12,3,256
+B,"Route 4",,Walk,Spearow,8,25,256
+B,"Route 4",,Walk,Spearow,10,51,256
+B,"Route 4",,Walk,Spearow,12,13,256
+G,"Route 4",,"Good Rod",Goldeen,10,1,2
+G,"Route 4",,"Good Rod",Poliwag,10,1,2
+G,"Route 4",,"Old Rod",Magikarp,5,1,1
+G,"Route 4",,"Super Rod",Goldeen,15,1,3
+G,"Route 4",,"Super Rod",Krabby,15,1,3
+G,"Route 4",,"Super Rod",Psyduck,15,1,3
+G,"Route 4",,Walk,Rattata,8,39,256
+G,"Route 4",,Walk,Rattata,10,51,256
+G,"Route 4",,Walk,Rattata,12,13,256
+G,"Route 4",,Walk,Sandshrew,6,25,256
+G,"Route 4",,Walk,Sandshrew,8,11,256
+G,"Route 4",,Walk,Sandshrew,10,25,256
+G,"Route 4",,Walk,Sandshrew,12,3,256
+G,"Route 4",,Walk,Spearow,8,25,256
+G,"Route 4",,Walk,Spearow,10,51,256
+G,"Route 4",,Walk,Spearow,12,13,256
+R,"Route 4",,"Good Rod",Goldeen,10,1,2
+R,"Route 4",,"Good Rod",Poliwag,10,1,2
+R,"Route 4",,"Old Rod",Magikarp,5,1,1
+R,"Route 4",,"Super Rod",Goldeen,15,1,3
+R,"Route 4",,"Super Rod",Krabby,15,1,3
+R,"Route 4",,"Super Rod",Psyduck,15,1,3
+R,"Route 4",,Walk,Ekans,6,25,256
+R,"Route 4",,Walk,Ekans,8,11,256
+R,"Route 4",,Walk,Ekans,10,25,256
+R,"Route 4",,Walk,Ekans,12,3,256
+R,"Route 4",,Walk,Rattata,8,39,256
+R,"Route 4",,Walk,Rattata,10,51,256
+R,"Route 4",,Walk,Rattata,12,13,256
+R,"Route 4",,Walk,Spearow,8,25,256
+R,"Route 4",,Walk,Spearow,10,51,256
+R,"Route 4",,Walk,Spearow,12,13,256
+Y,"Route 4",,"Good Rod",Goldeen,10,1,2
+Y,"Route 4",,"Good Rod",Poliwag,10,1,2
+Y,"Route 4",,"Old Rod",Magikarp,5,1,1
+Y,"Route 4",,"Super Rod",Goldeen,20,102,256
+Y,"Route 4",,"Super Rod",Goldeen,25,76,256
+Y,"Route 4",,"Super Rod",Goldeen,30,51,256
+Y,"Route 4",,"Super Rod",Seaking,30,27,256
+Y,"Route 4",,Walk,Mankey,9,39,256
+Y,"Route 4",,Walk,Rattata,10,25,256
+Y,"Route 4",,Walk,Rattata,12,13,256
+Y,"Route 4",,Walk,Sandshrew,8,25,256
+Y,"Route 4",,Walk,Sandshrew,10,13,256
+Y,"Route 4",,Walk,Spearow,8,51,256
+Y,"Route 4",,Walk,Spearow,9,51,256
+Y,"Route 4",,Walk,Spearow,10,25,256
+Y,"Route 4",,Walk,Spearow,11,11,256
+Y,"Route 4",,Walk,Spearow,12,3,256
+B,"Route 5",,Walk,Meowth,10,25,256
+B,"Route 5",,Walk,Meowth,12,25,256
+B,"Route 5",,Walk,Meowth,14,11,256
+B,"Route 5",,Walk,Meowth,16,3,256
+B,"Route 5",,Walk,Oddish,13,51,256
+B,"Route 5",,Walk,Oddish,15,25,256
+B,"Route 5",,Walk,Oddish,16,13,256
+B,"Route 5",,Walk,Pidgey,13,51,256
+B,"Route 5",,Walk,Pidgey,15,39,256
+B,"Route 5",,Walk,Pidgey,16,13,256
+G,"Route 5",,Walk,Bellsprout,13,51,256
+G,"Route 5",,Walk,Bellsprout,15,25,256
+G,"Route 5",,Walk,Bellsprout,16,13,256
+G,"Route 5",,Walk,Meowth,10,25,256
+G,"Route 5",,Walk,Meowth,12,25,256
+G,"Route 5",,Walk,Meowth,14,11,256
+G,"Route 5",,Walk,Meowth,16,3,256
+G,"Route 5",,Walk,Pidgey,13,51,256
+G,"Route 5",,Walk,Pidgey,15,39,256
+G,"Route 5",,Walk,Pidgey,16,13,256
+R,"Route 5",,Walk,Mankey,10,25,256
+R,"Route 5",,Walk,Mankey,12,25,256
+R,"Route 5",,Walk,Mankey,14,11,256
+R,"Route 5",,Walk,Mankey,16,3,256
+R,"Route 5",,Walk,Oddish,13,51,256
+R,"Route 5",,Walk,Oddish,15,25,256
+R,"Route 5",,Walk,Oddish,16,13,256
+R,"Route 5",,Walk,Pidgey,13,51,256
+R,"Route 5",,Walk,Pidgey,15,39,256
+R,"Route 5",,Walk,Pidgey,16,13,256
+Y,"Route 5",,Walk,Abra,7,39,256
+Y,"Route 5",,Walk,Jigglypuff,3,13,256
+Y,"Route 5",,Walk,Jigglypuff,5,11,256
+Y,"Route 5",,Walk,Jigglypuff,7,3,256
+Y,"Route 5",,Walk,Pidgeotto,17,13,256
+Y,"Route 5",,Walk,Pidgey,15,51,256
+Y,"Route 5",,Walk,Pidgey,16,25,256
+Y,"Route 5",,Walk,Pidgey,17,25,256
+Y,"Route 5",,Walk,Rattata,14,51,256
+Y,"Route 5",,Walk,Rattata,16,25,256
+B,"Route 6",,"Good Rod",Goldeen,10,1,2
+B,"Route 6",,"Good Rod",Poliwag,10,1,2
+B,"Route 6",,"Old Rod",Magikarp,5,1,1
+B,"Route 6",,"Super Rod",Krabby,15,1,2
+B,"Route 6",,"Super Rod",Shellder,15,1,2
+B,"Route 6",,Walk,Meowth,10,25,256
+B,"Route 6",,Walk,Meowth,12,25,256
+B,"Route 6",,Walk,Meowth,14,11,256
+B,"Route 6",,Walk,Meowth,16,3,256
+B,"Route 6",,Walk,Oddish,13,51,256
+B,"Route 6",,Walk,Oddish,15,25,256
+B,"Route 6",,Walk,Oddish,16,13,256
+B,"Route 6",,Walk,Pidgey,13,51,256
+B,"Route 6",,Walk,Pidgey,15,39,256
+B,"Route 6",,Walk,Pidgey,16,13,256
+G,"Route 6",,"Good Rod",Goldeen,10,1,2
+G,"Route 6",,"Good Rod",Poliwag,10,1,2
+G,"Route 6",,"Old Rod",Magikarp,5,1,1
+G,"Route 6",,"Super Rod",Krabby,15,1,2
+G,"Route 6",,"Super Rod",Shellder,15,1,2
+G,"Route 6",,Walk,Bellsprout,13,51,256
+G,"Route 6",,Walk,Bellsprout,15,25,256
+G,"Route 6",,Walk,Bellsprout,16,13,256
+G,"Route 6",,Walk,Meowth,10,25,256
+G,"Route 6",,Walk,Meowth,12,25,256
+G,"Route 6",,Walk,Meowth,14,11,256
+G,"Route 6",,Walk,Meowth,16,3,256
+G,"Route 6",,Walk,Pidgey,13,51,256
+G,"Route 6",,Walk,Pidgey,15,39,256
+G,"Route 6",,Walk,Pidgey,16,13,256
+R,"Route 6",,"Good Rod",Goldeen,10,1,2
+R,"Route 6",,"Good Rod",Poliwag,10,1,2
+R,"Route 6",,"Old Rod",Magikarp,5,1,1
+R,"Route 6",,"Super Rod",Krabby,15,1,2
+R,"Route 6",,"Super Rod",Shellder,15,1,2
+R,"Route 6",,Walk,Mankey,10,25,256
+R,"Route 6",,Walk,Mankey,12,25,256
+R,"Route 6",,Walk,Mankey,14,11,256
+R,"Route 6",,Walk,Mankey,16,3,256
+R,"Route 6",,Walk,Oddish,13,51,256
+R,"Route 6",,Walk,Oddish,15,25,256
+R,"Route 6",,Walk,Oddish,16,13,256
+R,"Route 6",,Walk,Pidgey,13,51,256
+R,"Route 6",,Walk,Pidgey,15,39,256
+R,"Route 6",,Walk,Pidgey,16,13,256
+Y,"Route 6",,"Good Rod",Goldeen,10,1,2
+Y,"Route 6",,"Good Rod",Poliwag,10,1,2
+Y,"Route 6",,"Old Rod",Magikarp,5,1,1
+Y,"Route 6",,"Super Rod",Goldeen,5,102,256
+Y,"Route 6",,"Super Rod",Goldeen,10,76,256
+Y,"Route 6",,"Super Rod",Goldeen,15,51,256
+Y,"Route 6",,"Super Rod",Goldeen,20,27,256
+Y,"Route 6",,Surf,Golduck,15,11,256
+Y,"Route 6",,Surf,Golduck,20,3,256
+Y,"Route 6",,Surf,Psyduck,15,242,256
+Y,"Route 6",,Walk,Abra,7,39,256
+Y,"Route 6",,Walk,Jigglypuff,3,13,256
+Y,"Route 6",,Walk,Jigglypuff,5,11,256
+Y,"Route 6",,Walk,Jigglypuff,7,3,256
+Y,"Route 6",,Walk,Pidgeotto,17,13,256
+Y,"Route 6",,Walk,Pidgey,15,51,256
+Y,"Route 6",,Walk,Pidgey,16,25,256
+Y,"Route 6",,Walk,Pidgey,17,25,256
+Y,"Route 6",,Walk,Rattata,14,51,256
+Y,"Route 6",,Walk,Rattata,16,25,256
+B,"Route 7",,Walk,Growlithe,18,13,256
+B,"Route 7",,Walk,Growlithe,20,13,256
+B,"Route 7",,Walk,Meowth,17,39,256
+B,"Route 7",,Walk,Meowth,18,25,256
+B,"Route 7",,Walk,Meowth,19,11,256
+B,"Route 7",,Walk,Meowth,20,3,256
+B,"Route 7",,Walk,Oddish,19,51,256
+B,"Route 7",,Walk,Oddish,22,25,256
+B,"Route 7",,Walk,Pidgey,19,51,256
+B,"Route 7",,Walk,Pidgey,22,25,256
+G,"Route 7",,Walk,Bellsprout,19,51,256
+G,"Route 7",,Walk,Bellsprout,22,25,256
+G,"Route 7",,Walk,Meowth,17,39,256
+G,"Route 7",,Walk,Meowth,18,25,256
+G,"Route 7",,Walk,Meowth,19,11,256
+G,"Route 7",,Walk,Meowth,20,3,256
+G,"Route 7",,Walk,Pidgey,19,51,256
+G,"Route 7",,Walk,Pidgey,22,25,256
+G,"Route 7",,Walk,Vulpix,18,13,256
+G,"Route 7",,Walk,Vulpix,20,13,256
+R,"Route 7",,Walk,Growlithe,18,13,256
+R,"Route 7",,Walk,Growlithe,20,13,256
+R,"Route 7",,Walk,Mankey,17,39,256
+R,"Route 7",,Walk,Mankey,18,25,256
+R,"Route 7",,Walk,Mankey,19,11,256
+R,"Route 7",,Walk,Mankey,20,3,256
+R,"Route 7",,Walk,Oddish,19,51,256
+R,"Route 7",,Walk,Oddish,22,25,256
+R,"Route 7",,Walk,Pidgey,19,51,256
+R,"Route 7",,Walk,Pidgey,22,25,256
+Y,"Route 7",,Walk,Abra,15,25,256
+Y,"Route 7",,Walk,Abra,19,25,256
+Y,"Route 7",,Walk,Abra,26,13,256
+Y,"Route 7",,Walk,Jigglypuff,19,13,256
+Y,"Route 7",,Walk,Jigglypuff,24,14,256
+Y,"Route 7",,Walk,Pidgeotto,24,25,256
+Y,"Route 7",,Walk,Pidgey,20,51,256
+Y,"Route 7",,Walk,Pidgey,22,51,256
+Y,"Route 7",,Walk,Rattata,20,39,256
+B,"Route 8",,Walk,Growlithe,15,11,256
+B,"Route 8",,Walk,Growlithe,16,25,256
+B,"Route 8",,Walk,Growlithe,17,13,256
+B,"Route 8",,Walk,Growlithe,18,3,256
+B,"Route 8",,Walk,Meowth,18,51,256
+B,"Route 8",,Walk,Meowth,20,25,256
+B,"Route 8",,Walk,Pidgey,18,51,256
+B,"Route 8",,Walk,Pidgey,20,25,256
+B,"Route 8",,Walk,Sandshrew,17,39,256
+B,"Route 8",,Walk,Sandshrew,19,13,256
+G,"Route 8",,Walk,Meowth,18,51,256
+G,"Route 8",,Walk,Meowth,20,25,256
+G,"Route 8",,Walk,Pidgey,18,51,256
+G,"Route 8",,Walk,Pidgey,20,25,256
+G,"Route 8",,Walk,Sandshrew,17,39,256
+G,"Route 8",,Walk,Sandshrew,19,13,256
+G,"Route 8",,Walk,Vulpix,15,11,256
+G,"Route 8",,Walk,Vulpix,16,25,256
+G,"Route 8",,Walk,Vulpix,17,13,256
+G,"Route 8",,Walk,Vulpix,18,3,256
+R,"Route 8",,Walk,Ekans,17,39,256
+R,"Route 8",,Walk,Ekans,19,13,256
+R,"Route 8",,Walk,Growlithe,15,11,256
+R,"Route 8",,Walk,Growlithe,16,25,256
+R,"Route 8",,Walk,Growlithe,17,13,256
+R,"Route 8",,Walk,Growlithe,18,3,256
+R,"Route 8",,Walk,Mankey,18,51,256
+R,"Route 8",,Walk,Mankey,20,25,256
+R,"Route 8",,Walk,Pidgey,18,51,256
+R,"Route 8",,Walk,Pidgey,20,25,256
+Y,"Route 8",,Walk,Abra,15,25,256
+Y,"Route 8",,Walk,Abra,19,25,256
+Y,"Route 8",,Walk,Jigglypuff,19,13,256
+Y,"Route 8",,Walk,Jigglypuff,24,13,256
+Y,"Route 8",,Walk,Kadabra,20,11,256
+Y,"Route 8",,Walk,Kadabra,27,3,256
+Y,"Route 8",,Walk,Pidgeotto,24,25,256
+Y,"Route 8",,Walk,Pidgey,20,51,256
+Y,"Route 8",,Walk,Pidgey,22,51,256
+Y,"Route 8",,Walk,Rattata,20,39,256
+B,"Route 9",,Walk,Rattata,14,39,256
+B,"Route 9",,Walk,Rattata,16,51,256
+B,"Route 9",,Walk,Rattata,17,13,256
+B,"Route 9",,Walk,Sandshrew,11,25,256
+B,"Route 9",,Walk,Sandshrew,13,11,256
+B,"Route 9",,Walk,Sandshrew,15,25,256
+B,"Route 9",,Walk,Sandshrew,17,3,256
+B,"Route 9",,Walk,Spearow,13,25,256
+B,"Route 9",,Walk,Spearow,16,51,256
+B,"Route 9",,Walk,Spearow,17,13,256
+G,"Route 9",,Walk,Rattata,14,39,256
+G,"Route 9",,Walk,Rattata,16,51,256
+G,"Route 9",,Walk,Rattata,17,13,256
+G,"Route 9",,Walk,Sandshrew,11,25,256
+G,"Route 9",,Walk,Sandshrew,13,11,256
+G,"Route 9",,Walk,Sandshrew,15,25,256
+G,"Route 9",,Walk,Sandshrew,17,3,256
+G,"Route 9",,Walk,Spearow,13,25,256
+G,"Route 9",,Walk,Spearow,16,51,256
+G,"Route 9",,Walk,Spearow,17,13,256
+R,"Route 9",,Walk,Ekans,11,25,256
+R,"Route 9",,Walk,Ekans,13,11,256
+R,"Route 9",,Walk,Ekans,15,25,256
+R,"Route 9",,Walk,Ekans,17,3,256
+R,"Route 9",,Walk,Rattata,14,39,256
+R,"Route 9",,Walk,Rattata,16,51,256
+R,"Route 9",,Walk,Rattata,17,13,256
+R,"Route 9",,Walk,Spearow,13,25,256
+R,"Route 9",,Walk,Spearow,16,51,256
+R,"Route 9",,Walk,Spearow,17,13,256
+Y,"Route 9",,Walk,Fearow,19,3,256
+Y,"Route 9",,Walk,"Nidoran♀",16,51,256
+Y,"Route 9",,Walk,"Nidoran♀",18,25,256
+Y,"Route 9",,Walk,"Nidoran♂",16,51,256
+Y,"Route 9",,Walk,"Nidoran♂",18,25,256
+Y,"Route 9",,Walk,Nidorina,18,13,256
+Y,"Route 9",,Walk,Nidorino,18,13,256
+Y,"Route 9",,Walk,Raticate,20,11,256
+Y,"Route 9",,Walk,Rattata,18,39,256
+Y,"Route 9",,Walk,Spearow,17,25,256
+B,"Safari Zone","Area 1","Good Rod",Goldeen,10,1,2
+B,"Safari Zone","Area 1","Good Rod",Poliwag,10,1,2
+B,"Safari Zone","Area 1","Old Rod",Magikarp,5,1,1
+B,"Safari Zone","Area 1","Super Rod",Dratini,15,1,4
+B,"Safari Zone","Area 1","Super Rod",Krabby,15,1,4
+B,"Safari Zone","Area 1","Super Rod",Psyduck,15,1,4
+B,"Safari Zone","Area 1","Super Rod",Slowpoke,15,1,4
+B,"Safari Zone","Area 1",Walk,Doduo,26,51,256
+B,"Safari Zone","Area 1",Walk,Exeggcute,23,25,256
+B,"Safari Zone","Area 1",Walk,Exeggcute,25,25,256
+B,"Safari Zone","Area 1",Walk,Lickitung,25,11,256
+B,"Safari Zone","Area 1",Walk,"Nidoran♀",24,13,256
+B,"Safari Zone","Area 1",Walk,"Nidoran♂",24,51,256
+B,"Safari Zone","Area 1",Walk,Nidorino,33,25,256
+B,"Safari Zone","Area 1",Walk,Paras,22,39,256
+B,"Safari Zone","Area 1",Walk,Parasect,25,13,256
+B,"Safari Zone","Area 1",Walk,Scyther,28,3,256
+B,"Safari Zone","Area 2","Good Rod",Goldeen,10,1,2
+B,"Safari Zone","Area 2","Good Rod",Poliwag,10,1,2
+B,"Safari Zone","Area 2","Old Rod",Magikarp,5,1,1
+B,"Safari Zone","Area 2","Super Rod",Dratini,15,1,4
+B,"Safari Zone","Area 2","Super Rod",Krabby,15,1,4
+B,"Safari Zone","Area 2","Super Rod",Psyduck,15,1,4
+B,"Safari Zone","Area 2","Super Rod",Slowpoke,15,1,4
+B,"Safari Zone","Area 2",Walk,Chansey,26,11,256
+B,"Safari Zone","Area 2",Walk,Exeggcute,25,25,256
+B,"Safari Zone","Area 2",Walk,Exeggcute,27,25,256
+B,"Safari Zone","Area 2",Walk,"Nidoran♂",22,51,256
+B,"Safari Zone","Area 2",Walk,Nidorina,30,13,256
+B,"Safari Zone","Area 2",Walk,Nidorino,30,25,256
+B,"Safari Zone","Area 2",Walk,Paras,23,39,256
+B,"Safari Zone","Area 2",Walk,Pinsir,28,3,256
+B,"Safari Zone","Area 2",Walk,Rhyhorn,26,51,256
+B,"Safari Zone","Area 2",Walk,Venomoth,32,13,256
+B,"Safari Zone","Area 3","Good Rod",Goldeen,10,1,2
+B,"Safari Zone","Area 3","Good Rod",Poliwag,10,1,2
+B,"Safari Zone","Area 3","Old Rod",Magikarp,5,1,1
+B,"Safari Zone","Area 3","Super Rod",Dratini,15,1,4
+B,"Safari Zone","Area 3","Super Rod",Krabby,15,1,4
+B,"Safari Zone","Area 3","Super Rod",Psyduck,15,1,4
+B,"Safari Zone","Area 3","Super Rod",Slowpoke,15,1,4
+B,"Safari Zone","Area 3",Walk,Doduo,26,51,256
+B,"Safari Zone","Area 3",Walk,Exeggcute,24,25,256
+B,"Safari Zone","Area 3",Walk,Exeggcute,26,25,256
+B,"Safari Zone","Area 3",Walk,Lickitung,28,3,256
+B,"Safari Zone","Area 3",Walk,"Nidoran♀",25,13,256
+B,"Safari Zone","Area 3",Walk,"Nidoran♂",25,51,256
+B,"Safari Zone","Area 3",Walk,Nidorino,33,25,256
+B,"Safari Zone","Area 3",Walk,Pinsir,26,11,256
+B,"Safari Zone","Area 3",Walk,Venomoth,31,13,256
+B,"Safari Zone","Area 3",Walk,Venonat,23,39,256
+B,"Safari Zone",Center,"Good Rod",Goldeen,10,1,2
+B,"Safari Zone",Center,"Good Rod",Poliwag,10,1,2
+B,"Safari Zone",Center,"Old Rod",Magikarp,5,1,1
+B,"Safari Zone",Center,"Super Rod",Dratini,15,1,4
+B,"Safari Zone",Center,"Super Rod",Krabby,15,1,4
+B,"Safari Zone",Center,"Super Rod",Psyduck,15,1,4
+B,"Safari Zone",Center,"Super Rod",Slowpoke,15,1,4
+B,"Safari Zone",Center,Walk,Chansey,23,3,256
+B,"Safari Zone",Center,Walk,Exeggcute,24,25,256
+B,"Safari Zone",Center,Walk,Exeggcute,25,25,256
+B,"Safari Zone",Center,Walk,"Nidoran♂",22,51,256
+B,"Safari Zone",Center,Walk,Nidorina,31,13,256
+B,"Safari Zone",Center,Walk,Nidorino,31,25,256
+B,"Safari Zone",Center,Walk,Parasect,30,13,256
+B,"Safari Zone",Center,Walk,Rhyhorn,25,51,256
+B,"Safari Zone",Center,Walk,Scyther,23,11,256
+B,"Safari Zone",Center,Walk,Venonat,22,39,256
+G,"Safari Zone","Area 1","Good Rod",Goldeen,10,1,2
+G,"Safari Zone","Area 1","Good Rod",Poliwag,10,1,2
+G,"Safari Zone","Area 1","Old Rod",Magikarp,5,1,1
+G,"Safari Zone","Area 1","Super Rod",Dratini,15,1,4
+G,"Safari Zone","Area 1","Super Rod",Krabby,15,1,4
+G,"Safari Zone","Area 1","Super Rod",Psyduck,15,1,4
+G,"Safari Zone","Area 1","Super Rod",Slowpoke,15,1,4
+G,"Safari Zone","Area 1",Walk,Doduo,26,51,256
+G,"Safari Zone","Area 1",Walk,Exeggcute,23,25,256
+G,"Safari Zone","Area 1",Walk,Exeggcute,25,25,256
+G,"Safari Zone","Area 1",Walk,Kangaskhan,25,11,256
+G,"Safari Zone","Area 1",Walk,"Nidoran♀",24,51,256
+G,"Safari Zone","Area 1",Walk,"Nidoran♂",24,13,256
+G,"Safari Zone","Area 1",Walk,Nidorina,33,25,256
+G,"Safari Zone","Area 1",Walk,Paras,22,39,256
+G,"Safari Zone","Area 1",Walk,Parasect,25,13,256
+G,"Safari Zone","Area 1",Walk,Pinsir,28,3,256
+G,"Safari Zone","Area 2","Good Rod",Goldeen,10,1,2
+G,"Safari Zone","Area 2","Good Rod",Poliwag,10,1,2
+G,"Safari Zone","Area 2","Old Rod",Magikarp,5,1,1
+G,"Safari Zone","Area 2","Super Rod",Dratini,15,1,4
+G,"Safari Zone","Area 2","Super Rod",Krabby,15,1,4
+G,"Safari Zone","Area 2","Super Rod",Psyduck,15,1,4
+G,"Safari Zone","Area 2","Super Rod",Slowpoke,15,1,4
+G,"Safari Zone","Area 2",Walk,Chansey,26,11,256
+G,"Safari Zone","Area 2",Walk,Exeggcute,25,25,256
+G,"Safari Zone","Area 2",Walk,Exeggcute,27,25,256
+G,"Safari Zone","Area 2",Walk,"Nidoran♀",22,51,256
+G,"Safari Zone","Area 2",Walk,Nidorina,30,25,256
+G,"Safari Zone","Area 2",Walk,Nidorino,30,13,256
+G,"Safari Zone","Area 2",Walk,Paras,23,39,256
+G,"Safari Zone","Area 2",Walk,Rhyhorn,26,51,256
+G,"Safari Zone","Area 2",Walk,Tauros,28,3,256
+G,"Safari Zone","Area 2",Walk,Venomoth,32,13,256
+G,"Safari Zone","Area 3","Good Rod",Goldeen,10,1,2
+G,"Safari Zone","Area 3","Good Rod",Poliwag,10,1,2
+G,"Safari Zone","Area 3","Old Rod",Magikarp,5,1,1
+G,"Safari Zone","Area 3","Super Rod",Dratini,15,1,4
+G,"Safari Zone","Area 3","Super Rod",Krabby,15,1,4
+G,"Safari Zone","Area 3","Super Rod",Psyduck,15,1,4
+G,"Safari Zone","Area 3","Super Rod",Slowpoke,15,1,4
+G,"Safari Zone","Area 3",Walk,Doduo,26,51,256
+G,"Safari Zone","Area 3",Walk,Exeggcute,24,25,256
+G,"Safari Zone","Area 3",Walk,Exeggcute,26,25,256
+G,"Safari Zone","Area 3",Walk,Kangaskhan,28,3,256
+G,"Safari Zone","Area 3",Walk,"Nidoran♀",25,51,256
+G,"Safari Zone","Area 3",Walk,"Nidoran♂",25,13,256
+G,"Safari Zone","Area 3",Walk,Nidorina,33,25,256
+G,"Safari Zone","Area 3",Walk,Tauros,26,11,256
+G,"Safari Zone","Area 3",Walk,Venomoth,31,13,256
+G,"Safari Zone","Area 3",Walk,Venonat,23,39,256
+G,"Safari Zone",Center,"Good Rod",Goldeen,10,1,2
+G,"Safari Zone",Center,"Good Rod",Poliwag,10,1,2
+G,"Safari Zone",Center,"Old Rod",Magikarp,5,1,1
+G,"Safari Zone",Center,"Super Rod",Dratini,15,1,4
+G,"Safari Zone",Center,"Super Rod",Krabby,15,1,4
+G,"Safari Zone",Center,"Super Rod",Psyduck,15,1,4
+G,"Safari Zone",Center,"Super Rod",Slowpoke,15,1,4
+G,"Safari Zone",Center,Walk,Chansey,23,3,256
+G,"Safari Zone",Center,Walk,Exeggcute,24,25,256
+G,"Safari Zone",Center,Walk,Exeggcute,25,25,256
+G,"Safari Zone",Center,Walk,"Nidoran♀",22,51,256
+G,"Safari Zone",Center,Walk,Nidorina,31,25,256
+G,"Safari Zone",Center,Walk,Nidorino,31,13,256
+G,"Safari Zone",Center,Walk,Parasect,30,13,256
+G,"Safari Zone",Center,Walk,Pinsir,23,11,256
+G,"Safari Zone",Center,Walk,Rhyhorn,25,51,256
+G,"Safari Zone",Center,Walk,Venonat,22,39,256
+R,"Safari Zone","Area 1","Good Rod",Goldeen,10,1,2
+R,"Safari Zone","Area 1","Good Rod",Poliwag,10,1,2
+R,"Safari Zone","Area 1","Old Rod",Magikarp,5,1,1
+R,"Safari Zone","Area 1","Super Rod",Dratini,15,1,4
+R,"Safari Zone","Area 1","Super Rod",Krabby,15,1,4
+R,"Safari Zone","Area 1","Super Rod",Psyduck,15,1,4
+R,"Safari Zone","Area 1","Super Rod",Slowpoke,15,1,4
+R,"Safari Zone","Area 1",Walk,Doduo,26,51,256
+R,"Safari Zone","Area 1",Walk,Exeggcute,23,25,256
+R,"Safari Zone","Area 1",Walk,Exeggcute,25,25,256
+R,"Safari Zone","Area 1",Walk,Kangaskhan,25,11,256
+R,"Safari Zone","Area 1",Walk,"Nidoran♀",24,13,256
+R,"Safari Zone","Area 1",Walk,"Nidoran♂",24,51,256
+R,"Safari Zone","Area 1",Walk,Nidorino,33,25,256
+R,"Safari Zone","Area 1",Walk,Paras,22,39,256
+R,"Safari Zone","Area 1",Walk,Parasect,25,13,256
+R,"Safari Zone","Area 1",Walk,Scyther,28,3,256
+R,"Safari Zone","Area 2","Good Rod",Goldeen,10,1,2
+R,"Safari Zone","Area 2","Good Rod",Poliwag,10,1,2
+R,"Safari Zone","Area 2","Old Rod",Magikarp,5,1,1
+R,"Safari Zone","Area 2","Super Rod",Dratini,15,1,4
+R,"Safari Zone","Area 2","Super Rod",Krabby,15,1,4
+R,"Safari Zone","Area 2","Super Rod",Psyduck,15,1,4
+R,"Safari Zone","Area 2","Super Rod",Slowpoke,15,1,4
+R,"Safari Zone","Area 2",Walk,Chansey,26,11,256
+R,"Safari Zone","Area 2",Walk,Exeggcute,25,25,256
+R,"Safari Zone","Area 2",Walk,Exeggcute,27,25,256
+R,"Safari Zone","Area 2",Walk,"Nidoran♂",22,51,256
+R,"Safari Zone","Area 2",Walk,Nidorina,30,13,256
+R,"Safari Zone","Area 2",Walk,Nidorino,30,25,256
+R,"Safari Zone","Area 2",Walk,Paras,23,39,256
+R,"Safari Zone","Area 2",Walk,Rhyhorn,26,51,256
+R,"Safari Zone","Area 2",Walk,Tauros,28,3,256
+R,"Safari Zone","Area 2",Walk,Venomoth,32,13,256
+R,"Safari Zone","Area 3","Good Rod",Goldeen,10,1,2
+R,"Safari Zone","Area 3","Good Rod",Poliwag,10,1,2
+R,"Safari Zone","Area 3","Old Rod",Magikarp,5,1,1
+R,"Safari Zone","Area 3","Super Rod",Dratini,15,1,4
+R,"Safari Zone","Area 3","Super Rod",Krabby,15,1,4
+R,"Safari Zone","Area 3","Super Rod",Psyduck,15,1,4
+R,"Safari Zone","Area 3","Super Rod",Slowpoke,15,1,4
+R,"Safari Zone","Area 3",Walk,Doduo,26,51,256
+R,"Safari Zone","Area 3",Walk,Exeggcute,24,25,256
+R,"Safari Zone","Area 3",Walk,Exeggcute,26,25,256
+R,"Safari Zone","Area 3",Walk,Kangaskhan,28,3,256
+R,"Safari Zone","Area 3",Walk,"Nidoran♀",25,13,256
+R,"Safari Zone","Area 3",Walk,"Nidoran♂",25,51,256
+R,"Safari Zone","Area 3",Walk,Nidorino,33,25,256
+R,"Safari Zone","Area 3",Walk,Tauros,26,11,256
+R,"Safari Zone","Area 3",Walk,Venomoth,31,13,256
+R,"Safari Zone","Area 3",Walk,Venonat,23,39,256
+R,"Safari Zone",Center,"Good Rod",Goldeen,10,1,2
+R,"Safari Zone",Center,"Good Rod",Poliwag,10,1,2
+R,"Safari Zone",Center,"Old Rod",Magikarp,5,1,1
+R,"Safari Zone",Center,"Super Rod",Dratini,15,1,4
+R,"Safari Zone",Center,"Super Rod",Krabby,15,1,4
+R,"Safari Zone",Center,"Super Rod",Psyduck,15,1,4
+R,"Safari Zone",Center,"Super Rod",Slowpoke,15,1,4
+R,"Safari Zone",Center,Walk,Chansey,23,3,256
+R,"Safari Zone",Center,Walk,Exeggcute,24,25,256
+R,"Safari Zone",Center,Walk,Exeggcute,25,25,256
+R,"Safari Zone",Center,Walk,"Nidoran♂",22,51,256
+R,"Safari Zone",Center,Walk,Nidorina,31,13,256
+R,"Safari Zone",Center,Walk,Nidorino,31,25,256
+R,"Safari Zone",Center,Walk,Parasect,30,13,256
+R,"Safari Zone",Center,Walk,Rhyhorn,25,51,256
+R,"Safari Zone",Center,Walk,Scyther,23,11,256
+R,"Safari Zone",Center,Walk,Venonat,22,39,256
+Y,"Safari Zone","Area 1","Good Rod",Goldeen,10,1,2
+Y,"Safari Zone","Area 1","Good Rod",Poliwag,10,1,2
+Y,"Safari Zone","Area 1","Old Rod",Magikarp,5,1,1
+Y,"Safari Zone","Area 1","Super Rod",Dratini,15,27,256
+Y,"Safari Zone","Area 1","Super Rod",Magikarp,5,102,256
+Y,"Safari Zone","Area 1","Super Rod",Magikarp,10,76,256
+Y,"Safari Zone","Area 1","Super Rod",Magikarp,15,51,256
+Y,"Safari Zone","Area 1",Walk,Chansey,21,11,256
+Y,"Safari Zone","Area 1",Walk,Cubone,19,25,256
+Y,"Safari Zone","Area 1",Walk,Exeggcute,22,39,256
+Y,"Safari Zone","Area 1",Walk,Exeggcute,26,13,256
+Y,"Safari Zone","Area 1",Walk,Marowak,24,13,256
+Y,"Safari Zone","Area 1",Walk,"Nidoran♀",29,51,256
+Y,"Safari Zone","Area 1",Walk,"Nidoran♂",21,51,256
+Y,"Safari Zone","Area 1",Walk,Nidorina,32,25,256
+Y,"Safari Zone","Area 1",Walk,Scyther,15,3,256
+Y,"Safari Zone","Area 1",Walk,Tauros,21,25,256
+Y,"Safari Zone","Area 2","Good Rod",Goldeen,10,1,2
+Y,"Safari Zone","Area 2","Good Rod",Poliwag,10,1,2
+Y,"Safari Zone","Area 2","Old Rod",Magikarp,5,1,1
+Y,"Safari Zone","Area 2","Super Rod",Dratini,15,27,256
+Y,"Safari Zone","Area 2","Super Rod",Magikarp,5,102,256
+Y,"Safari Zone","Area 2","Super Rod",Magikarp,10,76,256
+Y,"Safari Zone","Area 2","Super Rod",Magikarp,15,51,256
+Y,"Safari Zone","Area 2",Walk,Cubone,16,13,256
+Y,"Safari Zone","Area 2",Walk,Exeggcute,20,39,256
+Y,"Safari Zone","Area 2",Walk,Kangaskhan,28,25,256
+Y,"Safari Zone","Area 2",Walk,Kangaskhan,33,13,256
+Y,"Safari Zone","Area 2",Walk,"Nidoran♀",14,51,256
+Y,"Safari Zone","Area 2",Walk,"Nidoran♂",36,51,256
+Y,"Safari Zone","Area 2",Walk,Nidorina,23,25,256
+Y,"Safari Zone","Area 2",Walk,Pinsir,15,3,256
+Y,"Safari Zone","Area 2",Walk,Rhyhorn,25,25,256
+Y,"Safari Zone","Area 2",Walk,Scyther,25,11,256
+Y,"Safari Zone","Area 3","Good Rod",Goldeen,10,1,2
+Y,"Safari Zone","Area 3","Good Rod",Poliwag,10,1,2
+Y,"Safari Zone","Area 3","Old Rod",Magikarp,5,1,1
+Y,"Safari Zone","Area 3","Super Rod",Dratini,15,27,256
+Y,"Safari Zone","Area 3","Super Rod",Magikarp,5,102,256
+Y,"Safari Zone","Area 3","Super Rod",Magikarp,10,76,256
+Y,"Safari Zone","Area 3","Super Rod",Magikarp,15,51,256
+Y,"Safari Zone","Area 3",Walk,Cubone,19,25,256
+Y,"Safari Zone","Area 3",Walk,Exeggcute,22,39,256
+Y,"Safari Zone","Area 3",Walk,Exeggcute,26,13,256
+Y,"Safari Zone","Area 3",Walk,Marowak,24,13,256
+Y,"Safari Zone","Area 3",Walk,"Nidoran♀",21,51,256
+Y,"Safari Zone","Area 3",Walk,"Nidoran♂",29,51,256
+Y,"Safari Zone","Area 3",Walk,Nidorino,32,25,256
+Y,"Safari Zone","Area 3",Walk,Pinsir,25,11,256
+Y,"Safari Zone","Area 3",Walk,Tangela,27,3,256
+Y,"Safari Zone","Area 3",Walk,Tauros,21,25,256
+Y,"Safari Zone",Center,"Good Rod",Goldeen,10,1,2
+Y,"Safari Zone",Center,"Good Rod",Poliwag,10,1,2
+Y,"Safari Zone",Center,"Old Rod",Magikarp,5,1,1
+Y,"Safari Zone",Center,"Super Rod",Dragonair,15,27,256
+Y,"Safari Zone",Center,"Super Rod",Dratini,10,51,256
+Y,"Safari Zone",Center,"Super Rod",Magikarp,5,102,256
+Y,"Safari Zone",Center,"Super Rod",Magikarp,10,76,256
+Y,"Safari Zone",Center,Walk,Chansey,7,3,256
+Y,"Safari Zone",Center,Walk,Exeggcute,24,39,256
+Y,"Safari Zone",Center,Walk,"Nidoran♀",36,51,256
+Y,"Safari Zone",Center,Walk,"Nidoran♂",14,51,256
+Y,"Safari Zone",Center,Walk,Nidorino,23,25,256
+Y,"Safari Zone",Center,Walk,Paras,27,13,256
+Y,"Safari Zone",Center,Walk,Parasect,27,25,256
+Y,"Safari Zone",Center,Walk,Parasect,32,13,256
+Y,"Safari Zone",Center,Walk,Rhyhorn,20,25,256
+Y,"Safari Zone",Center,Walk,Tangela,22,11,256
+B,"Seafoam Islands",1F,Walk,Golbat,29,13,256
+B,"Seafoam Islands",1F,Walk,Horsea,30,51,256
+B,"Seafoam Islands",1F,Walk,Krabby,28,25,256
+B,"Seafoam Islands",1F,Walk,Krabby,30,25,256
+B,"Seafoam Islands",1F,Walk,Seel,30,51,256
+B,"Seafoam Islands",1F,Walk,Slowbro,38,3,256
+B,"Seafoam Islands",1F,Walk,Slowpoke,28,13,256
+B,"Seafoam Islands",1F,Walk,Staryu,28,11,256
+B,"Seafoam Islands",1F,Walk,Staryu,30,39,256
+B,"Seafoam Islands",1F,Walk,Zubat,21,25,256
+B,"Seafoam Islands",B1F,Walk,Dewgong,38,11,256
+B,"Seafoam Islands",B1F,Walk,Horsea,28,25,256
+B,"Seafoam Islands",B1F,Walk,Horsea,30,13,256
+B,"Seafoam Islands",B1F,Walk,Kingler,37,3,256
+B,"Seafoam Islands",B1F,Walk,Krabby,30,51,256
+B,"Seafoam Islands",B1F,Walk,Krabby,32,25,256
+B,"Seafoam Islands",B1F,Walk,Seel,28,13,256
+B,"Seafoam Islands",B1F,Walk,Seel,30,25,256
+B,"Seafoam Islands",B1F,Walk,Shellder,30,51,256
+B,"Seafoam Islands",B1F,Walk,Staryu,32,39,256
+B,"Seafoam Islands",B2F,Walk,Golbat,30,11,256
+B,"Seafoam Islands",B2F,Walk,Horsea,30,51,256
+B,"Seafoam Islands",B2F,Walk,Horsea,32,25,256
+B,"Seafoam Islands",B2F,Walk,Jynx,37,3,256
+B,"Seafoam Islands",B2F,Walk,Krabby,28,25,256
+B,"Seafoam Islands",B2F,Walk,Krabby,30,13,256
+B,"Seafoam Islands",B2F,Walk,Seel,30,51,256
+B,"Seafoam Islands",B2F,Walk,Seel,32,39,256
+B,"Seafoam Islands",B2F,Walk,Shellder,30,25,256
+B,"Seafoam Islands",B2F,Walk,Staryu,28,13,256
+B,"Seafoam Islands",B3F,"Good Rod",Goldeen,10,1,2
+B,"Seafoam Islands",B3F,"Good Rod",Poliwag,10,1,2
+B,"Seafoam Islands",B3F,"Old Rod",Magikarp,5,1,1
+B,"Seafoam Islands",B3F,"Super Rod",Goldeen,15,1,4
+B,"Seafoam Islands",B3F,"Super Rod",Horsea,15,1,4
+B,"Seafoam Islands",B3F,"Super Rod",Shellder,15,1,4
+B,"Seafoam Islands",B3F,"Super Rod",Staryu,15,1,4
+B,"Seafoam Islands",B3F,Walk,Dewgong,37,3,256
+B,"Seafoam Islands",B3F,Walk,Horsea,31,51,256
+B,"Seafoam Islands",B3F,Walk,Horsea,33,39,256
+B,"Seafoam Islands",B3F,Walk,Kingler,39,11,256
+B,"Seafoam Islands",B3F,Walk,Krabby,29,25,256
+B,"Seafoam Islands",B3F,Walk,Krabby,31,13,256
+B,"Seafoam Islands",B3F,Walk,Seel,31,51,256
+B,"Seafoam Islands",B3F,Walk,Seel,33,25,256
+B,"Seafoam Islands",B3F,Walk,Staryu,29,13,256
+B,"Seafoam Islands",B3F,Walk,Staryu,31,25,256
+B,"Seafoam Islands",B4F,"Good Rod",Goldeen,10,1,2
+B,"Seafoam Islands",B4F,"Good Rod",Poliwag,10,1,2
+B,"Seafoam Islands",B4F,"Old Rod",Magikarp,5,1,1
+B,"Seafoam Islands",B4F,"Super Rod",Goldeen,15,1,4
+B,"Seafoam Islands",B4F,"Super Rod",Horsea,15,1,4
+B,"Seafoam Islands",B4F,"Super Rod",Shellder,15,1,4
+B,"Seafoam Islands",B4F,"Super Rod",Staryu,15,1,4
+B,"Seafoam Islands",B4F,Walk,Golbat,32,3,256
+B,"Seafoam Islands",B4F,Walk,Horsea,29,25,256
+B,"Seafoam Islands",B4F,Walk,Horsea,31,13,256
+B,"Seafoam Islands",B4F,Walk,Jynx,39,11,256
+B,"Seafoam Islands",B4F,Walk,Krabby,31,51,256
+B,"Seafoam Islands",B4F,Walk,Krabby,33,39,256
+B,"Seafoam Islands",B4F,Walk,Seel,29,13,256
+B,"Seafoam Islands",B4F,Walk,Seel,31,25,256
+B,"Seafoam Islands",B4F,Walk,Staryu,31,51,256
+B,"Seafoam Islands",B4F,Walk,Staryu,33,25,256
+G,"Seafoam Islands",1F,Walk,Golbat,29,13,256
+G,"Seafoam Islands",1F,Walk,Krabby,28,25,256
+G,"Seafoam Islands",1F,Walk,Krabby,30,25,256
+G,"Seafoam Islands",1F,Walk,Psyduck,30,51,256
+G,"Seafoam Islands",1F,Walk,Seel,30,51,256
+G,"Seafoam Islands",1F,Walk,Slowbro,38,3,256
+G,"Seafoam Islands",1F,Walk,Slowpoke,28,13,256
+G,"Seafoam Islands",1F,Walk,Staryu,28,11,256
+G,"Seafoam Islands",1F,Walk,Staryu,30,39,256
+G,"Seafoam Islands",1F,Walk,Zubat,21,25,256
+G,"Seafoam Islands",B1F,Walk,Dewgong,38,11,256
+G,"Seafoam Islands",B1F,Walk,Kingler,37,3,256
+G,"Seafoam Islands",B1F,Walk,Krabby,30,51,256
+G,"Seafoam Islands",B1F,Walk,Krabby,32,25,256
+G,"Seafoam Islands",B1F,Walk,Psyduck,28,25,256
+G,"Seafoam Islands",B1F,Walk,Psyduck,30,13,256
+G,"Seafoam Islands",B1F,Walk,Seel,28,13,256
+G,"Seafoam Islands",B1F,Walk,Seel,30,25,256
+G,"Seafoam Islands",B1F,Walk,Shellder,30,51,256
+G,"Seafoam Islands",B1F,Walk,Staryu,32,39,256
+G,"Seafoam Islands",B2F,Walk,Golbat,30,11,256
+G,"Seafoam Islands",B2F,Walk,Golduck,37,3,256
+G,"Seafoam Islands",B2F,Walk,Krabby,28,25,256
+G,"Seafoam Islands",B2F,Walk,Krabby,30,13,256
+G,"Seafoam Islands",B2F,Walk,Psyduck,30,51,256
+G,"Seafoam Islands",B2F,Walk,Psyduck,32,25,256
+G,"Seafoam Islands",B2F,Walk,Seel,30,51,256
+G,"Seafoam Islands",B2F,Walk,Seel,32,39,256
+G,"Seafoam Islands",B2F,Walk,Shellder,30,25,256
+G,"Seafoam Islands",B2F,Walk,Staryu,28,13,256
+G,"Seafoam Islands",B3F,"Good Rod",Goldeen,10,1,2
+G,"Seafoam Islands",B3F,"Good Rod",Poliwag,10,1,2
+G,"Seafoam Islands",B3F,"Old Rod",Magikarp,5,1,1
+G,"Seafoam Islands",B3F,"Super Rod",Goldeen,15,1,4
+G,"Seafoam Islands",B3F,"Super Rod",Horsea,15,1,4
+G,"Seafoam Islands",B3F,"Super Rod",Shellder,15,1,4
+G,"Seafoam Islands",B3F,"Super Rod",Staryu,15,1,4
+G,"Seafoam Islands",B3F,Walk,Dewgong,37,3,256
+G,"Seafoam Islands",B3F,Walk,Kingler,39,11,256
+G,"Seafoam Islands",B3F,Walk,Krabby,29,25,256
+G,"Seafoam Islands",B3F,Walk,Krabby,31,13,256
+G,"Seafoam Islands",B3F,Walk,Psyduck,31,51,256
+G,"Seafoam Islands",B3F,Walk,Psyduck,33,39,256
+G,"Seafoam Islands",B3F,Walk,Seel,31,51,256
+G,"Seafoam Islands",B3F,Walk,Seel,33,25,256
+G,"Seafoam Islands",B3F,Walk,Staryu,29,13,256
+G,"Seafoam Islands",B3F,Walk,Staryu,31,25,256
+G,"Seafoam Islands",B4F,"Good Rod",Goldeen,10,1,2
+G,"Seafoam Islands",B4F,"Good Rod",Poliwag,10,1,2
+G,"Seafoam Islands",B4F,"Old Rod",Magikarp,5,1,1
+G,"Seafoam Islands",B4F,"Super Rod",Goldeen,15,1,4
+G,"Seafoam Islands",B4F,"Super Rod",Horsea,15,1,4
+G,"Seafoam Islands",B4F,"Super Rod",Shellder,15,1,4
+G,"Seafoam Islands",B4F,"Super Rod",Staryu,15,1,4
+G,"Seafoam Islands",B4F,Walk,Golbat,32,3,256
+G,"Seafoam Islands",B4F,Walk,Golduck,39,11,256
+G,"Seafoam Islands",B4F,Walk,Krabby,31,51,256
+G,"Seafoam Islands",B4F,Walk,Krabby,33,39,256
+G,"Seafoam Islands",B4F,Walk,Psyduck,29,25,256
+G,"Seafoam Islands",B4F,Walk,Psyduck,31,13,256
+G,"Seafoam Islands",B4F,Walk,Seel,29,13,256
+G,"Seafoam Islands",B4F,Walk,Seel,31,25,256
+G,"Seafoam Islands",B4F,Walk,Staryu,31,51,256
+G,"Seafoam Islands",B4F,Walk,Staryu,33,25,256
+R,"Seafoam Islands",1F,Walk,Golbat,29,13,256
+R,"Seafoam Islands",1F,Walk,Golduck,38,3,256
+R,"Seafoam Islands",1F,Walk,Horsea,28,25,256
+R,"Seafoam Islands",1F,Walk,Horsea,30,25,256
+R,"Seafoam Islands",1F,Walk,Psyduck,28,13,256
+R,"Seafoam Islands",1F,Walk,Seel,30,51,256
+R,"Seafoam Islands",1F,Walk,Shellder,28,11,256
+R,"Seafoam Islands",1F,Walk,Shellder,30,39,256
+R,"Seafoam Islands",1F,Walk,Slowpoke,30,51,256
+R,"Seafoam Islands",1F,Walk,Zubat,21,25,256
+R,"Seafoam Islands",B1F,Walk,Dewgong,38,11,256
+R,"Seafoam Islands",B1F,Walk,Horsea,30,51,256
+R,"Seafoam Islands",B1F,Walk,Horsea,32,25,256
+R,"Seafoam Islands",B1F,Walk,Seadra,37,3,256
+R,"Seafoam Islands",B1F,Walk,Seel,28,13,256
+R,"Seafoam Islands",B1F,Walk,Seel,30,25,256
+R,"Seafoam Islands",B1F,Walk,Shellder,32,39,256
+R,"Seafoam Islands",B1F,Walk,Slowpoke,28,25,256
+R,"Seafoam Islands",B1F,Walk,Slowpoke,30,13,256
+R,"Seafoam Islands",B1F,Walk,Staryu,30,51,256
+R,"Seafoam Islands",B2F,Walk,Golbat,30,11,256
+R,"Seafoam Islands",B2F,Walk,Horsea,28,25,256
+R,"Seafoam Islands",B2F,Walk,Horsea,30,13,256
+R,"Seafoam Islands",B2F,Walk,Seel,30,51,256
+R,"Seafoam Islands",B2F,Walk,Seel,32,39,256
+R,"Seafoam Islands",B2F,Walk,Shellder,28,13,256
+R,"Seafoam Islands",B2F,Walk,Slowbro,37,3,256
+R,"Seafoam Islands",B2F,Walk,Slowpoke,30,51,256
+R,"Seafoam Islands",B2F,Walk,Slowpoke,32,25,256
+R,"Seafoam Islands",B2F,Walk,Staryu,30,25,256
+R,"Seafoam Islands",B3F,"Good Rod",Goldeen,10,1,2
+R,"Seafoam Islands",B3F,"Good Rod",Poliwag,10,1,2
+R,"Seafoam Islands",B3F,"Old Rod",Magikarp,5,1,1
+R,"Seafoam Islands",B3F,"Super Rod",Goldeen,15,1,4
+R,"Seafoam Islands",B3F,"Super Rod",Horsea,15,1,4
+R,"Seafoam Islands",B3F,"Super Rod",Shellder,15,1,4
+R,"Seafoam Islands",B3F,"Super Rod",Staryu,15,1,4
+R,"Seafoam Islands",B3F,Walk,Dewgong,37,3,256
+R,"Seafoam Islands",B3F,Walk,Horsea,29,25,256
+R,"Seafoam Islands",B3F,Walk,Horsea,31,13,256
+R,"Seafoam Islands",B3F,Walk,Seadra,39,11,256
+R,"Seafoam Islands",B3F,Walk,Seel,31,51,256
+R,"Seafoam Islands",B3F,Walk,Seel,33,25,256
+R,"Seafoam Islands",B3F,Walk,Shellder,29,13,256
+R,"Seafoam Islands",B3F,Walk,Shellder,31,25,256
+R,"Seafoam Islands",B3F,Walk,Slowpoke,31,51,256
+R,"Seafoam Islands",B3F,Walk,Slowpoke,33,39,256
+R,"Seafoam Islands",B4F,"Good Rod",Goldeen,10,1,2
+R,"Seafoam Islands",B4F,"Good Rod",Poliwag,10,1,2
+R,"Seafoam Islands",B4F,"Old Rod",Magikarp,5,1,1
+R,"Seafoam Islands",B4F,"Super Rod",Goldeen,15,1,4
+R,"Seafoam Islands",B4F,"Super Rod",Horsea,15,1,4
+R,"Seafoam Islands",B4F,"Super Rod",Shellder,15,1,4
+R,"Seafoam Islands",B4F,"Super Rod",Staryu,15,1,4
+R,"Seafoam Islands",B4F,Walk,Golbat,32,3,256
+R,"Seafoam Islands",B4F,Walk,Horsea,31,51,256
+R,"Seafoam Islands",B4F,Walk,Horsea,33,39,256
+R,"Seafoam Islands",B4F,Walk,Seel,29,13,256
+R,"Seafoam Islands",B4F,Walk,Seel,31,25,256
+R,"Seafoam Islands",B4F,Walk,Shellder,31,51,256
+R,"Seafoam Islands",B4F,Walk,Shellder,33,25,256
+R,"Seafoam Islands",B4F,Walk,Slowbro,39,11,256
+R,"Seafoam Islands",B4F,Walk,Slowpoke,29,25,256
+R,"Seafoam Islands",B4F,Walk,Slowpoke,31,13,256
+Y,"Seafoam Islands",1F,Walk,Golbat,27,11,256
+Y,"Seafoam Islands",1F,Walk,Golbat,36,3,256
+Y,"Seafoam Islands",1F,Walk,Krabby,25,51,256
+Y,"Seafoam Islands",1F,Walk,Krabby,27,39,256
+Y,"Seafoam Islands",1F,Walk,Slowpoke,28,25,256
+Y,"Seafoam Islands",1F,Walk,Slowpoke,30,13,256
+Y,"Seafoam Islands",1F,Walk,Zubat,9,13,256
+Y,"Seafoam Islands",1F,Walk,Zubat,18,51,256
+Y,"Seafoam Islands",1F,Walk,Zubat,27,25,256
+Y,"Seafoam Islands",1F,Walk,Zubat,36,25,256
+Y,"Seafoam Islands",B1F,Walk,Golbat,27,25,256
+Y,"Seafoam Islands",B1F,Walk,Kingler,28,13,256
+Y,"Seafoam Islands",B1F,Walk,Krabby,26,51,256
+Y,"Seafoam Islands",B1F,Walk,Krabby,28,25,256
+Y,"Seafoam Islands",B1F,Walk,Seel,22,11,256
+Y,"Seafoam Islands",B1F,Walk,Seel,26,3,256
+Y,"Seafoam Islands",B1F,Walk,Slowpoke,29,25,256
+Y,"Seafoam Islands",B1F,Walk,Zubat,18,13,256
+Y,"Seafoam Islands",B1F,Walk,Zubat,27,51,256
+Y,"Seafoam Islands",B1F,Walk,Zubat,36,39,256
+Y,"Seafoam Islands",B2F,Walk,Golbat,27,25,256
+Y,"Seafoam Islands",B2F,Walk,Golbat,36,13,256
+Y,"Seafoam Islands",B2F,Walk,Kingler,28,25,256
+Y,"Seafoam Islands",B2F,Walk,Krabby,27,51,256
+Y,"Seafoam Islands",B2F,Walk,Krabby,29,13,256
+Y,"Seafoam Islands",B2F,Walk,Seel,24,25,256
+Y,"Seafoam Islands",B2F,Walk,Slowbro,31,3,256
+Y,"Seafoam Islands",B2F,Walk,Slowpoke,31,11,256
+Y,"Seafoam Islands",B2F,Walk,Zubat,27,51,256
+Y,"Seafoam Islands",B2F,Walk,Zubat,36,39,256
+Y,"Seafoam Islands",B3F,"Good Rod",Goldeen,10,1,2
+Y,"Seafoam Islands",B3F,"Good Rod",Poliwag,10,1,2
+Y,"Seafoam Islands",B3F,"Old Rod",Magikarp,5,1,1
+Y,"Seafoam Islands",B3F,"Super Rod",Kingler,35,51,256
+Y,"Seafoam Islands",B3F,"Super Rod",Krabby,25,102,256
+Y,"Seafoam Islands",B3F,"Super Rod",Staryu,20,76,256
+Y,"Seafoam Islands",B3F,"Super Rod",Staryu,40,27,256
+Y,"Seafoam Islands",B3F,Surf,Staryu,30,77,256
+Y,"Seafoam Islands",B3F,Surf,Tentacool,20,39,256
+Y,"Seafoam Islands",B3F,Surf,Tentacool,25,51,256
+Y,"Seafoam Islands",B3F,Surf,Tentacool,30,51,256
+Y,"Seafoam Islands",B3F,Surf,Tentacool,35,25,256
+Y,"Seafoam Islands",B3F,Surf,Tentacool,40,13,256
+Y,"Seafoam Islands",B3F,Walk,Dewgong,28,11,256
+Y,"Seafoam Islands",B3F,Walk,Dewgong,32,3,256
+Y,"Seafoam Islands",B3F,Walk,Golbat,27,51,256
+Y,"Seafoam Islands",B3F,Walk,Kingler,30,25,256
+Y,"Seafoam Islands",B3F,Walk,Krabby,29,39,256
+Y,"Seafoam Islands",B3F,Walk,Krabby,31,13,256
+Y,"Seafoam Islands",B3F,Walk,Seel,26,25,256
+Y,"Seafoam Islands",B3F,Walk,Seel,30,13,256
+Y,"Seafoam Islands",B3F,Walk,Zubat,27,25,256
+Y,"Seafoam Islands",B3F,Walk,Zubat,36,51,256
+Y,"Seafoam Islands",B4F,"Good Rod",Goldeen,10,1,2
+Y,"Seafoam Islands",B4F,"Good Rod",Poliwag,10,1,2
+Y,"Seafoam Islands",B4F,"Old Rod",Magikarp,5,1,1
+Y,"Seafoam Islands",B4F,"Super Rod",Kingler,35,51,256
+Y,"Seafoam Islands",B4F,"Super Rod",Krabby,25,102,256
+Y,"Seafoam Islands",B4F,"Super Rod",Staryu,20,76,256
+Y,"Seafoam Islands",B4F,"Super Rod",Staryu,40,27,256
+Y,"Seafoam Islands",B4F,Surf,Staryu,30,77,256
+Y,"Seafoam Islands",B4F,Surf,Tentacool,20,39,256
+Y,"Seafoam Islands",B4F,Surf,Tentacool,25,51,256
+Y,"Seafoam Islands",B4F,Surf,Tentacool,30,51,256
+Y,"Seafoam Islands",B4F,Surf,Tentacool,35,25,256
+Y,"Seafoam Islands",B4F,Surf,Tentacool,40,13,256
+Y,"Seafoam Islands",B4F,Walk,Dewgong,30,11,256
+Y,"Seafoam Islands",B4F,Walk,Dewgong,34,3,256
+Y,"Seafoam Islands",B4F,Walk,Golbat,27,13,256
+Y,"Seafoam Islands",B4F,Walk,Golbat,36,51,256
+Y,"Seafoam Islands",B4F,Walk,Kingler,32,25,256
+Y,"Seafoam Islands",B4F,Walk,Krabby,30,39,256
+Y,"Seafoam Islands",B4F,Walk,Seel,28,25,256
+Y,"Seafoam Islands",B4F,Walk,Seel,32,25,256
+Y,"Seafoam Islands",B4F,Walk,Zubat,36,51,256
+Y,"Seafoam Islands",B4F,Walk,Zubat,45,13,256
+B,"Vermilion City",,"Good Rod",Goldeen,10,1,2
+B,"Vermilion City",,"Good Rod",Poliwag,10,1,2
+B,"Vermilion City",,"Old Rod",Magikarp,5,1,1
+B,"Vermilion City",,"Super Rod",Krabby,15,1,2
+B,"Vermilion City",,"Super Rod",Shellder,15,1,2
+G,"Vermilion City",,"Good Rod",Goldeen,10,1,2
+G,"Vermilion City",,"Good Rod",Poliwag,10,1,2
+G,"Vermilion City",,"Old Rod",Magikarp,5,1,1
+G,"Vermilion City",,"Super Rod",Krabby,15,1,2
+G,"Vermilion City",,"Super Rod",Shellder,15,1,2
+R,"Vermilion City",,"Good Rod",Goldeen,10,1,2
+R,"Vermilion City",,"Good Rod",Poliwag,10,1,2
+R,"Vermilion City",,"Old Rod",Magikarp,5,1,1
+R,"Vermilion City",,"Super Rod",Krabby,15,1,2
+R,"Vermilion City",,"Super Rod",Shellder,15,1,2
+Y,"Vermilion City",,"Good Rod",Goldeen,10,1,2
+Y,"Vermilion City",,"Good Rod",Poliwag,10,1,2
+Y,"Vermilion City",,"Old Rod",Magikarp,5,1,1
+Y,"Vermilion City",,"Super Rod",Horsea,5,27,256
+Y,"Vermilion City",,"Super Rod",Tentacool,10,51,256
+Y,"Vermilion City",,"Super Rod",Tentacool,15,102,256
+Y,"Vermilion City",,"Super Rod",Tentacool,20,76,256
+B,"Vermilion Dock",,"Good Rod",Goldeen,10,1,2
+B,"Vermilion Dock",,"Good Rod",Poliwag,10,1,2
+B,"Vermilion Dock",,"Old Rod",Magikarp,5,1,1
+B,"Vermilion Dock",,"Super Rod",Krabby,15,1,2
+B,"Vermilion Dock",,"Super Rod",Shellder,15,1,2
+G,"Vermilion Dock",,"Good Rod",Goldeen,10,1,2
+G,"Vermilion Dock",,"Good Rod",Poliwag,10,1,2
+G,"Vermilion Dock",,"Old Rod",Magikarp,5,1,1
+G,"Vermilion Dock",,"Super Rod",Krabby,15,1,2
+G,"Vermilion Dock",,"Super Rod",Shellder,15,1,2
+R,"Vermilion Dock",,"Good Rod",Goldeen,10,1,2
+R,"Vermilion Dock",,"Good Rod",Poliwag,10,1,2
+R,"Vermilion Dock",,"Old Rod",Magikarp,5,1,1
+R,"Vermilion Dock",,"Super Rod",Krabby,15,1,2
+R,"Vermilion Dock",,"Super Rod",Shellder,15,1,2
+Y,"Vermilion Dock",,"Good Rod",Goldeen,10,1,2
+Y,"Vermilion Dock",,"Good Rod",Poliwag,10,1,2
+Y,"Vermilion Dock",,"Old Rod",Magikarp,5,1,1
+Y,"Vermilion Dock",,"Super Rod",Shellder,10,27,256
+Y,"Vermilion Dock",,"Super Rod",Staryu,15,51,256
+Y,"Vermilion Dock",,"Super Rod",Tentacool,10,102,256
+Y,"Vermilion Dock",,"Super Rod",Tentacool,15,76,256
+B,"Victory Road",1F,Walk,Geodude,26,51,256
+B,"Victory Road",1F,Walk,Golbat,41,13,256
+B,"Victory Road",1F,Walk,Graveler,41,13,256
+B,"Victory Road",1F,Walk,Machoke,42,11,256
+B,"Victory Road",1F,Walk,Machop,24,51,256
+B,"Victory Road",1F,Walk,Marowak,43,3,256
+B,"Victory Road",1F,Walk,Onix,36,25,256
+B,"Victory Road",1F,Walk,Onix,39,25,256
+B,"Victory Road",1F,Walk,Onix,42,25,256
+B,"Victory Road",1F,Walk,Zubat,22,39,256
+B,"Victory Road",2F,Walk,Geodude,24,51,256
+B,"Victory Road",2F,Walk,Golbat,40,13,256
+B,"Victory Road",2F,Walk,Graveler,43,3,256
+B,"Victory Road",2F,Walk,Machoke,41,13,256
+B,"Victory Road",2F,Walk,Machop,22,51,256
+B,"Victory Road",2F,Walk,Marowak,40,11,256
+B,"Victory Road",2F,Walk,Onix,36,25,256
+B,"Victory Road",2F,Walk,Onix,39,25,256
+B,"Victory Road",2F,Walk,Onix,42,25,256
+B,"Victory Road",2F,Walk,Zubat,26,39,256
+B,"Victory Road",3F,Walk,Geodude,26,51,256
+B,"Victory Road",3F,Walk,Golbat,41,13,256
+B,"Victory Road",3F,Walk,Graveler,43,13,256
+B,"Victory Road",3F,Walk,Machoke,42,11,256
+B,"Victory Road",3F,Walk,Machoke,45,3,256
+B,"Victory Road",3F,Walk,Machop,24,51,256
+B,"Victory Road",3F,Walk,Onix,42,25,256
+B,"Victory Road",3F,Walk,Onix,45,25,256
+B,"Victory Road",3F,Walk,Venomoth,40,25,256
+B,"Victory Road",3F,Walk,Zubat,22,39,256
+G,"Victory Road",1F,Walk,Geodude,26,51,256
+G,"Victory Road",1F,Walk,Golbat,41,13,256
+G,"Victory Road",1F,Walk,Graveler,41,13,256
+G,"Victory Road",1F,Walk,Machoke,42,11,256
+G,"Victory Road",1F,Walk,Machop,24,51,256
+G,"Victory Road",1F,Walk,Marowak,43,3,256
+G,"Victory Road",1F,Walk,Onix,36,25,256
+G,"Victory Road",1F,Walk,Onix,39,25,256
+G,"Victory Road",1F,Walk,Onix,42,25,256
+G,"Victory Road",1F,Walk,Zubat,22,39,256
+G,"Victory Road",2F,Walk,Geodude,24,51,256
+G,"Victory Road",2F,Walk,Golbat,40,13,256
+G,"Victory Road",2F,Walk,Graveler,43,3,256
+G,"Victory Road",2F,Walk,Machoke,41,13,256
+G,"Victory Road",2F,Walk,Machop,22,51,256
+G,"Victory Road",2F,Walk,Marowak,40,11,256
+G,"Victory Road",2F,Walk,Onix,36,25,256
+G,"Victory Road",2F,Walk,Onix,39,25,256
+G,"Victory Road",2F,Walk,Onix,42,25,256
+G,"Victory Road",2F,Walk,Zubat,26,39,256
+G,"Victory Road",3F,Walk,Geodude,26,51,256
+G,"Victory Road",3F,Walk,Golbat,41,13,256
+G,"Victory Road",3F,Walk,Graveler,43,13,256
+G,"Victory Road",3F,Walk,Machoke,42,11,256
+G,"Victory Road",3F,Walk,Machoke,45,3,256
+G,"Victory Road",3F,Walk,Machop,24,51,256
+G,"Victory Road",3F,Walk,Onix,42,25,256
+G,"Victory Road",3F,Walk,Onix,45,25,256
+G,"Victory Road",3F,Walk,Venomoth,40,25,256
+G,"Victory Road",3F,Walk,Zubat,22,39,256
+R,"Victory Road",1F,Walk,Geodude,26,51,256
+R,"Victory Road",1F,Walk,Golbat,41,13,256
+R,"Victory Road",1F,Walk,Graveler,41,13,256
+R,"Victory Road",1F,Walk,Machoke,42,11,256
+R,"Victory Road",1F,Walk,Machop,24,51,256
+R,"Victory Road",1F,Walk,Marowak,43,3,256
+R,"Victory Road",1F,Walk,Onix,36,25,256
+R,"Victory Road",1F,Walk,Onix,39,25,256
+R,"Victory Road",1F,Walk,Onix,42,25,256
+R,"Victory Road",1F,Walk,Zubat,22,39,256
+R,"Victory Road",2F,Walk,Geodude,24,51,256
+R,"Victory Road",2F,Walk,Golbat,40,13,256
+R,"Victory Road",2F,Walk,Graveler,43,3,256
+R,"Victory Road",2F,Walk,Machoke,41,13,256
+R,"Victory Road",2F,Walk,Machop,22,51,256
+R,"Victory Road",2F,Walk,Marowak,40,11,256
+R,"Victory Road",2F,Walk,Onix,36,25,256
+R,"Victory Road",2F,Walk,Onix,39,25,256
+R,"Victory Road",2F,Walk,Onix,42,25,256
+R,"Victory Road",2F,Walk,Zubat,26,39,256
+R,"Victory Road",3F,Walk,Geodude,26,51,256
+R,"Victory Road",3F,Walk,Golbat,41,13,256
+R,"Victory Road",3F,Walk,Graveler,43,13,256
+R,"Victory Road",3F,Walk,Machoke,42,11,256
+R,"Victory Road",3F,Walk,Machoke,45,3,256
+R,"Victory Road",3F,Walk,Machop,24,51,256
+R,"Victory Road",3F,Walk,Onix,42,25,256
+R,"Victory Road",3F,Walk,Onix,45,25,256
+R,"Victory Road",3F,Walk,Venomoth,40,25,256
+R,"Victory Road",3F,Walk,Zubat,22,39,256
+Y,"Victory Road",1F,Walk,Geodude,26,51,256
+Y,"Victory Road",1F,Walk,Geodude,31,51,256
+Y,"Victory Road",1F,Walk,Geodude,36,39,256
+Y,"Victory Road",1F,Walk,Geodude,41,25,256
+Y,"Victory Road",1F,Walk,Graveler,41,11,256
+Y,"Victory Road",1F,Walk,Graveler,47,3,256
+Y,"Victory Road",1F,Walk,Onix,43,13,256
+Y,"Victory Road",1F,Walk,Onix,45,13,256
+Y,"Victory Road",1F,Walk,Zubat,39,25,256
+Y,"Victory Road",1F,Walk,Zubat,44,25,256
+Y,"Victory Road",2F,Walk,Geodude,31,51,256
+Y,"Victory Road",2F,Walk,Geodude,36,51,256
+Y,"Victory Road",2F,Walk,Geodude,41,39,256
+Y,"Victory Road",2F,Walk,Golbat,39,25,256
+Y,"Victory Road",2F,Walk,Graveler,44,25,256
+Y,"Victory Road",2F,Walk,Machoke,39,11,256
+Y,"Victory Road",2F,Walk,Machoke,42,3,256
+Y,"Victory Road",2F,Walk,Onix,45,13,256
+Y,"Victory Road",2F,Walk,Onix,47,13,256
+Y,"Victory Road",2F,Walk,Zubat,44,25,256
+Y,"Victory Road",3F,Walk,Geodude,36,51,256
+Y,"Victory Road",3F,Walk,Geodude,41,39,256
+Y,"Victory Road",3F,Walk,Geodude,46,25,256
+Y,"Victory Road",3F,Walk,Golbat,44,51,256
+Y,"Victory Road",3F,Walk,Graveler,41,25,256
+Y,"Victory Road",3F,Walk,Graveler,47,14,256
+Y,"Victory Road",3F,Walk,Machoke,42,13,256
+Y,"Victory Road",3F,Walk,Machoke,45,13,256
+Y,"Victory Road",3F,Walk,Onix,49,25,256
+B,"Viridian City",,"Good Rod",Goldeen,10,1,2
+B,"Viridian City",,"Good Rod",Poliwag,10,1,2
+B,"Viridian City",,"Old Rod",Magikarp,5,1,1
+B,"Viridian City",,"Super Rod",Poliwag,15,1,2
+B,"Viridian City",,"Super Rod",Tentacool,15,1,2
+G,"Viridian City",,"Good Rod",Goldeen,10,1,2
+G,"Viridian City",,"Good Rod",Poliwag,10,1,2
+G,"Viridian City",,"Old Rod",Magikarp,5,1,1
+G,"Viridian City",,"Super Rod",Poliwag,15,1,2
+G,"Viridian City",,"Super Rod",Tentacool,15,1,2
+R,"Viridian City",,"Good Rod",Goldeen,10,1,2
+R,"Viridian City",,"Good Rod",Poliwag,10,1,2
+R,"Viridian City",,"Old Rod",Magikarp,5,1,1
+R,"Viridian City",,"Super Rod",Poliwag,15,1,2
+R,"Viridian City",,"Super Rod",Tentacool,15,1,2
+Y,"Viridian City",,"Good Rod",Goldeen,10,1,2
+Y,"Viridian City",,"Good Rod",Poliwag,10,1,2
+Y,"Viridian City",,"Old Rod",Magikarp,5,1,1
+Y,"Viridian City",,"Super Rod",Poliwag,5,102,256
+Y,"Viridian City",,"Super Rod",Poliwag,10,103,256
+Y,"Viridian City",,"Super Rod",Poliwag,15,51,256
+B,"Viridian Forest",,Walk,Caterpie,3,39,256
+B,"Viridian Forest",,Walk,Caterpie,4,51,256
+B,"Viridian Forest",,Walk,Caterpie,5,25,256
+B,"Viridian Forest",,Walk,Kakuna,4,13,256
+B,"Viridian Forest",,Walk,Metapod,4,25,256
+B,"Viridian Forest",,Walk,Metapod,5,51,256
+B,"Viridian Forest",,Walk,Metapod,6,25,256
+B,"Viridian Forest",,Walk,Pikachu,3,11,256
+B,"Viridian Forest",,Walk,Pikachu,5,3,256
+B,"Viridian Forest",,Walk,Weedle,3,13,256
+G,"Viridian Forest",,Walk,Caterpie,3,39,256
+G,"Viridian Forest",,Walk,Caterpie,4,51,256
+G,"Viridian Forest",,Walk,Caterpie,5,25,256
+G,"Viridian Forest",,Walk,Kakuna,4,13,256
+G,"Viridian Forest",,Walk,Metapod,4,25,256
+G,"Viridian Forest",,Walk,Metapod,5,51,256
+G,"Viridian Forest",,Walk,Metapod,6,25,256
+G,"Viridian Forest",,Walk,Pikachu,3,11,256
+G,"Viridian Forest",,Walk,Pikachu,5,3,256
+G,"Viridian Forest",,Walk,Weedle,3,13,256
+R,"Viridian Forest",,Walk,Caterpie,3,13,256
+R,"Viridian Forest",,Walk,Kakuna,4,25,256
+R,"Viridian Forest",,Walk,Kakuna,5,51,256
+R,"Viridian Forest",,Walk,Kakuna,6,25,256
+R,"Viridian Forest",,Walk,Metapod,4,13,256
+R,"Viridian Forest",,Walk,Pikachu,3,11,256
+R,"Viridian Forest",,Walk,Pikachu,5,3,256
+R,"Viridian Forest",,Walk,Weedle,3,39,256
+R,"Viridian Forest",,Walk,Weedle,4,51,256
+R,"Viridian Forest",,Walk,Weedle,5,25,256
+Y,"Viridian Forest",,Walk,Caterpie,3,51,256
+Y,"Viridian Forest",,Walk,Caterpie,4,39,256
+Y,"Viridian Forest",,Walk,Caterpie,5,25,256
+Y,"Viridian Forest",,Walk,Caterpie,6,13,256
+Y,"Viridian Forest",,Walk,Metapod,4,51,256
+Y,"Viridian Forest",,Walk,Metapod,6,13,256
+Y,"Viridian Forest",,Walk,Pidgeotto,9,3,256
+Y,"Viridian Forest",,Walk,Pidgey,4,25,256
+Y,"Viridian Forest",,Walk,Pidgey,6,25,256
+Y,"Viridian Forest",,Walk,Pidgey,8,11,256
