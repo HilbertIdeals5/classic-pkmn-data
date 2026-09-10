@@ -8,7 +8,7 @@ The end result of my personal goals will be present on the web in the near futur
 
 ## How can I use it?
 
-Schema explanation will be made available in the near future. In the meantime, hopefully the column names and data types are not too difficult to piece together.
+I recommend importing it into a proper database, like a SQL database, to make best use of it. To understand what each table's columns mean, reference [Schema.md](./Schema.md).
 
 There is no license. The data itself is not mine, so please use it, rework it, and reshare it freely.
 
