@@ -1,6 +1,8 @@
 # Schema Information
 
-## Common data
+## Wild encounter data
+
+### Common fields
 
 There are many similar columns across every table. To avoid repetition, they'll all be listed right here, at the start.
 
@@ -44,15 +46,15 @@ Mainly used in `_trade.csv`:
 Mainly used in `gsc_`:
 - **held_item** (string): The held item of a Pokémon that you may receive or encounter through special means. It's only used in places where a Pokémon's held item is important to explicitly specify, i.e. where it's different from normal. That's why wild encounter held items are excluded—that information is more appropriate for a future per-species dataset.
 
-### The definition of an "encounter"
+#### The definition of an "encounter"
 
 The wild encounter data in these tables is not organized the way it is on Bulbapedia. The pret decomp has revealed that the encounter data is actually *far* more granular than it appears in ordinary encounter tables.
 
 For this dataset, think of each row as being an "encounter datapoint", and each column as a "dimension" of data that defines that highly-granular encounter datapoint. The data was also arranged this way to make search and manipulation easier, since it was originally made to be used via SQL.
 
-## Generation 1 data
+### Generation 1 data
 
-### rgby_wild.csv
+#### rgby_wild.csv
 
 - **game**
 - **loc**
@@ -65,14 +67,14 @@ For this dataset, think of each row as being an "encounter datapoint", and each 
 
 Encounter rates are handled unusually in Generation 1. Instead of being out of 100, most encounter rates are out of various numbers, the most common one being 256. To preserve accuracy and dodge floating-point rounding errors, the numerator and denominator of an encounter rate are kept separate.
 
-### rgby_casino.csv
+#### rgby_casino.csv
 
 - **game**
 - **species**
 - **level**
 - **cost**
 
-## rgby_special.csv
+#### rgby_special.csv
 
 - **R** (boolean): 1 if the specific special encounter is available in Pokémon Red, 0 if not.
 - **G** (boolean): Same as **R**, but for Pokémon Green in Japan, or Pokémon Blue internationally.
@@ -84,7 +86,7 @@ Encounter rates are handled unusually in Generation 1. Instead of being out of 1
 - **subloc**
 - **how**
 
-## rgby_trade.csv
+#### rgby_trade.csv
 
 - **game**
 - **loc**
@@ -94,9 +96,9 @@ Encounter rates are handled unusually in Generation 1. Instead of being out of 1
 
 Even though this is a Generation 1 table, there is a **held_item** column. According to Bulbapedia, it turns out that there are a few in-game trade Pokémon with peculiar held items (only visible when transferred to Generation 2))—in particular, a Krabby that holds TM13 instead of TM33.
 
-## Generation 2 data
+### Generation 2 data
 
-### gsc_wild.csv
+#### gsc_wild.csv
 
 - **game**
 - **loc**
@@ -121,7 +123,7 @@ In the game's code, the lowest Surfing encounter rate is 10%, but only the *mini
 
 10% × 5% = 0.5%, meaning that the true lowest encounter rate would end up being a floating-point number. To avoid floating-point rounding errors, the "denominator" of every single rate was bumped up from 100 to 1000.
 
-### gsc_bugcatchingcontest.csv
+#### gsc_bugcatchingcontest.csv
 
 - **rate** (integer): The encounter rate as a number out of 100.
 - **species**
@@ -133,7 +135,7 @@ The Bug-Catching Contest encounter data is kept in a separate table for a few co
 1. It's not a swarm. Best not to confuse it with one.
 2. Encounter rates are, thankfully, handled completely differently. Every species has its own rate, and within a species, every level has an equal chance of being chosen. There's no reason to flatten this table to shoehorn it into the `gsc_wild.csv` table.
 
-### gsc_casino.csv
+#### gsc_casino.csv
 
 - **game**
 - **loc**
@@ -143,7 +145,7 @@ The Bug-Catching Contest encounter data is kept in a separate table for a few co
 
 **loc** is included here and not in Generation 1 because in Generation 1, the only Game Corner is the one in Celadon. In Generation 2, there is both the Celadon *and* the Goldenrod Game Corner.
 
-### gsc_special.csv
+#### gsc_special.csv
 
 - **G** (boolean): 1 if the specific special encounter is available in Pokémon Gold, 0 if not.
 - **S** (boolean): Same as **G**, but for Pokémon Silver.
@@ -155,7 +157,7 @@ The Bug-Catching Contest encounter data is kept in a separate table for a few co
 - **subloc**
 - **how**
 
-### gsc_trade.csv
+#### gsc_trade.csv
 
 - **G** (boolean): Same as **G** in `gsc_special.csv`.
 - **S** (boolean): Same as **S** in `gsc_special.csv`.
@@ -166,3 +168,13 @@ The Bug-Catching Contest encounter data is kept in a separate table for a few co
 - **give**
 
 In Generation 1, almost every single game had a different set of in-game trades. In Generation 2, they are instead mostly the same, which is why there is no **game** column here like there is in Generation 1.
+
+## Evolution data
+
+This is all present exclusively in evolution.csv, which can be applied to both Generations.
+
+- **from** (string): The Pokémon that is evolving (i.e. *before* the evolution).
+- **to** (string): The Pokémon that will be evolved into (i.e. *after* the evolution).
+- **method** (string): How does the Pokémon evolve? The overarching method.
+- **condition** (string): The specific criterion within the evolution method, such as a level or item. 
+- **additional** (string): The secondary criterion for triggering this evolution, for example time of day.
