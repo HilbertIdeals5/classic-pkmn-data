@@ -25,6 +25,8 @@ I'm certain there's many things about this dataset to dislike, so hopefully it'l
 
 ## How did you make it?
 
+First, I'd like to say that this project is **proudly AI-free**. No generative AI was used to acquire this data. To use it, especially on a project like this where the data *must* be clean, precise, and reliable, would be a waste of energy, water, and money, as well as an insult to the practice of programming and the human intellect.
+
 I used lots of Python to scrape data from the **pret decomps**. Here's the specific ones I used to get data from:
 
 - Pokémon Red & Green (JP)/Blue (Int.): https://github.com/pret/pokered
