@@ -2044,12 +2044,6 @@ Y,"Route 3",,Walk,Spearow,9,51,256
 Y,"Route 3",,Walk,Spearow,10,25,256
 Y,"Route 3",,Walk,Spearow,11,11,256
 Y,"Route 3",,Walk,Spearow,12,3,256
-B,"Route 4",,"Good Rod",Goldeen,10,1,2
-B,"Route 4",,"Good Rod",Poliwag,10,1,2
-B,"Route 4",,"Old Rod",Magikarp,5,1,1
-B,"Route 4",,"Super Rod",Goldeen,15,1,3
-B,"Route 4",,"Super Rod",Krabby,15,1,3
-B,"Route 4",,"Super Rod",Psyduck,15,1,3
 B,"Route 4",,Walk,Rattata,8,39,256
 B,"Route 4",,Walk,Rattata,10,51,256
 B,"Route 4",,Walk,Rattata,12,13,256
@@ -2060,12 +2054,6 @@ B,"Route 4",,Walk,Sandshrew,12,3,256
 B,"Route 4",,Walk,Spearow,8,25,256
 B,"Route 4",,Walk,Spearow,10,51,256
 B,"Route 4",,Walk,Spearow,12,13,256
-G,"Route 4",,"Good Rod",Goldeen,10,1,2
-G,"Route 4",,"Good Rod",Poliwag,10,1,2
-G,"Route 4",,"Old Rod",Magikarp,5,1,1
-G,"Route 4",,"Super Rod",Goldeen,15,1,3
-G,"Route 4",,"Super Rod",Krabby,15,1,3
-G,"Route 4",,"Super Rod",Psyduck,15,1,3
 G,"Route 4",,Walk,Rattata,8,39,256
 G,"Route 4",,Walk,Rattata,10,51,256
 G,"Route 4",,Walk,Rattata,12,13,256
@@ -2076,12 +2064,6 @@ G,"Route 4",,Walk,Sandshrew,12,3,256
 G,"Route 4",,Walk,Spearow,8,25,256
 G,"Route 4",,Walk,Spearow,10,51,256
 G,"Route 4",,Walk,Spearow,12,13,256
-R,"Route 4",,"Good Rod",Goldeen,10,1,2
-R,"Route 4",,"Good Rod",Poliwag,10,1,2
-R,"Route 4",,"Old Rod",Magikarp,5,1,1
-R,"Route 4",,"Super Rod",Goldeen,15,1,3
-R,"Route 4",,"Super Rod",Krabby,15,1,3
-R,"Route 4",,"Super Rod",Psyduck,15,1,3
 R,"Route 4",,Walk,Ekans,6,25,256
 R,"Route 4",,Walk,Ekans,8,11,256
 R,"Route 4",,Walk,Ekans,10,25,256
@@ -2092,13 +2074,6 @@ R,"Route 4",,Walk,Rattata,12,13,256
 R,"Route 4",,Walk,Spearow,8,25,256
 R,"Route 4",,Walk,Spearow,10,51,256
 R,"Route 4",,Walk,Spearow,12,13,256
-Y,"Route 4",,"Good Rod",Goldeen,10,1,2
-Y,"Route 4",,"Good Rod",Poliwag,10,1,2
-Y,"Route 4",,"Old Rod",Magikarp,5,1,1
-Y,"Route 4",,"Super Rod",Goldeen,20,102,256
-Y,"Route 4",,"Super Rod",Goldeen,25,76,256
-Y,"Route 4",,"Super Rod",Goldeen,30,51,256
-Y,"Route 4",,"Super Rod",Seaking,30,27,256
 Y,"Route 4",,Walk,Mankey,9,39,256
 Y,"Route 4",,Walk,Rattata,10,25,256
 Y,"Route 4",,Walk,Rattata,12,13,256
