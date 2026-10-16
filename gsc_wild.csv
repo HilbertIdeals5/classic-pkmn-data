@@ -21,6 +21,24 @@ S,"Azalea Town",,"Tree (Rare)",,,Beedrill,10,50
 S,"Azalea Town",,"Tree (Rare)",,,Exeggcute,10,150
 S,"Azalea Town",,"Tree (Rare)",,,Pineco,10,300
 S,"Azalea Town",,"Tree (Rare)",,,Weedle,10,500
+C,"Blackthorn City",,"Good Rod",D,,Magikarp,20,350
+C,"Blackthorn City",,"Good Rod",D,,Poliwag,20,650
+C,"Blackthorn City",,"Good Rod",M,,Magikarp,20,350
+C,"Blackthorn City",,"Good Rod",M,,Poliwag,20,650
+C,"Blackthorn City",,"Good Rod",N,,Magikarp,20,350
+C,"Blackthorn City",,"Good Rod",N,,Poliwag,20,650
+C,"Blackthorn City",,"Old Rod",D,,Magikarp,10,850
+C,"Blackthorn City",,"Old Rod",D,,Poliwag,10,150
+C,"Blackthorn City",,"Old Rod",M,,Magikarp,10,850
+C,"Blackthorn City",,"Old Rod",M,,Poliwag,10,150
+C,"Blackthorn City",,"Old Rod",N,,Magikarp,10,850
+C,"Blackthorn City",,"Old Rod",N,,Poliwag,10,150
+C,"Blackthorn City",,"Super Rod",D,,Magikarp,40,200
+C,"Blackthorn City",,"Super Rod",D,,Poliwag,40,800
+C,"Blackthorn City",,"Super Rod",M,,Magikarp,40,200
+C,"Blackthorn City",,"Super Rod",M,,Poliwag,40,800
+C,"Blackthorn City",,"Super Rod",N,,Magikarp,40,200
+C,"Blackthorn City",,"Super Rod",N,,Poliwag,40,800
 C,"Blackthorn City",,Surf,,,Magikarp,5,35
 C,"Blackthorn City",,Surf,,,Magikarp,6,30
 C,"Blackthorn City",,Surf,,,Magikarp,7,20
@@ -36,6 +54,24 @@ C,"Blackthorn City",,Surf,,,Magikarp,16,180
 C,"Blackthorn City",,Surf,,,Magikarp,17,120
 C,"Blackthorn City",,Surf,,,Magikarp,18,60
 C,"Blackthorn City",,Surf,,,Magikarp,19,30
+G,"Blackthorn City",,"Good Rod",D,,Magikarp,20,350
+G,"Blackthorn City",,"Good Rod",D,,Poliwag,20,650
+G,"Blackthorn City",,"Good Rod",M,,Magikarp,20,350
+G,"Blackthorn City",,"Good Rod",M,,Poliwag,20,650
+G,"Blackthorn City",,"Good Rod",N,,Magikarp,20,350
+G,"Blackthorn City",,"Good Rod",N,,Poliwag,20,650
+G,"Blackthorn City",,"Old Rod",D,,Magikarp,10,850
+G,"Blackthorn City",,"Old Rod",D,,Poliwag,10,150
+G,"Blackthorn City",,"Old Rod",M,,Magikarp,10,850
+G,"Blackthorn City",,"Old Rod",M,,Poliwag,10,150
+G,"Blackthorn City",,"Old Rod",N,,Magikarp,10,850
+G,"Blackthorn City",,"Old Rod",N,,Poliwag,10,150
+G,"Blackthorn City",,"Super Rod",D,,Magikarp,40,200
+G,"Blackthorn City",,"Super Rod",D,,Poliwag,40,800
+G,"Blackthorn City",,"Super Rod",M,,Magikarp,40,200
+G,"Blackthorn City",,"Super Rod",M,,Poliwag,40,800
+G,"Blackthorn City",,"Super Rod",N,,Magikarp,40,200
+G,"Blackthorn City",,"Super Rod",N,,Poliwag,40,800
 G,"Blackthorn City",,Surf,,,Magikarp,5,35
 G,"Blackthorn City",,Surf,,,Magikarp,6,30
 G,"Blackthorn City",,Surf,,,Magikarp,7,20
@@ -51,6 +87,24 @@ G,"Blackthorn City",,Surf,,,Magikarp,16,180
 G,"Blackthorn City",,Surf,,,Magikarp,17,120
 G,"Blackthorn City",,Surf,,,Magikarp,18,60
 G,"Blackthorn City",,Surf,,,Magikarp,19,30
+S,"Blackthorn City",,"Good Rod",D,,Magikarp,20,350
+S,"Blackthorn City",,"Good Rod",D,,Poliwag,20,650
+S,"Blackthorn City",,"Good Rod",M,,Magikarp,20,350
+S,"Blackthorn City",,"Good Rod",M,,Poliwag,20,650
+S,"Blackthorn City",,"Good Rod",N,,Magikarp,20,350
+S,"Blackthorn City",,"Good Rod",N,,Poliwag,20,650
+S,"Blackthorn City",,"Old Rod",D,,Magikarp,10,850
+S,"Blackthorn City",,"Old Rod",D,,Poliwag,10,150
+S,"Blackthorn City",,"Old Rod",M,,Magikarp,10,850
+S,"Blackthorn City",,"Old Rod",M,,Poliwag,10,150
+S,"Blackthorn City",,"Old Rod",N,,Magikarp,10,850
+S,"Blackthorn City",,"Old Rod",N,,Poliwag,10,150
+S,"Blackthorn City",,"Super Rod",D,,Magikarp,40,200
+S,"Blackthorn City",,"Super Rod",D,,Poliwag,40,800
+S,"Blackthorn City",,"Super Rod",M,,Magikarp,40,200
+S,"Blackthorn City",,"Super Rod",M,,Poliwag,40,800
+S,"Blackthorn City",,"Super Rod",N,,Magikarp,40,200
+S,"Blackthorn City",,"Super Rod",N,,Poliwag,40,800
 S,"Blackthorn City",,Surf,,,Magikarp,5,35
 S,"Blackthorn City",,Surf,,,Magikarp,6,30
 S,"Blackthorn City",,Surf,,,Magikarp,7,20
@@ -66,60 +120,6 @@ S,"Blackthorn City",,Surf,,,Magikarp,16,180
 S,"Blackthorn City",,Surf,,,Magikarp,17,120
 S,"Blackthorn City",,Surf,,,Magikarp,18,60
 S,"Blackthorn City",,Surf,,,Magikarp,19,30
-C,BlackthornCity,,"Good Rod",D,,Magikarp,20,350
-C,BlackthornCity,,"Good Rod",D,,Poliwag,20,650
-C,BlackthornCity,,"Good Rod",M,,Magikarp,20,350
-C,BlackthornCity,,"Good Rod",M,,Poliwag,20,650
-C,BlackthornCity,,"Good Rod",N,,Magikarp,20,350
-C,BlackthornCity,,"Good Rod",N,,Poliwag,20,650
-C,BlackthornCity,,"Old Rod",D,,Magikarp,10,850
-C,BlackthornCity,,"Old Rod",D,,Poliwag,10,150
-C,BlackthornCity,,"Old Rod",M,,Magikarp,10,850
-C,BlackthornCity,,"Old Rod",M,,Poliwag,10,150
-C,BlackthornCity,,"Old Rod",N,,Magikarp,10,850
-C,BlackthornCity,,"Old Rod",N,,Poliwag,10,150
-C,BlackthornCity,,"Super Rod",D,,Magikarp,40,200
-C,BlackthornCity,,"Super Rod",D,,Poliwag,40,800
-C,BlackthornCity,,"Super Rod",M,,Magikarp,40,200
-C,BlackthornCity,,"Super Rod",M,,Poliwag,40,800
-C,BlackthornCity,,"Super Rod",N,,Magikarp,40,200
-C,BlackthornCity,,"Super Rod",N,,Poliwag,40,800
-G,BlackthornCity,,"Good Rod",D,,Magikarp,20,350
-G,BlackthornCity,,"Good Rod",D,,Poliwag,20,650
-G,BlackthornCity,,"Good Rod",M,,Magikarp,20,350
-G,BlackthornCity,,"Good Rod",M,,Poliwag,20,650
-G,BlackthornCity,,"Good Rod",N,,Magikarp,20,350
-G,BlackthornCity,,"Good Rod",N,,Poliwag,20,650
-G,BlackthornCity,,"Old Rod",D,,Magikarp,10,850
-G,BlackthornCity,,"Old Rod",D,,Poliwag,10,150
-G,BlackthornCity,,"Old Rod",M,,Magikarp,10,850
-G,BlackthornCity,,"Old Rod",M,,Poliwag,10,150
-G,BlackthornCity,,"Old Rod",N,,Magikarp,10,850
-G,BlackthornCity,,"Old Rod",N,,Poliwag,10,150
-G,BlackthornCity,,"Super Rod",D,,Magikarp,40,200
-G,BlackthornCity,,"Super Rod",D,,Poliwag,40,800
-G,BlackthornCity,,"Super Rod",M,,Magikarp,40,200
-G,BlackthornCity,,"Super Rod",M,,Poliwag,40,800
-G,BlackthornCity,,"Super Rod",N,,Magikarp,40,200
-G,BlackthornCity,,"Super Rod",N,,Poliwag,40,800
-S,BlackthornCity,,"Good Rod",D,,Magikarp,20,350
-S,BlackthornCity,,"Good Rod",D,,Poliwag,20,650
-S,BlackthornCity,,"Good Rod",M,,Magikarp,20,350
-S,BlackthornCity,,"Good Rod",M,,Poliwag,20,650
-S,BlackthornCity,,"Good Rod",N,,Magikarp,20,350
-S,BlackthornCity,,"Good Rod",N,,Poliwag,20,650
-S,BlackthornCity,,"Old Rod",D,,Magikarp,10,850
-S,BlackthornCity,,"Old Rod",D,,Poliwag,10,150
-S,BlackthornCity,,"Old Rod",M,,Magikarp,10,850
-S,BlackthornCity,,"Old Rod",M,,Poliwag,10,150
-S,BlackthornCity,,"Old Rod",N,,Magikarp,10,850
-S,BlackthornCity,,"Old Rod",N,,Poliwag,10,150
-S,BlackthornCity,,"Super Rod",D,,Magikarp,40,200
-S,BlackthornCity,,"Super Rod",D,,Poliwag,40,800
-S,BlackthornCity,,"Super Rod",M,,Magikarp,40,200
-S,BlackthornCity,,"Super Rod",M,,Poliwag,40,800
-S,BlackthornCity,,"Super Rod",N,,Magikarp,40,200
-S,BlackthornCity,,"Super Rod",N,,Poliwag,40,800
 C,"Burned Tower",1F,Walk,D,,Koffing,14,300
 C,"Burned Tower",1F,Walk,D,,Raticate,15,50
 C,"Burned Tower",1F,Walk,D,,Rattata,13,300
@@ -4186,6 +4186,30 @@ S,"Route 17",,Walk,N,,Grimer,29,200
 S,"Route 17",,Walk,N,,Muk,30,100
 S,"Route 17",,Walk,N,,Muk,32,50
 S,"Route 17",,Walk,N,,Slugma,29,50
+C,"Route 18",,"Good Rod",D,,Corsola,20,100
+C,"Route 18",,"Good Rod",D,,Krabby,20,550
+C,"Route 18",,"Good Rod",D,,Magikarp,20,350
+C,"Route 18",,"Good Rod",M,,Corsola,20,100
+C,"Route 18",,"Good Rod",M,,Krabby,20,550
+C,"Route 18",,"Good Rod",M,,Magikarp,20,350
+C,"Route 18",,"Good Rod",N,,Krabby,20,550
+C,"Route 18",,"Good Rod",N,,Magikarp,20,350
+C,"Route 18",,"Good Rod",N,,Staryu,20,100
+C,"Route 18",,"Old Rod",D,,Krabby,10,150
+C,"Route 18",,"Old Rod",D,,Magikarp,10,850
+C,"Route 18",,"Old Rod",M,,Krabby,10,150
+C,"Route 18",,"Old Rod",M,,Magikarp,10,850
+C,"Route 18",,"Old Rod",N,,Krabby,10,150
+C,"Route 18",,"Old Rod",N,,Magikarp,10,850
+C,"Route 18",,"Super Rod",D,,Corsola,40,300
+C,"Route 18",,"Super Rod",D,,Kingler,40,100
+C,"Route 18",,"Super Rod",D,,Krabby,40,600
+C,"Route 18",,"Super Rod",M,,Corsola,40,300
+C,"Route 18",,"Super Rod",M,,Kingler,40,100
+C,"Route 18",,"Super Rod",M,,Krabby,40,600
+C,"Route 18",,"Super Rod",N,,Kingler,40,100
+C,"Route 18",,"Super Rod",N,,Krabby,40,600
+C,"Route 18",,"Super Rod",N,,Staryu,40,300
 C,"Route 18",,Walk,D,,Fearow,27,300
 C,"Route 18",,Walk,D,,Fearow,29,100
 C,"Route 18",,Walk,D,,Grimer,26,300
@@ -4202,6 +4226,30 @@ C,"Route 18",,Walk,N,,Grimer,27,300
 C,"Route 18",,Walk,N,,Grimer,28,200
 C,"Route 18",,Walk,N,,Grimer,29,150
 C,"Route 18",,Walk,N,,Muk,30,50
+G,"Route 18",,"Good Rod",D,,Corsola,20,100
+G,"Route 18",,"Good Rod",D,,Krabby,20,550
+G,"Route 18",,"Good Rod",D,,Magikarp,20,350
+G,"Route 18",,"Good Rod",M,,Corsola,20,100
+G,"Route 18",,"Good Rod",M,,Krabby,20,550
+G,"Route 18",,"Good Rod",M,,Magikarp,20,350
+G,"Route 18",,"Good Rod",N,,Krabby,20,550
+G,"Route 18",,"Good Rod",N,,Magikarp,20,350
+G,"Route 18",,"Good Rod",N,,Staryu,20,100
+G,"Route 18",,"Old Rod",D,,Krabby,10,150
+G,"Route 18",,"Old Rod",D,,Magikarp,10,850
+G,"Route 18",,"Old Rod",M,,Krabby,10,150
+G,"Route 18",,"Old Rod",M,,Magikarp,10,850
+G,"Route 18",,"Old Rod",N,,Krabby,10,150
+G,"Route 18",,"Old Rod",N,,Magikarp,10,850
+G,"Route 18",,"Super Rod",D,,Corsola,40,300
+G,"Route 18",,"Super Rod",D,,Kingler,40,100
+G,"Route 18",,"Super Rod",D,,Krabby,40,600
+G,"Route 18",,"Super Rod",M,,Corsola,40,300
+G,"Route 18",,"Super Rod",M,,Kingler,40,100
+G,"Route 18",,"Super Rod",M,,Krabby,40,600
+G,"Route 18",,"Super Rod",N,,Kingler,40,100
+G,"Route 18",,"Super Rod",N,,Krabby,40,600
+G,"Route 18",,"Super Rod",N,,Staryu,40,300
 G,"Route 18",,Walk,D,,Fearow,27,300
 G,"Route 18",,Walk,D,,Fearow,29,100
 G,"Route 18",,Walk,D,,Grimer,26,300
@@ -4220,6 +4268,30 @@ G,"Route 18",,Walk,N,,Grimer,28,200
 G,"Route 18",,Walk,N,,Muk,28,100
 G,"Route 18",,Walk,N,,Muk,30,50
 G,"Route 18",,Walk,N,,Slugma,27,50
+S,"Route 18",,"Good Rod",D,,Corsola,20,100
+S,"Route 18",,"Good Rod",D,,Krabby,20,550
+S,"Route 18",,"Good Rod",D,,Magikarp,20,350
+S,"Route 18",,"Good Rod",M,,Corsola,20,100
+S,"Route 18",,"Good Rod",M,,Krabby,20,550
+S,"Route 18",,"Good Rod",M,,Magikarp,20,350
+S,"Route 18",,"Good Rod",N,,Krabby,20,550
+S,"Route 18",,"Good Rod",N,,Magikarp,20,350
+S,"Route 18",,"Good Rod",N,,Staryu,20,100
+S,"Route 18",,"Old Rod",D,,Krabby,10,150
+S,"Route 18",,"Old Rod",D,,Magikarp,10,850
+S,"Route 18",,"Old Rod",M,,Krabby,10,150
+S,"Route 18",,"Old Rod",M,,Magikarp,10,850
+S,"Route 18",,"Old Rod",N,,Krabby,10,150
+S,"Route 18",,"Old Rod",N,,Magikarp,10,850
+S,"Route 18",,"Super Rod",D,,Corsola,40,300
+S,"Route 18",,"Super Rod",D,,Kingler,40,100
+S,"Route 18",,"Super Rod",D,,Krabby,40,600
+S,"Route 18",,"Super Rod",M,,Corsola,40,300
+S,"Route 18",,"Super Rod",M,,Kingler,40,100
+S,"Route 18",,"Super Rod",M,,Krabby,40,600
+S,"Route 18",,"Super Rod",N,,Kingler,40,100
+S,"Route 18",,"Super Rod",N,,Krabby,40,600
+S,"Route 18",,"Super Rod",N,,Staryu,40,300
 S,"Route 18",,Walk,D,,Fearow,27,300
 S,"Route 18",,Walk,D,,Fearow,29,100
 S,"Route 18",,Walk,D,,Grimer,26,300
@@ -8962,78 +9034,6 @@ S,"Route 9",,Walk,M,,Spearow,15,300
 S,"Route 9",,Walk,N,,Raticate,15,300
 S,"Route 9",,Walk,N,,Rattata,13,400
 S,"Route 9",,Walk,N,,Rattata,15,300
-C,Route18,,"Good Rod",D,,Corsola,20,100
-C,Route18,,"Good Rod",D,,Krabby,20,550
-C,Route18,,"Good Rod",D,,Magikarp,20,350
-C,Route18,,"Good Rod",M,,Corsola,20,100
-C,Route18,,"Good Rod",M,,Krabby,20,550
-C,Route18,,"Good Rod",M,,Magikarp,20,350
-C,Route18,,"Good Rod",N,,Krabby,20,550
-C,Route18,,"Good Rod",N,,Magikarp,20,350
-C,Route18,,"Good Rod",N,,Staryu,20,100
-C,Route18,,"Old Rod",D,,Krabby,10,150
-C,Route18,,"Old Rod",D,,Magikarp,10,850
-C,Route18,,"Old Rod",M,,Krabby,10,150
-C,Route18,,"Old Rod",M,,Magikarp,10,850
-C,Route18,,"Old Rod",N,,Krabby,10,150
-C,Route18,,"Old Rod",N,,Magikarp,10,850
-C,Route18,,"Super Rod",D,,Corsola,40,300
-C,Route18,,"Super Rod",D,,Kingler,40,100
-C,Route18,,"Super Rod",D,,Krabby,40,600
-C,Route18,,"Super Rod",M,,Corsola,40,300
-C,Route18,,"Super Rod",M,,Kingler,40,100
-C,Route18,,"Super Rod",M,,Krabby,40,600
-C,Route18,,"Super Rod",N,,Kingler,40,100
-C,Route18,,"Super Rod",N,,Krabby,40,600
-C,Route18,,"Super Rod",N,,Staryu,40,300
-G,Route18,,"Good Rod",D,,Corsola,20,100
-G,Route18,,"Good Rod",D,,Krabby,20,550
-G,Route18,,"Good Rod",D,,Magikarp,20,350
-G,Route18,,"Good Rod",M,,Corsola,20,100
-G,Route18,,"Good Rod",M,,Krabby,20,550
-G,Route18,,"Good Rod",M,,Magikarp,20,350
-G,Route18,,"Good Rod",N,,Krabby,20,550
-G,Route18,,"Good Rod",N,,Magikarp,20,350
-G,Route18,,"Good Rod",N,,Staryu,20,100
-G,Route18,,"Old Rod",D,,Krabby,10,150
-G,Route18,,"Old Rod",D,,Magikarp,10,850
-G,Route18,,"Old Rod",M,,Krabby,10,150
-G,Route18,,"Old Rod",M,,Magikarp,10,850
-G,Route18,,"Old Rod",N,,Krabby,10,150
-G,Route18,,"Old Rod",N,,Magikarp,10,850
-G,Route18,,"Super Rod",D,,Corsola,40,300
-G,Route18,,"Super Rod",D,,Kingler,40,100
-G,Route18,,"Super Rod",D,,Krabby,40,600
-G,Route18,,"Super Rod",M,,Corsola,40,300
-G,Route18,,"Super Rod",M,,Kingler,40,100
-G,Route18,,"Super Rod",M,,Krabby,40,600
-G,Route18,,"Super Rod",N,,Kingler,40,100
-G,Route18,,"Super Rod",N,,Krabby,40,600
-G,Route18,,"Super Rod",N,,Staryu,40,300
-S,Route18,,"Good Rod",D,,Corsola,20,100
-S,Route18,,"Good Rod",D,,Krabby,20,550
-S,Route18,,"Good Rod",D,,Magikarp,20,350
-S,Route18,,"Good Rod",M,,Corsola,20,100
-S,Route18,,"Good Rod",M,,Krabby,20,550
-S,Route18,,"Good Rod",M,,Magikarp,20,350
-S,Route18,,"Good Rod",N,,Krabby,20,550
-S,Route18,,"Good Rod",N,,Magikarp,20,350
-S,Route18,,"Good Rod",N,,Staryu,20,100
-S,Route18,,"Old Rod",D,,Krabby,10,150
-S,Route18,,"Old Rod",D,,Magikarp,10,850
-S,Route18,,"Old Rod",M,,Krabby,10,150
-S,Route18,,"Old Rod",M,,Magikarp,10,850
-S,Route18,,"Old Rod",N,,Krabby,10,150
-S,Route18,,"Old Rod",N,,Magikarp,10,850
-S,Route18,,"Super Rod",D,,Corsola,40,300
-S,Route18,,"Super Rod",D,,Kingler,40,100
-S,Route18,,"Super Rod",D,,Krabby,40,600
-S,Route18,,"Super Rod",M,,Corsola,40,300
-S,Route18,,"Super Rod",M,,Kingler,40,100
-S,Route18,,"Super Rod",M,,Krabby,40,600
-S,Route18,,"Super Rod",N,,Kingler,40,100
-S,Route18,,"Super Rod",N,,Krabby,40,600
-S,Route18,,"Super Rod",N,,Staryu,40,300
 C,"Ruins of Alph",Inside,Walk,D,,Unown,5,1000
 C,"Ruins of Alph",Inside,Walk,M,,Unown,5,1000
 C,"Ruins of Alph",Inside,Walk,N,,Unown,5,1000
